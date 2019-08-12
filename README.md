@@ -8,7 +8,6 @@ A log processor made in python designed to parse logs and send them to an Influx
 * Add support for files with Unicode
 * Possibly add the ability to pass multiple configuration files
 * Add configuration file instructions 
-* Find a better format for the configuration file (YAML?)
 * Add Docstrings to source code
 * Format code with python black
 * Add Unit Testing
