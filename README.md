@@ -6,5 +6,5 @@ A log processor made in python designed to parse logs and send them to an Influx
 ## Roadmap
 * Add better field data typing
 * Add support for files with unicode
-* Possible add the ability to pass multiple configuration files
+* Possibly add the ability to pass multiple configuration files
 * Add configuration file instructions 
