@@ -3,7 +3,7 @@
 #
 # Made on: 8/6/2019
 # 
-# Last Updated on: 8/8/2019
+# Last Updated on: 8/12/2019
 #
 # A Program to parse logs and uploads the results to a influxdb database.
 #
@@ -33,7 +33,7 @@ from configparser import ConfigParser
 #Global variables parsed from configuration file
 LAST_LINE_FILE = ""
 FILE_NAME = ""
-FILE_EXTENSION = ""
+FILE_EXTENSION = "*"
 PARSING_PATTERN = ""
 TIMESTAMP_PATTERN = "%m/%d/%y %H:%M:%S"
 FIELDS = []
@@ -189,7 +189,6 @@ def findFilePos(fileName):
 def parseConfigFile(configFileLoc):
 	global LAST_LINE_FILE												#The glocal variables for the config file
 	global FILE_NAME
-	global FILE_EXTENSION
 	global PARSING_PATTERN
 	global FIELDS
 	global HOST
@@ -200,23 +199,27 @@ def parseConfigFile(configFileLoc):
 	if(os.path.isfile(configFileLoc)):									#If the file exists, parse the config file
 		config = ConfigParser()											#The variable to hold the results of parsing the config file
 		config.read(configFileLoc)										#Parse the config file
-		LAST_LINE_FILE = config.get('FILES','LastLineFile')						#Get the file path to parse
+		LAST_LINE_FILE = config.get('FILES','LastLineFile')				#Get the file path to parse
 		FILE_NAME = config.get('FILES','Path')								
-		FILE_EXTENSION = config.get('FILES','FileExtension')
+		if(config.has_option('FILES', 'FileExtension')):				#If the user specified a file extension
+			global FILE_EXTENSION
+			FILE_EXTENSION = config.get('FILES','FileExtension')		#Set the file extension
 		PARSING_PATTERN = config.get('PARSER','Pattern')
 		fn = config.get('PARSER','FieldNames')
 		FIELDS = fn.split(',')											#Make it into a list of fields followed by their type
+		
 		n = 0
 		while(n < len(FIELDS)):
 			FIELDS[n] = FIELDS[n].split(':')							#Split each field name and type into a list containing the name and type
 			n += 1
+		
 		HOST = config.get('INFLUXDB','Host')
 		PORT = config.get('INFLUXDB','Port')
 		DATABASE = config.get('INFLUXDB','Database')
 		MEASUREMENT = config.get('INFLUXDB','Measurement')
-		if(config.has_option('PARSER', 'TimestampPattern')):
+		if(config.has_option('PARSER', 'TimestampPattern')):			#If a timestamp pattern is given
 			global TIMESTAMP_PATTERN
-			TIMESTAMP_PATTERN = config.get('PARSER', 'TimestampPattern')
+			TIMESTAMP_PATTERN = config.get('PARSER', 'TimestampPattern')#Set the timestamp pattern
 	else:																#If the config file doesn't exist error out
 		print("Error, can not find configuration file.")
 		exit()
