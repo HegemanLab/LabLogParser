@@ -1,10 +1,26 @@
-Last line parsed file: /home/luke/Documents/001-lentle26/linefile.csv
-Path: /home/luke/ELK-MS/example-logs/hystar-logs/
-File Extension: .log
-Pattern: (?P<time>[0-1][0-9]\/[0-3][0-9]\/[0-9][0-9] [0-2][0-9]:[0-6][0-9]:[0-6][0-9]) (?P<message>.*)$
-FieldNames: time:timestamp,message:field
-Host: localhost
-Port: 8086
-Database: bruker
-Measurement: logs
-timestamp pattern: %m/%d/%y %H:%M:%S
+[FILES]
+LastLineFile = /home/luke/Documents/001-lentle26/linefile.csv
+;The location of the file that will keep track of the last time parsed of each file
+Path = /home/luke/ELK-MS/example-logs/hystar-logs/
+;The file or folder of files to be parsed.  If it ends with a / it will parse the folder
+FileExtension = .log
+;Optional: Only parse files with this extension 
+
+
+[PARSER]
+Pattern = (?P<time>[0-1][0-9]\/[0-3][0-9]\/[0-9][0-9] [0-2][0-9]:[0-6][0-9]:[0-6][0-9]) (?P<message>.*)$
+;The pattern to parse files with. Name all captures. Uses the re python rules for regular expressions.
+;https://docs.python.org/3/library/re.html
+FieldNames = time:timestamp,message:field
+;The name of the fields and the type, separated by a colon
+TimestampPattern = %%m/%%d/%%y %%H:%%M:%%S
+;Optional: The pattern to parse timestamps with.  Uses the datetime python rules for timestamp parsing
+;https://docs.python.org/3/library/datetime.html
+;Percent signs must be escaped with an additional percent sign e.g. %%m
+
+
+[INFLUXDB]
+Host = localhost
+Port = 8086
+Database = bruker
+Measurement = log

@@ -28,13 +28,14 @@ from os.path import isfile, join
 #Library used to include the host name
 import socket
 
+from configparser import ConfigParser
+
 #Global variables parsed from configuration file
 LAST_LINE_FILE = ""
 FILE_NAME = ""
 FILE_EXTENSION = ""
 PARSING_PATTERN = ""
 TIMESTAMP_PATTERN = "%m/%d/%y %H:%M:%S"
-FN = ""
 FIELDS = []
 HOST = ""
 PORT = ""
@@ -51,14 +52,15 @@ MEASUREMENT = ""
 #
 # Prints the parased logs to stdout.  The end goal is sending it to a influxdb database.
 #
-# Uses the sys and listdir libraries
+# Uses the sys, os.path, and listdir libraries
 #
 #******************************************************************************************
 def main():
-	if(len(sys.argv) > 1):												#If the user provided an argument, use that for the config file
-		parseConfigFile(sys.argv[1])
-	else:																#Otherwise, use a configFile in the same directory
+	if(len(sys.argv) == 1):												#If the doesn't provide an argument use a configFile in the same directory
 		parseConfigFile(os.path.join(os.path.dirname(__file__), "configFile"))
+	else:																#Parse the file provided.
+		parseConfigFile(sys.argv[1])
+
 	if(FILE_NAME[len(FILE_NAME)-1] == '/'):								#If the path is a folder instead of a file
 		filesToParse = [f for f in listdir(FILE_NAME) if isfile(join(FILE_NAME, f))]#Get all the files in the folder
 		for files in filesToParse:										#For every file parse it
@@ -181,7 +183,7 @@ def findFilePos(fileName):
 #
 # Uses the global variables LAST_LINE_FILE, FILE_NAME, and pat
 #
-# Uses the library os.path and re
+# Uses the library os.path and ConfigParser
 #
 #******************************************************************************************
 def parseConfigFile(configFileLoc):
@@ -189,35 +191,32 @@ def parseConfigFile(configFileLoc):
 	global FILE_NAME
 	global FILE_EXTENSION
 	global PARSING_PATTERN
-	global FN
 	global FIELDS
-	global MODE
 	global HOST
 	global PORT
 	global DATABASE
 	global MEASUREMENT
-	configPattern = 'Last line parsed file: (.*)\nPath: (.*)\nFile Extension: (.*)\nPattern: (.*)\nFieldNames: (.*)\nHost: (.*)\nPort: (.*)\nDatabase: (.*)\nMeasurement: (.*)(\ntimestamp pattern: (.*))?'
-	#Pattern for parsing the config file
+
 	if(os.path.isfile(configFileLoc)):									#If the file exists, parse the config file
-		configFile = open(configFileLoc)								#Open the config file
-		configs = re.findall(configPattern,configFile.read(),re.MULTILINE)#Parse the config file for the configs
-		LAST_LINE_FILE = configs[0][0]									#The parsed file is saved in the list of list called configs 
-		FILE_NAME = configs[0][1]
-		FILE_EXTENSION = configs[0][2]
-		PARSING_PATTERN = configs[0][3]
-		FN = configs[0][4]												#The list of field names separated by commas
-		FIELDS = FN.split(',')											#Make it into a list of fields followed by their type
+		config = ConfigParser()											#The variable to hold the results of parsing the config file
+		config.read(configFileLoc)										#Parse the config file
+		LAST_LINE_FILE = config.get('FILES','LastLineFile')						#Get the file path to parse
+		FILE_NAME = config.get('FILES','Path')								
+		FILE_EXTENSION = config.get('FILES','FileExtension')
+		PARSING_PATTERN = config.get('PARSER','Pattern')
+		fn = config.get('PARSER','FieldNames')
+		FIELDS = fn.split(',')											#Make it into a list of fields followed by their type
 		n = 0
 		while(n < len(FIELDS)):
 			FIELDS[n] = FIELDS[n].split(':')							#Split each field name and type into a list containing the name and type
 			n += 1
-		HOST = configs[0][5]
-		PORT = configs[0][6]
-		DATABASE = configs[0][7]
-		MEASUREMENT = configs[0][8]
-		if(configs[0][9] != ""):										#If the user included the time stamp pattern thats saved as well
+		HOST = config.get('INFLUXDB','Host')
+		PORT = config.get('INFLUXDB','Port')
+		DATABASE = config.get('INFLUXDB','Database')
+		MEASUREMENT = config.get('INFLUXDB','Measurement')
+		if(config.has_option('PARSER', 'TimestampPattern')):
 			global TIMESTAMP_PATTERN
-			TIMESTAMP_PATTERN = configs[0][10]
+			TIMESTAMP_PATTERN = config.get('PARSER', 'TimestampPattern')
 	else:																#If the config file doesn't exist error out
 		print("Error, can not find configuration file.")
 		exit()
