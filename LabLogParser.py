@@ -63,7 +63,7 @@ def main():
 			influxDBOutput(formatOutput(parseFile(PARSING_PATTERN, str(FILE_NAME+files), findFilePos(str(FILE_NAME+files))),str(FILE_NAME+files)))
 			print(FILE_NAME,files,"parsed.")
 	else:
-		influxDBOutput(formatOutput(parseFile(PARSING_PATTERN, FILE_NAME, findFilePos(FILE_NAME))))
+		influxDBOutput(formatOutput(parseFile(PARSING_PATTERN, FILE_NAME, findFilePos(FILE_NAME)),FILE_NAME))
 
 
 #*** parseFile ***************************************************************************
