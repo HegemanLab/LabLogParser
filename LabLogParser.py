@@ -25,10 +25,12 @@ from datetime import datetime
 from os import listdir
 
 from os.path import isfile, join
+import socket
 
 #Global variables parsed from configuration file
 LAST_LINE_FILE = ""
 FILE_NAME = ""
+FILE_EXTENSION = ""
 PARSING_PATTERN = ""
 TIMESTAMP_PATTERN = "%m/%d/%y %H:%M:%S"
 FN = ""
@@ -59,9 +61,10 @@ def main():
 	if(FILE_NAME[len(FILE_NAME)-1] == '/'):
 		filesToParse = [f for f in listdir(FILE_NAME) if isfile(join(FILE_NAME, f))]
 		for files in filesToParse:
-			print(FILE_NAME,files,"starting...")
-			influxDBOutput(formatOutput(parseFile(PARSING_PATTERN, str(FILE_NAME+files), findFilePos(str(FILE_NAME+files))),str(FILE_NAME+files)))
-			print(FILE_NAME,files,"parsed.")
+			if(files.endswith(FILE_EXTENSION) or FILE_EXTENSION == '*'):
+				print(FILE_NAME,files," starting...", sep="")
+				influxDBOutput(formatOutput(parseFile(PARSING_PATTERN, str(FILE_NAME+files), findFilePos(str(FILE_NAME+files))),str(FILE_NAME+files)))
+				print(FILE_NAME,files," parsed.", sep="")
 	else:
 		influxDBOutput(formatOutput(parseFile(PARSING_PATTERN, FILE_NAME, findFilePos(FILE_NAME)),FILE_NAME))
 
@@ -183,6 +186,7 @@ def findFilePos(fileName):
 def parseConfigFile(configFileLoc):
 	global LAST_LINE_FILE												#The glocal variables for the config file
 	global FILE_NAME
+	global FILE_EXTENSION
 	global PARSING_PATTERN
 	global FN
 	global FIELDS
@@ -191,27 +195,28 @@ def parseConfigFile(configFileLoc):
 	global PORT
 	global DATABASE
 	global MEASUREMENT
-	configPattern = 'Last line parsed file: (.*)\nFile to parse: (.*)\nPattern: (.*)\nFieldNames: (.*)\nHost: (.*)\nPort: (.*)\nDatabase: (.*)\nMeasurement: (.*)(\ntimestamp pattern: (.*))?'
+	configPattern = 'Last line parsed file: (.*)\nPath: (.*)\nFile Extension: (.*)\nPattern: (.*)\nFieldNames: (.*)\nHost: (.*)\nPort: (.*)\nDatabase: (.*)\nMeasurement: (.*)(\ntimestamp pattern: (.*))?'
 	#Pattern for parsing the config file
 	if(os.path.isfile(configFileLoc)):									#If the file exists, parse the config file
 		configFile = open(configFileLoc)								#Open the config file
 		configs = re.findall(configPattern,configFile.read(),re.MULTILINE)#Parse the config file for the configs
 		LAST_LINE_FILE = configs[0][0]									#The parsed file is saved in the list of list called configs 
 		FILE_NAME = configs[0][1]
-		PARSING_PATTERN = configs[0][2]
-		FN = configs[0][3]												#The list of field names separated by commas
+		FILE_EXTENSION = configs[0][2]
+		PARSING_PATTERN = configs[0][3]
+		FN = configs[0][4]												#The list of field names separated by commas
 		FIELDS = FN.split(',')											#Make it into a list of fields followed by their type
 		n = 0
 		while(n < len(FIELDS)):
 			FIELDS[n] = FIELDS[n].split(':')							#Split each field name and type into a list containing the name and type
 			n += 1
-		HOST = configs[0][4]
-		PORT = configs[0][5]
-		DATABASE = configs[0][6]
-		MEASUREMENT = configs[0][7]
-		if(configs[0][8] != ""):										#If the user included the time stamp pattern thats saved as well
+		HOST = configs[0][5]
+		PORT = configs[0][6]
+		DATABASE = configs[0][7]
+		MEASUREMENT = configs[0][8]
+		if(configs[0][9] != ""):										#If the user included the time stamp pattern thats saved as well
 			global TIMESTAMP_PATTERN
-			TIMESTAMP_PATTERN = configs[0][9]
+			TIMESTAMP_PATTERN = configs[0][10]
 	else:																#If the config file doesn't exist error out
 		print("Error, can not find configuration file.")
 		exit()
@@ -245,6 +250,7 @@ def formatOutput(parsedLogs, path):
 				fields.update({FIELDS[n][0]:logs[n]})					#Add the field name and the value to the dictionary
 			n += 1
 		tags.update({"path":path})										#Add the tag name and the value to the tag dictionary
+		tags.update({"host":socket.gethostname()})
 		log.update({"fields":fields})									#Add the field dictionary to the log dictionary
 		log.update({"tags":tags})										#Add the field dictionary to the log dictionary
 		formattedLogs.append(log)										#Add the log dictionary to the list

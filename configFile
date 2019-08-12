@@ -1,5 +1,6 @@
 Last line parsed file: /home/luke/Documents/001-lentle26/linefile.csv
-File to parse: /home/luke/ELK-MS/example-logs/hystar-logs/HyStarErrLogbook.log
+Path: /home/luke/ELK-MS/example-logs/hystar-logs/
+File Extension: .log
 Pattern: (?P<time>[0-1][0-9]\/[0-3][0-9]\/[0-9][0-9] [0-2][0-9]:[0-6][0-9]:[0-6][0-9]) (?P<message>.*)$
 FieldNames: time:timestamp,message:field
 Host: localhost
