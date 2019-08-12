@@ -21,10 +21,11 @@ import sys
 from influxdb import InfluxDBClient
 #Used for converting string to timestamp
 from datetime import datetime
-
+#Used to get all the files in a directory
 from os import listdir
 
 from os.path import isfile, join
+#Library used to include the host name
 import socket
 
 #Global variables parsed from configuration file
@@ -50,7 +51,7 @@ MEASUREMENT = ""
 #
 # Prints the parased logs to stdout.  The end goal is sending it to a influxdb database.
 #
-# Uses the sys library
+# Uses the sys and listdir libraries
 #
 #******************************************************************************************
 def main():
@@ -58,10 +59,10 @@ def main():
 		parseConfigFile(sys.argv[1])
 	else:																#Otherwise, use a configFile in the same directory
 		parseConfigFile(os.path.join(os.path.dirname(__file__), "configFile"))
-	if(FILE_NAME[len(FILE_NAME)-1] == '/'):
-		filesToParse = [f for f in listdir(FILE_NAME) if isfile(join(FILE_NAME, f))]
-		for files in filesToParse:
-			if(files.endswith(FILE_EXTENSION) or FILE_EXTENSION == '*'):
+	if(FILE_NAME[len(FILE_NAME)-1] == '/'):								#If the path is a folder instead of a file
+		filesToParse = [f for f in listdir(FILE_NAME) if isfile(join(FILE_NAME, f))]#Get all the files in the folder
+		for files in filesToParse:										#For every file parse it
+			if(files.endswith(FILE_EXTENSION) or FILE_EXTENSION == '*'):#Only parse if it's the specified file extension or the *, which is all extensions
 				print(FILE_NAME,files," starting...", sep="")
 				influxDBOutput(formatOutput(parseFile(PARSING_PATTERN, str(FILE_NAME+files), findFilePos(str(FILE_NAME+files))),str(FILE_NAME+files)))
 				print(FILE_NAME,files," parsed.", sep="")
@@ -85,7 +86,7 @@ def parseFile(pattern, fileName, line):
 	parsedLogs = []														#Create a empty list to hold the parsed logs
 	for i in range(line):												#Ignore the first (line) lines of the file
 		next(dataFile, None)
-	parsedLogs = re.findall(pattern,dataFile.read(),re.UNICODE | re.MULTILINE)		#Parse the rest of the file
+	parsedLogs = re.findall(pattern,dataFile.read(),re.UNICODE | re.MULTILINE)#Parse the rest of the file
 	filePosUpdate(fileName, file_len(fileName))							#call a function that will adjust the line on the current file.
 	dataFile.close()
 	return parsedLogs
@@ -227,6 +228,8 @@ def parseConfigFile(configFileLoc):
 # The function receives a list of lists containing the parsedLogs
 #
 # The function returns a list of dictionaries, each containing the measurement and a dictionary of fields
+#
+# Uses the library socket and datetime
 #******************************************************************************************
 def formatOutput(parsedLogs, path):
 	formattedLogs = []
@@ -249,10 +252,10 @@ def formatOutput(parsedLogs, path):
 			elif(FIELDS[n][1] != "drop"):
 				fields.update({FIELDS[n][0]:logs[n]})					#Add the field name and the value to the dictionary
 			n += 1
-		tags.update({"path":path})										#Add the tag name and the value to the tag dictionary
-		tags.update({"host":socket.gethostname()})
+		tags.update({"path":path})										#Add the path to the tag dictionary
+		tags.update({"host":socket.gethostname()})						#Add the host to the tag dictionary
 		log.update({"fields":fields})									#Add the field dictionary to the log dictionary
-		log.update({"tags":tags})										#Add the field dictionary to the log dictionary
+		log.update({"tags":tags})										#Add the tags dictionary to the log dictionary
 		formattedLogs.append(log)										#Add the log dictionary to the list
 	return formattedLogs
 
