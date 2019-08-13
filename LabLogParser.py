@@ -71,7 +71,7 @@ def main():
 # to output the result to influxdb with the results of the formatOutput function which is called
 # pattern to parse the file to parse and the last line parsed from the line file.
 #
-# Prints the parased logs to stdout.  The end goal is sending it to a influxdb database.
+# Prints the parsed logs to stdout.  The end goal is sending it to a influxdb database.
 #
 # Uses the os.path, and listdir libraries
 #
@@ -91,7 +91,7 @@ def fileSelector():
 #*** parseFile ***************************************************************************
 # A function that parses a given file with a given pattern, staring at a given line
 # 
-# Recieves a pattern to parse the file with, the name of the file to parse,
+# Receives a pattern to parse the file with, the name of the file to parse,
 # and the line to start parsing the file at.
 #
 # Returns a list of lists containing the parsed logs and their individual fields
@@ -113,7 +113,7 @@ def parseFile(pattern, fileName, line):
 #*** file_len ****************************************************************************
 # A function that calculates the length of a file
 # 
-# Recieves a file name
+# Receives a file name
 #
 # Returns a file length
 #
@@ -130,7 +130,7 @@ def file_len(fname):
 #*** filePosUpdate ***********************************************************************
 # A function that updates the last parsed line of the various files in a file
 # 
-# Recieves the file name the entry that needs to be updated and the last line parsed.
+# Receives the file name the entry that needs to be updated and the last line parsed.
 # It also uses the global variable, lineFile, which is the file where last line parsed is recorded.
 #
 # Uses the library os.path
@@ -165,7 +165,7 @@ def filePosUpdate(fileName, newLine):
 #*** findFilePos *************************************************************************
 # A function that takes a file name and determines where the parser left off last time
 # 
-# Recieves the file name to look for
+# Receives the file name to look for
 #
 # Returns the line that it left off on, or 0 if the fileName didn't exist
 #
@@ -193,9 +193,9 @@ def findFilePos(fileName):
 
 #*** parseConfigFile **********************************************************************
 # A function parses the contents of a config file for last line parsed file, the file to parse,
-# and the patten to parse the file with.
+# and the pattern to parse the file with.
 #
-# Recieves the config file name
+# Receives the config file name
 #
 # Uses the global variables LAST_LINE_FILE, FILE_NAME, and pat
 #
