@@ -88,11 +88,12 @@ def parseFile(pattern, fileName, line):
 	parsedLogs = []														#Create a empty list to hold the parsed logs
 	for i in range(line):												#Ignore the first (line) lines of the file
 		next(dataFile, None)
-	parsedLogs = re.findall(pattern,dataFile.read(),re.UNICODE | re.MULTILINE)#Parse the rest of the file
+	r = re.compile(pattern)
+	parsedLogs = [m.groupdict() for m in re.finditer(pattern,dataFile.read(),re.UNICODE | re.MULTILINE)]
+	print(parsedLogs)
 	filePosUpdate(fileName, file_len(fileName))							#call a function that will adjust the line on the current file.
 	dataFile.close()
 	return parsedLogs
-
 
 #*** file_len ****************************************************************************
 # A function that calculates the length of a file
@@ -240,20 +241,21 @@ def formatOutput(parsedLogs, path):
 		log.update({"measurement":MEASUREMENT})							#Add the measurement to the dictionary
 		fields = {}														#Create a dictionary for the fields
 		tags = {}
-		n = 0															#Counter
-		while(n < len(logs)):											#For each capture in the log
-			if(FIELDS[n][1] == "tag"):
-				tags.update({FIELDS[n][0]:logs[n]})						#Add the tag name and the value to the tag dictionary
-			elif(FIELDS[n][1] == "int"):
-				tags.update({FIELDS[n][0]:str(logs[n]+'i')})			#Add the field name and the value to the field dictionary, append an i at the end to make it an int
-			elif(FIELDS[n][1] == "float"):
-				tags.update({FIELDS[n][0]:float(logs[n])})				#Add the field name and the value to the dictionary, type cast it as a float to make it a float
-			elif(FIELDS[n][1] == "timestamp"):
-				timestamp = datetime.strptime(logs[n], TIMESTAMP_PATTERN)#Convert the string to a timestamp based on the timestamp pattern given
+		for key in logs.keys():
+			dataType = dataTyper(key)
+			if(dataType == "tag"):
+				tags.update({key:logs[key]})						#Add the tag name and the value to the tag dictionary
+			elif(dataType == "int"):
+				tags.update({key:str(logs[key]+'i')})			#Add the field name and the value to the field dictionary, append an i at the end to make it an int
+			elif(dataType == "float"):
+				tags.update({key:float(logs[key])})				#Add the field name and the value to the dictionary, type cast it as a float to make it a float
+			elif(dataType == "timestamp"):
+				timestamp = datetime.strptime(logs[key], TIMESTAMP_PATTERN)#Convert the string to a timestamp based on the timestamp pattern given
 				log.update({"time":timestamp.strftime("%Y-%m-%dT%H:%M:%SZ")})#Add the timestamp to the log dictionary
-			elif(FIELDS[n][1] != "drop"):
-				fields.update({FIELDS[n][0]:logs[n]})					#Add the field name and the value to the dictionary
-			n += 1
+			elif(dataType != "drop"):
+				fields.update({key:logs[key]})					#Add the field name and the value to the dictionary
+
+		
 		tags.update({"path":path})										#Add the path to the tag dictionary
 		tags.update({"host":socket.gethostname()})						#Add the host to the tag dictionary
 		log.update({"fields":fields})									#Add the field dictionary to the log dictionary
@@ -262,6 +264,11 @@ def formatOutput(parsedLogs, path):
 	return formattedLogs
 
 
+def dataTyper(key):
+	for field in FIELDS:
+		if(field[0] == key):
+			return field[1]
+	return "null"
 #*** influxDBOutput ***********************************************************************
 # A function that output the parsed logs to an influxDB database
 #
@@ -273,7 +280,7 @@ def influxDBOutput(formattedLogs):
 	client = InfluxDBClient(host=HOST, port=PORT)						#Connect to the influxdb database located at the location provided by the config file
 	client.create_database(DATABASE)									#Create the database, if it already exists nothing happens
 	client.switch_database(DATABASE)									#Switch to the database
-	client.write_points(formattedLogs,batch_size=1)						#Write the dictionaries one at a time to the database
+	client.write_points(formattedLogs,batch_size=5000)						#Write the dictionaries one at a time to the database
 
 
 print("starting...")

@@ -8,10 +8,10 @@ FileExtension = .log
 
 
 [PARSER]
-Pattern = (?P<time>[0-1][0-9]\/[0-3][0-9]\/[0-9][0-9] [0-2][0-9]:[0-6][0-9]:[0-6][0-9]) (?P<message>.*)$
+Pattern = (?P<time>[0-1][0-9]\/[0-3][0-9]\/[0-9][0-9] [0-2][0-9]:[0-6][0-9]:[0-6][0-9]) (?P<message>[\w\s.!:>'.,()\\-]*( Error #(?P<ErrorCode>\d+) )?[\w\s.!:<>'.,()\\-]*)\n
 ;The pattern to parse files with. Name all captures. Uses the re python rules for regular expressions.
 ;https://docs.python.org/3/library/re.html
-FieldNames = time:timestamp,message:field
+FieldNames = time:timestamp,message:field,ErrorCode:tag
 ;The name of the fields and the type, separated by a colon
 TimestampPattern = %%m/%%d/%%y %%H:%%M:%%S
 ;Optional: The pattern to parse timestamps with.  Uses the datetime python rules for timestamp parsing
@@ -23,4 +23,4 @@ TimestampPattern = %%m/%%d/%%y %%H:%%M:%%S
 Host = localhost
 Port = 8086
 Database = bruker
-Measurement = log
+Measurement = logs
