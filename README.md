@@ -5,7 +5,7 @@ A log processor made in python designed to parse logs and send them to an Influx
 * Python3
 ## Roadmap
 * Add support for files with Unicode
-* Add configuration file instructions 
+* Add configuration file instruction page in github
 * Add Docstrings to source code
 * Format code with python black
 * Add Unit Testing
