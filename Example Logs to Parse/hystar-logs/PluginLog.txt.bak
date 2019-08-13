@@ -1,0 +1,1049 @@
+10/05/18 20:39:19 15727 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 20:39:19 15727 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 20:39:19 15727 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 20:39:19 15727 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 20:39:19 15727 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 20:39:19 15758 ++ Close     PluginControlCtrl: this = 071F2BC0   parent = 015C26C4
+10/05/18 20:39:20 15387 Method-Call    : StopSystem                                 Parent=04867178
+10/05/18 20:39:20 15387    StopSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 20:39:22   626 Method-Call    : LoadSampleData                             Parent=04867178
+10/05/18 20:39:22   626    LoadSampleData: Dionex System	SYSTEM1	PUMP	PLUGIN Runtime: 0 return 0
+10/05/18 20:39:25  3652 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+10/05/18 20:39:25  3652    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 20:39:26  5056 Method-Call    : StartSystem                                Parent=04867178
+10/05/18 20:39:26  5056    StartSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 20:39:29  8083 Method-Call    : StartInjection                             Parent=04867178
+10/05/18 20:39:29  8083    StartInjection: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 20:40:09 14908 DoSaveSpectra: Position (Index) 1 
+10/05/18 20:40:09 14908 Method-Call    : StartAcq                                   Parent=04867178
+10/05/18 20:40:09 14908    StartAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 20:40:09 14908 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+10/05/18 20:40:09 14908    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 20:55:25 14081 Method-Call    : StopAcq                                    Parent=04867178
+10/05/18 20:55:25 14081    StopAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 20:55:28 16327 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+10/05/18 20:55:28 16327    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 20:55:28  2061 ++ OnCreate new PluginControlCtrl: this = 071F2BC0   parent = 015C2718
+10/05/18 20:55:28  2061 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 20:55:28  2061 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 20:55:28  2061 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 20:55:28  2061 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 20:55:28  2061 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 20:55:28  2093 ++ Close     PluginControlCtrl: this = 071F2BC0   parent = 015C2718
+10/05/18 20:55:29  1737 Method-Call    : StopSystem                                 Parent=04867178
+10/05/18 20:55:29  1737    StopSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 20:55:31  3344 Method-Call    : LoadSampleData                             Parent=04867178
+10/05/18 20:55:31  3344    LoadSampleData: Dionex System	SYSTEM1	PUMP	PLUGIN Runtime: 0 return 0
+10/05/18 20:55:34  6371 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+10/05/18 20:55:34  6371    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 20:55:36  7790 Method-Call    : StartSystem                                Parent=04867178
+10/05/18 20:55:36  7790    StartSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 20:55:39 10817 Method-Call    : StartInjection                             Parent=04867178
+10/05/18 20:55:39 10817    StartInjection: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 20:56:19  1929 DoSaveSpectra: Position (Index) 1 
+10/05/18 20:56:19  1929 Method-Call    : StartAcq                                   Parent=04867178
+10/05/18 20:56:19  1929    StartAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 20:56:19  1929 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+10/05/18 20:56:19  1929    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 21:11:36  1445 Method-Call    : StopAcq                                    Parent=04867178
+10/05/18 21:11:36  1445    StopAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 21:11:38  3707 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+10/05/18 21:11:38  3707    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 21:11:38  5841 ++ OnCreate new PluginControlCtrl: this = 071F2BC0   parent = 015C276C
+10/05/18 21:11:38  5841 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 21:11:38  5841 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 21:11:38  5841 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 21:11:38  5841 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 21:11:38  5841 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 21:11:38  5872 ++ Close     PluginControlCtrl: this = 071F2BC0   parent = 015C276C
+10/05/18 21:11:40  5486 Method-Call    : StopSystem                                 Parent=04867178
+10/05/18 21:11:40  5486    StopSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 21:11:41  7108 Method-Call    : LoadSampleData                             Parent=04867178
+10/05/18 21:11:41  7108    LoadSampleData: Dionex System	SYSTEM1	PUMP	PLUGIN Runtime: 0 return 0
+10/05/18 21:11:45 10135 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+10/05/18 21:11:45 10135    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 21:11:46 11539 Method-Call    : StartSystem                                Parent=04867178
+10/05/18 21:11:46 11539    StartSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 21:11:49 14565 Method-Call    : StartInjection                             Parent=04867178
+10/05/18 21:11:49 14565    StartInjection: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 21:12:29  5568 DoSaveSpectra: Position (Index) 1 
+10/05/18 21:12:29  5568 Method-Call    : StartAcq                                   Parent=04867178
+10/05/18 21:12:29  5568    StartAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 21:12:29  5568 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+10/05/18 21:12:29  5568    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 21:27:45  4164 Method-Call    : StopAcq                                    Parent=04867178
+10/05/18 21:27:45  4164    StopAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 21:27:47  6410 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+10/05/18 21:27:47  6410    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 21:27:48  8513 ++ OnCreate new PluginControlCtrl: this = 071F2BC0   parent = 015C27C0
+10/05/18 21:27:48  8528 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 21:27:48  8528 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 21:27:48  8528 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 21:27:48  8528 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 21:27:48  8528 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 21:27:48  8544 ++ Close     PluginControlCtrl: this = 071F2BC0   parent = 015C27C0
+10/05/18 21:27:49  8204 Method-Call    : StopSystem                                 Parent=04867178
+10/05/18 21:27:49  8204    StopSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 21:27:51  9811 Method-Call    : LoadSampleData                             Parent=04867178
+10/05/18 21:27:51  9811    LoadSampleData: Dionex System	SYSTEM1	PUMP	PLUGIN Runtime: 0 return 0
+10/05/18 21:27:54 12838 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+10/05/18 21:27:54 12838    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 21:27:55 14257 Method-Call    : StartSystem                                Parent=04867178
+10/05/18 21:27:55 14257    StartSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 21:27:58   915 Method-Call    : StartInjection                             Parent=04867178
+10/05/18 21:27:58   915    StartInjection: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 21:28:38  7896 DoSaveSpectra: Position (Index) 1 
+10/05/18 21:28:38  7896 Method-Call    : StartAcq                                   Parent=04867178
+10/05/18 21:28:38  7896    StartAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 21:28:38  7896 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+10/05/18 21:28:38  7896    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 21:43:55  6914 Method-Call    : StopAcq                                    Parent=04867178
+10/05/18 21:43:55  6914    StopAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 21:43:57  9176 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+10/05/18 21:43:57  9176    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 21:43:57 11294 ++ OnCreate new PluginControlCtrl: this = 071F2BC0   parent = 015C2814
+10/05/18 21:43:57 11294 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 21:43:57 11294 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 21:43:57 11294 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 21:43:57 11294 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 21:43:57 11294 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 21:43:57 11325 ++ Close     PluginControlCtrl: this = 071F2BC0   parent = 015C2814
+10/05/18 21:43:59 10939 Method-Call    : StopSystem                                 Parent=04867178
+10/05/18 21:43:59 10939    StopSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 21:44:00 12561 Method-Call    : LoadSampleData                             Parent=04867178
+10/05/18 21:44:00 12561    LoadSampleData: Dionex System	SYSTEM1	PUMP	PLUGIN Runtime: 0 return 0
+10/05/18 21:44:03 15587 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+10/05/18 21:44:03 15587    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 21:44:05   607 Method-Call    : StartSystem                                Parent=04867178
+10/05/18 21:44:05   607    StartSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 21:44:08  3634 Method-Call    : StartInjection                             Parent=04867178
+10/05/18 21:44:08  3634    StartInjection: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 21:44:49 11847 DoSaveSpectra: Position (Index) 1 
+10/05/18 21:44:49 11847 Method-Call    : StartAcq                                   Parent=04867178
+10/05/18 21:44:49 11847    StartAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 21:44:49 11847 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+10/05/18 21:44:49 11847    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 22:00:05 10646 Method-Call    : StopAcq                                    Parent=04867178
+10/05/18 22:00:05 10662    StopAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 22:00:07 12908 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+10/05/18 22:00:07 12908    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 22:00:08 15026 ++ OnCreate new PluginControlCtrl: this = 071F2BC0   parent = 015C2868
+10/05/18 22:00:08 15026 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 22:00:08 15026 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 22:00:08 15026 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 22:00:08 15026 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 22:00:08 15026 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 22:00:08 15058 ++ Close     PluginControlCtrl: this = 071F2BC0   parent = 015C2868
+10/05/18 22:00:09 14687 Method-Call    : StopSystem                                 Parent=04867178
+10/05/18 22:00:09 14687    StopSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 22:00:11 16309 Method-Call    : LoadSampleData                             Parent=04867178
+10/05/18 22:00:11 16309    LoadSampleData: Dionex System	SYSTEM1	PUMP	PLUGIN Runtime: 0 return 0
+10/05/18 22:00:14  2952 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+10/05/18 22:00:14  2952    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 22:00:15  4356 Method-Call    : StartSystem                                Parent=04867178
+10/05/18 22:00:15  4356    StartSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 22:00:18  7382 Method-Call    : StartInjection                             Parent=04867178
+10/05/18 22:00:18  7382    StartInjection: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 22:00:58 14082 DoSaveSpectra: Position (Index) 1 
+10/05/18 22:00:58 14082 Method-Call    : StartAcq                                   Parent=04867178
+10/05/18 22:00:58 14082    StartAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 22:00:58 14082 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+10/05/18 22:00:58 14082    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 22:16:14 13365 Method-Call    : StopAcq                                    Parent=04867178
+10/05/18 22:16:14 13365    StopAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 22:16:17 15627 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+10/05/18 22:16:17 15627    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 22:16:17  1361 ++ OnCreate new PluginControlCtrl: this = 071F2BC0   parent = 015C28BC
+10/05/18 22:16:17  1361 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 22:16:17  1361 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 22:16:17  1361 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 22:16:17  1361 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 22:16:17  1361 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 22:16:17  1392 ++ Close     PluginControlCtrl: this = 071F2BC0   parent = 015C28BC
+10/05/18 22:16:18  1021 Method-Call    : StopSystem                                 Parent=04867178
+10/05/18 22:16:18  1021    StopSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 22:16:20  2628 Method-Call    : LoadSampleData                             Parent=04867178
+10/05/18 22:16:20  2628    LoadSampleData: Dionex System	SYSTEM1	PUMP	PLUGIN Runtime: 0 return 0
+10/05/18 22:16:23  5655 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+10/05/18 22:16:23  5655    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 22:16:24  7074 Method-Call    : StartSystem                                Parent=04867178
+10/05/18 22:16:24  7074    StartSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 22:16:27 10101 Method-Call    : StartInjection                             Parent=04867178
+10/05/18 22:16:27 10101    StartInjection: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 22:17:08  1930 DoSaveSpectra: Position (Index) 1 
+10/05/18 22:17:08  1930 Method-Call    : StartAcq                                   Parent=04867178
+10/05/18 22:17:08  1930    StartAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 22:17:08  1930 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+10/05/18 22:17:08  1930    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 22:32:25   729 Method-Call    : StopAcq                                    Parent=04867178
+10/05/18 22:32:25   729    StopAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 22:32:27  2976 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+10/05/18 22:32:27  2976    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 22:32:27  5094 ++ OnCreate new PluginControlCtrl: this = 071F2BC0   parent = 015C2910
+10/05/18 22:32:27  5109 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 22:32:27  5109 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 22:32:27  5109 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 22:32:27  5109 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 22:32:27  5109 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 22:32:27  5140 ++ Close     PluginControlCtrl: this = 071F2BC0   parent = 015C2910
+10/05/18 22:32:29  4770 Method-Call    : StopSystem                                 Parent=04867178
+10/05/18 22:32:29  4770    StopSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 22:32:30  6392 Method-Call    : LoadSampleData                             Parent=04867178
+10/05/18 22:32:30  6392    LoadSampleData: Dionex System	SYSTEM1	PUMP	PLUGIN Runtime: 0 return 0
+10/05/18 22:32:33  9418 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+10/05/18 22:32:33  9418    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 22:32:35 10822 Method-Call    : StartSystem                                Parent=04867178
+10/05/18 22:32:35 10822    StartSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 22:32:38 13849 Method-Call    : StartInjection                             Parent=04867178
+10/05/18 22:32:38 13849    StartInjection: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 22:33:18  5008 DoSaveSpectra: Position (Index) 1 
+10/05/18 22:33:18  5008 Method-Call    : StartAcq                                   Parent=04867178
+10/05/18 22:33:18  5008    StartAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 22:33:18  5008 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+10/05/18 22:33:18  5008    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 22:48:35  4477 Method-Call    : StopAcq                                    Parent=04867178
+10/05/18 22:48:35  4477    StopAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 22:48:37  6724 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+10/05/18 22:48:37  6724    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 22:48:38  8842 ++ OnCreate new PluginControlCtrl: this = 071F2BC0   parent = 015C2964
+10/05/18 22:48:38  8842 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 22:48:38  8842 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 22:48:38  8857 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 22:48:38  8857 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 22:48:38  8857 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 22:48:38  8873 ++ Close     PluginControlCtrl: this = 071F2BC0   parent = 015C2964
+10/05/18 22:48:39  8518 Method-Call    : StopSystem                                 Parent=04867178
+10/05/18 22:48:39  8518    StopSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 22:48:41 10125 Method-Call    : LoadSampleData                             Parent=04867178
+10/05/18 22:48:41 10125    LoadSampleData: Dionex System	SYSTEM1	PUMP	PLUGIN Runtime: 0 return 0
+10/05/18 22:48:44 13151 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+10/05/18 22:48:44 13151    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 22:48:45 14571 Method-Call    : StartSystem                                Parent=04867178
+10/05/18 22:48:45 14571    StartSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 22:48:48  1213 Method-Call    : StartInjection                             Parent=04867178
+10/05/18 22:48:48  1213    StartInjection: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 22:49:29  8756 DoSaveSpectra: Position (Index) 1 
+10/05/18 22:49:29  8756 Method-Call    : StartAcq                                   Parent=04867178
+10/05/18 22:49:29  8756    StartAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 22:49:29  8756 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+10/05/18 22:49:29  8756    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 23:04:46  8226 Method-Call    : StopAcq                                    Parent=04867178
+10/05/18 23:04:46  8226    StopAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 23:04:48 10472 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+10/05/18 23:04:48 10472    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 23:04:48 12590 ++ OnCreate new PluginControlCtrl: this = 07226A88   parent = 015C29B8
+10/05/18 23:04:48 12590 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 23:04:48 12590 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 23:04:48 12590 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 23:04:48 12590 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 23:04:48 12590 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 23:04:48 12621 ++ Close     PluginControlCtrl: this = 07226A88   parent = 015C29B8
+10/05/18 23:04:50 12266 Method-Call    : StopSystem                                 Parent=04867178
+10/05/18 23:04:50 12266    StopSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 23:04:51 13888 Method-Call    : LoadSampleData                             Parent=04867178
+10/05/18 23:04:51 13888    LoadSampleData: Dionex System	SYSTEM1	PUMP	PLUGIN Runtime: 0 return 0
+10/05/18 23:04:54   531 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+10/05/18 23:04:54   531    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 23:04:56  1935 Method-Call    : StartSystem                                Parent=04867178
+10/05/18 23:04:56  1935    StartSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 23:04:59  4961 Method-Call    : StartInjection                             Parent=04867178
+10/05/18 23:04:59  4961    StartInjection: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 23:05:39 12473 DoSaveSpectra: Position (Index) 1 
+10/05/18 23:05:39 12473 Method-Call    : StartAcq                                   Parent=04867178
+10/05/18 23:05:39 12473    StartAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 23:05:39 12473 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+10/05/18 23:05:39 12473    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 23:20:56 11958 Method-Call    : StopAcq                                    Parent=04867178
+10/05/18 23:20:56 11958    StopAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 23:20:58 14220 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+10/05/18 23:20:58 14220    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 23:20:59 16323 ++ OnCreate new PluginControlCtrl: this = 01651258   parent = 015C2A0C
+10/05/18 23:20:59 16323 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 23:20:59 16323 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 23:20:59 16323 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 23:20:59 16323 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 23:20:59 16323 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 23:20:59 16354 ++ Close     PluginControlCtrl: this = 01651258   parent = 015C2A0C
+10/05/18 23:21:00 15999 Method-Call    : StopSystem                                 Parent=04867178
+10/05/18 23:21:00 15999    StopSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 23:21:02  1253 Method-Call    : LoadSampleData                             Parent=04867178
+10/05/18 23:21:02  1253    LoadSampleData: Dionex System	SYSTEM1	PUMP	PLUGIN Runtime: 0 return 0
+10/05/18 23:21:05  4279 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+10/05/18 23:21:05  4279    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 23:21:06  5667 Method-Call    : StartSystem                                Parent=04867178
+10/05/18 23:21:06  5667    StartSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 23:21:09  8694 Method-Call    : StartInjection                             Parent=04867178
+10/05/18 23:21:09  8694    StartInjection: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 23:21:49 15394 DoSaveSpectra: Position (Index) 1 
+10/05/18 23:21:49 15394 Method-Call    : StartAcq                                   Parent=04867178
+10/05/18 23:21:49 15394    StartAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 23:21:49 15394 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+10/05/18 23:21:49 15394    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 23:37:05 14692 Method-Call    : StopAcq                                    Parent=04867178
+10/05/18 23:37:05 14692    StopAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 23:37:08   555 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+10/05/18 23:37:08   570    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 23:37:08  2673 ++ OnCreate new PluginControlCtrl: this = 01651258   parent = 015C2A60
+10/05/18 23:37:08  2688 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 23:37:08  2688 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 23:37:08  2688 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 23:37:08  2688 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 23:37:08  2688 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 23:37:08  2704 ++ Close     PluginControlCtrl: this = 01651258   parent = 015C2A60
+10/05/18 23:37:09  2349 Method-Call    : StopSystem                                 Parent=04867178
+10/05/18 23:37:09  2349    StopSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 23:37:11  3987 Method-Call    : LoadSampleData                             Parent=04867178
+10/05/18 23:37:11  3987    LoadSampleData: Dionex System	SYSTEM1	PUMP	PLUGIN Runtime: 0 return 0
+10/05/18 23:37:14  7013 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+10/05/18 23:37:14  7013    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 23:37:15  8402 Method-Call    : StartSystem                                Parent=04867178
+10/05/18 23:37:15  8402    StartSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 23:37:18 11428 Method-Call    : StartInjection                             Parent=04867178
+10/05/18 23:37:18 11428    StartInjection: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 23:37:59  2478 DoSaveSpectra: Position (Index) 1 
+10/05/18 23:37:59  2478 Method-Call    : StartAcq                                   Parent=04867178
+10/05/18 23:37:59  2478    StartAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 23:37:59  2478 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+10/05/18 23:37:59  2478    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 23:53:15  1043 Method-Call    : StopAcq                                    Parent=04867178
+10/05/18 23:53:15  1043    StopAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 23:53:17  3289 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+10/05/18 23:53:17  3289    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 23:53:17  5407 ++ OnCreate new PluginControlCtrl: this = 01651258   parent = 015C2AB4
+10/05/18 23:53:17  5407 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 23:53:17  5407 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 23:53:17  5407 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 23:53:17  5407 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 23:53:17  5423 Block Postprocessing plugin call: MethodParameterDialogAvailable
+10/05/18 23:53:17  5438 ++ Close     PluginControlCtrl: this = 01651258   parent = 015C2AB4
+10/05/18 23:53:19  5083 Method-Call    : StopSystem                                 Parent=04867178
+10/05/18 23:53:19  5083    StopSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 23:53:20  6737 Method-Call    : LoadSampleData                             Parent=04867178
+10/05/18 23:53:20  6737    LoadSampleData: Dionex System	SYSTEM1	PUMP	PLUGIN Runtime: 0 return 0
+10/05/18 23:53:23  9763 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+10/05/18 23:53:23  9763    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 23:53:25 11136 Method-Call    : StartSystem                                Parent=04867178
+10/05/18 23:53:25 11136    StartSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 23:53:28 14162 Method-Call    : StartInjection                             Parent=04867178
+10/05/18 23:53:28 14162    StartInjection: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 23:54:08  5337 DoSaveSpectra: Position (Index) 1 
+10/05/18 23:54:08  5337 Method-Call    : StartAcq                                   Parent=04867178
+10/05/18 23:54:08  5337    StartAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+10/05/18 23:54:08  5337 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+10/05/18 23:54:08  5337    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 00:09:25  4775 Method-Call    : StopAcq                                    Parent=04867178
+11/05/18 00:09:25  4775    StopAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 00:09:27  7022 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 00:09:27  7022    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 00:09:28  9140 ++ OnCreate new PluginControlCtrl: this = 01651258   parent = 015C2B08
+11/05/18 00:09:28  9140 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 00:09:28  9140 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 00:09:28  9140 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 00:09:28  9140 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 00:09:28  9140 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 00:09:28  9171 ++ Close     PluginControlCtrl: this = 01651258   parent = 015C2B08
+11/05/18 00:09:29  8816 Method-Call    : StopSystem                                 Parent=04867178
+11/05/18 00:09:29  8816    StopSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 00:09:31 10438 Method-Call    : LoadSampleData                             Parent=04867178
+11/05/18 00:09:31 10438    LoadSampleData: Dionex System	SYSTEM1	PUMP	PLUGIN Runtime: 0 return 0
+11/05/18 00:09:34 13465 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 00:09:34 13465    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 00:09:35 14869 Method-Call    : StartSystem                                Parent=04867178
+11/05/18 00:09:35 14869    StartSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 00:09:38  1511 Method-Call    : StartInjection                             Parent=04867178
+11/05/18 00:09:38  1511    StartInjection: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 00:10:18  8929 DoSaveSpectra: Position (Index) 1 
+11/05/18 00:10:18  8929 Method-Call    : StartAcq                                   Parent=04867178
+11/05/18 00:10:18  8929    StartAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 00:10:18  8929 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 00:10:18  8929    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 00:25:35  7509 Method-Call    : StopAcq                                    Parent=04867178
+11/05/18 00:25:35  7509    StopAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 00:25:37  9771 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 00:25:37  9787    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 00:25:37 11889 ++ OnCreate new PluginControlCtrl: this = 01651258   parent = 015C2B5C
+11/05/18 00:25:37 11905 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 00:25:37 11905 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 00:25:37 11905 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 00:25:37 11905 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 00:25:37 11905 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 00:25:37 11921 ++ Close     PluginControlCtrl: this = 01651258   parent = 015C2B5C
+11/05/18 00:25:39 11550 Method-Call    : StopSystem                                 Parent=04867178
+11/05/18 00:25:39 11550    StopSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 00:25:40 13188 Method-Call    : LoadSampleData                             Parent=04867178
+11/05/18 00:25:40 13188    LoadSampleData: Dionex System	SYSTEM1	PUMP	PLUGIN Runtime: 0 return 0
+11/05/18 00:25:43 16214 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 00:25:43 16214    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 00:25:45  1219 Method-Call    : StartSystem                                Parent=04867178
+11/05/18 00:25:45  1219    StartSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 00:25:48  4261 Method-Call    : StartInjection                             Parent=04867178
+11/05/18 00:25:48  4261    StartInjection: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 00:26:28 11725 DoSaveSpectra: Position (Index) 1 
+11/05/18 00:26:28 11725 Method-Call    : StartAcq                                   Parent=04867178
+11/05/18 00:26:28 11725    StartAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 00:26:28 11725 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 00:26:28 11725    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 00:41:45 11258 Method-Call    : StopAcq                                    Parent=04867178
+11/05/18 00:41:45 11258    StopAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 00:41:47 13520 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 00:41:47 13520    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 00:41:48 15638 ++ OnCreate new PluginControlCtrl: this = 01651258   parent = 015C2BB0
+11/05/18 00:41:48 15638 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 00:41:48 15638 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 00:41:48 15638 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 00:41:48 15638 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 00:41:48 15638 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 00:41:48 15669 ++ Close     PluginControlCtrl: this = 01651258   parent = 015C2BB0
+11/05/18 00:41:49 15298 Method-Call    : StopSystem                                 Parent=04867178
+11/05/18 00:41:49 15298    StopSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 00:41:51   568 Method-Call    : LoadSampleData                             Parent=04867178
+11/05/18 00:41:51   568    LoadSampleData: Dionex System	SYSTEM1	PUMP	PLUGIN Runtime: 0 return 0
+11/05/18 00:41:54  3594 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 00:41:54  3594    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 00:41:55  4967 Method-Call    : StartSystem                                Parent=04867178
+11/05/18 00:41:55  4967    StartSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 00:41:58  7993 Method-Call    : StartInjection                             Parent=04867178
+11/05/18 00:41:58  7993    StartInjection: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 00:42:38 15411 DoSaveSpectra: Position (Index) 1 
+11/05/18 00:42:38 15411 Method-Call    : StartAcq                                   Parent=04867178
+11/05/18 00:42:38 15411    StartAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 00:42:38 15411 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 00:42:38 15411    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 00:57:54 13976 Method-Call    : StopAcq                                    Parent=04867178
+11/05/18 00:57:54 13976    StopAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 00:57:57 16238 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 00:57:57 16238    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 00:57:57  1972 ++ OnCreate new PluginControlCtrl: this = 07226A88   parent = 015C2C04
+11/05/18 00:57:57  1972 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 00:57:57  1972 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 00:57:57  1972 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 00:57:57  1988 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 00:57:57  1988 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 00:57:57  2004 ++ Close     PluginControlCtrl: this = 07226A88   parent = 015C2C04
+11/05/18 00:57:58  1633 Method-Call    : StopSystem                                 Parent=04867178
+11/05/18 00:57:58  1633    StopSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 00:58:00  3271 Method-Call    : LoadSampleData                             Parent=04867178
+11/05/18 00:58:00  3271    LoadSampleData: Dionex System	SYSTEM1	PUMP	PLUGIN Runtime: 0 return 0
+11/05/18 00:58:03  6297 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 00:58:03  6297    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 00:58:04  7686 Method-Call    : StartSystem                                Parent=04867178
+11/05/18 00:58:04  7686    StartSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 00:58:07 10712 Method-Call    : StartInjection                             Parent=04867178
+11/05/18 00:58:07 10712    StartInjection: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 00:58:48  1902 DoSaveSpectra: Position (Index) 1 
+11/05/18 00:58:48  1902 Method-Call    : StartAcq                                   Parent=04867178
+11/05/18 00:58:48  1902    StartAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 00:58:48  1902 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 00:58:48  1902    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 01:14:05  1341 Method-Call    : StopAcq                                    Parent=04867178
+11/05/18 01:14:05  1341    StopAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 01:14:07  3587 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 01:14:07  3587    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 01:14:07  5705 ++ OnCreate new PluginControlCtrl: this = 07226A88   parent = 015C2C58
+11/05/18 01:14:07  5705 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 01:14:07  5705 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 01:14:07  5705 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 01:14:07  5705 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 01:14:07  5705 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 01:14:07  5736 ++ Close     PluginControlCtrl: this = 07226A88   parent = 015C2C58
+11/05/18 01:14:09  5381 Method-Call    : StopSystem                                 Parent=04867178
+11/05/18 01:14:09  5381    StopSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 01:14:10  7003 Method-Call    : LoadSampleData                             Parent=04867178
+11/05/18 01:14:10  7003    LoadSampleData: Dionex System	SYSTEM1	PUMP	PLUGIN Runtime: 0 return 0
+11/05/18 01:14:13 10030 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 01:14:13 10030    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 01:14:15 11434 Method-Call    : StartSystem                                Parent=04867178
+11/05/18 01:14:15 11434    StartSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 01:14:18 14460 Method-Call    : StartInjection                             Parent=04867178
+11/05/18 01:14:18 14460    StartInjection: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 01:14:58  5634 DoSaveSpectra: Position (Index) 1 
+11/05/18 01:14:58  5634 Method-Call    : StartAcq                                   Parent=04867178
+11/05/18 01:14:58  5634    StartAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 01:14:58  5634 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 01:14:58  5634    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 01:30:15  5089 Method-Call    : StopAcq                                    Parent=04867178
+11/05/18 01:30:15  5089    StopAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 01:30:17  7335 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 01:30:17  7335    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 01:30:18  9453 ++ OnCreate new PluginControlCtrl: this = 07239FF8   parent = 015C2CAC
+11/05/18 01:30:18  9453 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 01:30:18  9453 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 01:30:18  9453 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 01:30:18  9453 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 01:30:18  9453 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 01:30:18  9484 ++ Close     PluginControlCtrl: this = 07239FF8   parent = 015C2CAC
+11/05/18 01:30:19  9129 Method-Call    : StopSystem                                 Parent=04867178
+11/05/18 01:30:19  9129    StopSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 01:30:21 10736 Method-Call    : LoadSampleData                             Parent=04867178
+11/05/18 01:30:21 10736    LoadSampleData: Dionex System	SYSTEM1	PUMP	PLUGIN Runtime: 0 return 0
+11/05/18 01:30:24 13762 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 01:30:24 13762    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 01:30:25 15182 Method-Call    : StartSystem                                Parent=04867178
+11/05/18 01:30:25 15182    StartSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 01:30:28  1824 Method-Call    : StartInjection                             Parent=04867178
+11/05/18 01:30:28  1824    StartInjection: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 01:31:08  9258 DoSaveSpectra: Position (Index) 1 
+11/05/18 01:31:08  9258 Method-Call    : StartAcq                                   Parent=04867178
+11/05/18 01:31:08  9258    StartAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 01:31:08  9258 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 01:31:08  9258    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 01:46:25  7823 Method-Call    : StopAcq                                    Parent=04867178
+11/05/18 01:46:25  7823    StopAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 01:46:27 10069 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 01:46:27 10069    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 01:46:27 12187 ++ OnCreate new PluginControlCtrl: this = 0723BFF8   parent = 015C2D00
+11/05/18 01:46:27 12187 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 01:46:27 12187 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 01:46:27 12187 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 01:46:27 12187 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 01:46:27 12187 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 01:46:27 12219 ++ Close     PluginControlCtrl: this = 0723BFF8   parent = 015C2D00
+11/05/18 01:46:29 11863 Method-Call    : StopSystem                                 Parent=04867178
+11/05/18 01:46:29 11863    StopSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 01:46:30 13470 Method-Call    : LoadSampleData                             Parent=04867178
+11/05/18 01:46:30 13470    LoadSampleData: Dionex System	SYSTEM1	PUMP	PLUGIN Runtime: 0 return 0
+11/05/18 01:46:33   113 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 01:46:33   113    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 01:46:35  1532 Method-Call    : StartSystem                                Parent=04867178
+11/05/18 01:46:35  1532    StartSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 01:46:38  4559 Method-Call    : StartInjection                             Parent=04867178
+11/05/18 01:46:38  4559    StartInjection: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 01:47:18 11930 DoSaveSpectra: Position (Index) 1 
+11/05/18 01:47:18 11930 Method-Call    : StartAcq                                   Parent=04867178
+11/05/18 01:47:18 11930    StartAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 01:47:18 11930 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 01:47:18 11930    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 02:02:34 10542 Method-Call    : StopAcq                                    Parent=04867178
+11/05/18 02:02:34 10542    StopAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 02:02:36 12788 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 02:02:36 12788    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 02:02:36 14906 ++ OnCreate new PluginControlCtrl: this = 0723BFF8   parent = 015C2D54
+11/05/18 02:02:36 14906 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 02:02:36 14906 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 02:02:36 14906 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 02:02:36 14906 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 02:02:36 14906 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 02:02:36 14937 ++ Close     PluginControlCtrl: this = 0723BFF8   parent = 015C2D54
+11/05/18 02:02:38 14582 Method-Call    : StopSystem                                 Parent=04867178
+11/05/18 02:02:38 14582    StopSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 02:02:40 16220 Method-Call    : LoadSampleData                             Parent=04867178
+11/05/18 02:02:40 16220    LoadSampleData: Dionex System	SYSTEM1	PUMP	PLUGIN Runtime: 0 return 0
+11/05/18 02:02:43  2862 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 02:02:43  2862    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 02:02:44  4251 Method-Call    : StartSystem                                Parent=04867178
+11/05/18 02:02:44  4251    StartSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 02:02:47  7277 Method-Call    : StartInjection                             Parent=04867178
+11/05/18 02:02:47  7277    StartInjection: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 02:03:27 14773 DoSaveSpectra: Position (Index) 1 
+11/05/18 02:03:27 14773 Method-Call    : StartAcq                                   Parent=04867178
+11/05/18 02:03:27 14773    StartAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 02:03:27 14773 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 02:03:27 14773    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 02:18:44 14290 Method-Call    : StopAcq                                    Parent=04867178
+11/05/18 02:18:44 14290    StopAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 02:18:47   168 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 02:18:47   168    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 02:18:47  2286 ++ OnCreate new PluginControlCtrl: this = 0723BFF8   parent = 015C2DA8
+11/05/18 02:18:47  2286 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 02:18:47  2286 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 02:18:47  2286 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 02:18:47  2286 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 02:18:47  2286 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 02:18:47  2317 ++ Close     PluginControlCtrl: this = 0723BFF8   parent = 015C2DA8
+11/05/18 02:18:48  1946 Method-Call    : StopSystem                                 Parent=04867178
+11/05/18 02:18:48  1946    StopSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 02:18:50  3569 Method-Call    : LoadSampleData                             Parent=04867178
+11/05/18 02:18:50  3569    LoadSampleData: Dionex System	SYSTEM1	PUMP	PLUGIN Runtime: 0 return 0
+11/05/18 02:18:53  6595 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 02:18:53  6595    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 02:18:54  7999 Method-Call    : StartSystem                                Parent=04867178
+11/05/18 02:18:54  7999    StartSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 02:18:57 11025 Method-Call    : StartInjection                             Parent=04867178
+11/05/18 02:18:57 11025    StartInjection: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 02:19:38  2184 DoSaveSpectra: Position (Index) 1 
+11/05/18 02:19:38  2184 Method-Call    : StartAcq                                   Parent=04867178
+11/05/18 02:19:38  2184    StartAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 02:19:38  2184 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 02:19:38  2184    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 02:34:55  1654 Method-Call    : StopAcq                                    Parent=04867178
+11/05/18 02:34:55  1654    StopAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 02:34:57  3900 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 02:34:57  3900    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 02:34:57  6018 ++ OnCreate new PluginControlCtrl: this = 0723BFF8   parent = 015C2DFC
+11/05/18 02:34:57  6018 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 02:34:57  6018 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 02:34:57  6018 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 02:34:57  6018 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 02:34:57  6018 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 02:34:57  6050 ++ Close     PluginControlCtrl: this = 0723BFF8   parent = 015C2DFC
+11/05/18 02:34:59  5694 Method-Call    : StopSystem                                 Parent=04867178
+11/05/18 02:34:59  5694    StopSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 02:35:00  7317 Method-Call    : LoadSampleData                             Parent=04867178
+11/05/18 02:35:00  7317    LoadSampleData: Dionex System	SYSTEM1	PUMP	PLUGIN Runtime: 0 return 0
+11/05/18 02:35:03 10343 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 02:35:03 10343    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 02:35:05 11747 Method-Call    : StartSystem                                Parent=04867178
+11/05/18 02:35:05 11747    StartSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 02:35:08 14774 Method-Call    : StartInjection                             Parent=04867178
+11/05/18 02:35:08 14774    StartInjection: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 02:35:49  6650 DoSaveSpectra: Position (Index) 1 
+11/05/18 02:35:49  6650 Method-Call    : StartAcq                                   Parent=04867178
+11/05/18 02:35:49  6650    StartAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 02:35:49  6650 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 02:35:49  6650    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 02:51:05  5387 Method-Call    : StopAcq                                    Parent=04867178
+11/05/18 02:51:05  5402    StopAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 15 return 0
+11/05/18 02:51:07  7649 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 02:51:07  7649    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 02:51:08  9767 ++ OnCreate new PluginControlCtrl: this = 0723BFF8   parent = 015C2E50
+11/05/18 02:51:08  9782 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 02:51:08  9782 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 02:51:08  9782 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 02:51:08  9782 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 02:51:08  9782 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 02:51:08  9798 ++ Close     PluginControlCtrl: this = 0723BFF8   parent = 015C2E50
+11/05/18 02:51:09  9427 Method-Call    : StopSystem                                 Parent=04867178
+11/05/18 02:51:09  9427    StopSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 02:51:11 11065 Method-Call    : LoadSampleData                             Parent=04867178
+11/05/18 02:51:11 11065    LoadSampleData: Dionex System	SYSTEM1	PUMP	PLUGIN Runtime: 0 return 0
+11/05/18 02:51:14 14091 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 02:51:14 14091    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 02:51:15 15480 Method-Call    : StartSystem                                Parent=04867178
+11/05/18 02:51:15 15480    StartSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 02:51:18  2122 Method-Call    : StartInjection                             Parent=04867178
+11/05/18 02:51:18  2122    StartInjection: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 02:51:58  9540 DoSaveSpectra: Position (Index) 1 
+11/05/18 02:51:58  9540 Method-Call    : StartAcq                                   Parent=04867178
+11/05/18 02:51:58  9540    StartAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 02:51:58  9540 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 02:51:58  9540    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 03:07:14  8121 Method-Call    : StopAcq                                    Parent=04867178
+11/05/18 03:07:14  8121    StopAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 03:07:17 10383 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 03:07:17 10383    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 03:07:17 12485 ++ OnCreate new PluginControlCtrl: this = 0723BFF8   parent = 015C2EA4
+11/05/18 03:07:17 12501 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 03:07:17 12501 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 03:07:17 12501 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 03:07:17 12501 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 03:07:17 12501 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 03:07:17 12532 ++ Close     PluginControlCtrl: this = 0723BFF8   parent = 015C2EA4
+11/05/18 03:07:19 12161 Method-Call    : StopSystem                                 Parent=04867178
+11/05/18 03:07:19 12161    StopSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 03:07:20 13815 Method-Call    : LoadSampleData                             Parent=04867178
+11/05/18 03:07:20 13815    LoadSampleData: Dionex System	SYSTEM1	PUMP	PLUGIN Runtime: 0 return 0
+11/05/18 03:07:23   457 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 03:07:23   457    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 03:07:25  1830 Method-Call    : StartSystem                                Parent=04867178
+11/05/18 03:07:25  1830    StartSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 03:07:28  4857 Method-Call    : StartInjection                             Parent=04867178
+11/05/18 03:07:28  4857    StartInjection: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 03:08:08 12228 DoSaveSpectra: Position (Index) 1 
+11/05/18 03:08:08 12228 Method-Call    : StartAcq                                   Parent=04867178
+11/05/18 03:08:08 12228    StartAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 03:08:08 12228 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 03:08:08 12228    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 03:23:24 10855 Method-Call    : StopAcq                                    Parent=04867178
+11/05/18 03:23:24 10855    StopAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 03:23:26 13117 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 03:23:26 13117    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 03:23:26 15235 ++ OnCreate new PluginControlCtrl: this = 0723BFF8   parent = 015C2EF8
+11/05/18 03:23:26 15235 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 03:23:26 15235 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 03:23:26 15235 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 03:23:26 15235 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 03:23:26 15235 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 03:23:26 15266 ++ Close     PluginControlCtrl: this = 0723BFF8   parent = 015C2EF8
+11/05/18 03:23:28 14895 Method-Call    : StopSystem                                 Parent=04867178
+11/05/18 03:23:28 14895    StopSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 03:23:30   134 Method-Call    : LoadSampleData                             Parent=04867178
+11/05/18 03:23:30   134    LoadSampleData: Dionex System	SYSTEM1	PUMP	PLUGIN Runtime: 0 return 0
+11/05/18 03:23:33  3160 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 03:23:33  3160    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 03:23:34  4564 Method-Call    : StartSystem                                Parent=04867178
+11/05/18 03:23:34  4564    StartSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 03:23:37  7591 Method-Call    : StartInjection                             Parent=04867178
+11/05/18 03:23:37  7591    StartInjection: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 03:24:17 14977 DoSaveSpectra: Position (Index) 1 
+11/05/18 03:24:17 14977 Method-Call    : StartAcq                                   Parent=04867178
+11/05/18 03:24:17 14977    StartAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 03:24:17 14977 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 03:24:17 14977    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 03:39:33 13589 Method-Call    : StopAcq                                    Parent=04867178
+11/05/18 03:39:33 13589    StopAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 03:39:36 15851 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 03:39:36 15851    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 03:39:36  1585 ++ OnCreate new PluginControlCtrl: this = 0723BFF8   parent = 015C2F4C
+11/05/18 03:39:36  1585 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 03:39:36  1585 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 03:39:36  1585 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 03:39:36  1585 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 03:39:36  1585 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 03:39:36  1616 ++ Close     PluginControlCtrl: this = 0723BFF8   parent = 015C2F4C
+11/05/18 03:39:37  1246 Method-Call    : StopSystem                                 Parent=04867178
+11/05/18 03:39:37  1246    StopSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 03:39:39  2868 Method-Call    : LoadSampleData                             Parent=04867178
+11/05/18 03:39:39  2868    LoadSampleData: Dionex System	SYSTEM1	PUMP	PLUGIN Runtime: 0 return 0
+11/05/18 03:39:42  5895 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 03:39:42  5895    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 03:39:43  7299 Method-Call    : StartSystem                                Parent=04867178
+11/05/18 03:39:43  7299    StartSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 03:39:46 10325 Method-Call    : StartInjection                             Parent=04867178
+11/05/18 03:39:46 10325    StartInjection: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 03:40:27  1359 DoSaveSpectra: Position (Index) 1 
+11/05/18 03:40:27  1359 Method-Call    : StartAcq                                   Parent=04867178
+11/05/18 03:40:27  1359    StartAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 03:40:27  1359 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 03:40:27  1359    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 03:55:43 16308 Method-Call    : StopAcq                                    Parent=04867178
+11/05/18 03:55:43 16308    StopAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 03:55:45  2186 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 03:55:45  2186    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 03:55:45  4288 ++ OnCreate new PluginControlCtrl: this = 0723BFF8   parent = 015C2FA0
+11/05/18 03:55:45  4288 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 03:55:45  4288 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 03:55:45  4288 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 03:55:45  4288 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 03:55:45  4288 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 03:55:45  4320 ++ Close     PluginControlCtrl: this = 0723BFF8   parent = 015C2FA0
+11/05/18 03:55:47  3964 Method-Call    : StopSystem                                 Parent=04867178
+11/05/18 03:55:47  3964    StopSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 03:55:48  5587 Method-Call    : LoadSampleData                             Parent=04867178
+11/05/18 03:55:48  5587    LoadSampleData: Dionex System	SYSTEM1	PUMP	PLUGIN Runtime: 0 return 0
+11/05/18 03:55:51  8613 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 03:55:51  8613    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 03:55:53 10017 Method-Call    : StartSystem                                Parent=04867178
+11/05/18 03:55:53 10017    StartSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 03:55:56 13044 Method-Call    : StartInjection                             Parent=04867178
+11/05/18 03:55:56 13044    StartInjection: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 03:56:36  4155 DoSaveSpectra: Position (Index) 1 
+11/05/18 03:56:36  4155 Method-Call    : StartAcq                                   Parent=04867178
+11/05/18 03:56:36  4155    StartAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 03:56:36  4155 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 03:56:36  4155    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 04:11:53  3672 Method-Call    : StopAcq                                    Parent=04867178
+11/05/18 04:11:53  3672    StopAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 04:11:55  5919 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 04:11:55  5919    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 04:11:56  8037 ++ OnCreate new PluginControlCtrl: this = 0723BFF8   parent = 071ED834
+11/05/18 04:11:56  8037 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 04:11:56  8037 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 04:11:56  8037 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 04:11:56  8037 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 04:11:56  8037 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 04:11:56  8068 ++ Close     PluginControlCtrl: this = 0723BFF8   parent = 071ED834
+11/05/18 04:11:57  7713 Method-Call    : StopSystem                                 Parent=04867178
+11/05/18 04:11:57  7713    StopSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 04:11:59  9335 Method-Call    : LoadSampleData                             Parent=04867178
+11/05/18 04:11:59  9335    LoadSampleData: Dionex System	SYSTEM1	PUMP	PLUGIN Runtime: 0 return 0
+11/05/18 04:12:02 12361 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 04:12:02 12361    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 04:12:03 13765 Method-Call    : StartSystem                                Parent=04867178
+11/05/18 04:12:03 13765    StartSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 04:12:06   408 Method-Call    : StartInjection                             Parent=04867178
+11/05/18 04:12:06   408    StartInjection: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 04:12:46  7919 DoSaveSpectra: Position (Index) 1 
+11/05/18 04:12:46  7919 Method-Call    : StartAcq                                   Parent=04867178
+11/05/18 04:12:46  7919    StartAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 04:12:46  7919 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 04:12:46  7919    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 04:28:03  7420 Method-Call    : StopAcq                                    Parent=04867178
+11/05/18 04:28:03  7420    StopAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 04:28:06  9667 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 04:28:06  9667    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 04:28:06 11785 ++ OnCreate new PluginControlCtrl: this = 071F40D0   parent = 071ED888
+11/05/18 04:28:06 11785 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 04:28:06 11785 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 04:28:06 11785 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 04:28:06 11785 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 04:28:06 11785 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 04:28:06 11816 ++ Close     PluginControlCtrl: this = 071F40D0   parent = 071ED888
+11/05/18 04:28:07 11461 Method-Call    : StopSystem                                 Parent=04867178
+11/05/18 04:28:07 11461    StopSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 04:28:09 13083 Method-Call    : LoadSampleData                             Parent=04867178
+11/05/18 04:28:09 13083    LoadSampleData: Dionex System	SYSTEM1	PUMP	PLUGIN Runtime: 0 return 0
+11/05/18 04:28:12 16110 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 04:28:12 16110    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 04:28:14  1130 Method-Call    : StartSystem                                Parent=04867178
+11/05/18 04:28:14  1130    StartSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 04:28:17  4156 Method-Call    : StartInjection                             Parent=04867178
+11/05/18 04:28:17  4156    StartInjection: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 04:28:57 11730 DoSaveSpectra: Position (Index) 1 
+11/05/18 04:28:57 11730 Method-Call    : StartAcq                                   Parent=04867178
+11/05/18 04:28:57 11730    StartAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 04:28:57 11730 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 04:28:57 11730    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 04:44:14 11153 Method-Call    : StopAcq                                    Parent=04867178
+11/05/18 04:44:14 11153    StopAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 04:44:16 13399 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 04:44:16 13399    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 04:44:16 15502 ++ OnCreate new PluginControlCtrl: this = 071F40D0   parent = 071ED8DC
+11/05/18 04:44:16 15517 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 04:44:16 15517 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 04:44:16 15517 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 04:44:16 15517 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 04:44:16 15517 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 04:44:16 15533 ++ Close     PluginControlCtrl: this = 071F40D0   parent = 071ED8DC
+11/05/18 04:44:18 15193 Method-Call    : StopSystem                                 Parent=04867178
+11/05/18 04:44:18 15193    StopSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 04:44:19   432 Method-Call    : LoadSampleData                             Parent=04867178
+11/05/18 04:44:19   432    LoadSampleData: Dionex System	SYSTEM1	PUMP	PLUGIN Runtime: 0 return 0
+11/05/18 04:44:23  3458 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 04:44:23  3458    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 04:44:24  4862 Method-Call    : StartSystem                                Parent=04867178
+11/05/18 04:44:24  4862    StartSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 04:44:27  7889 Method-Call    : StartInjection                             Parent=04867178
+11/05/18 04:44:27  7889    StartInjection: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 04:45:07 15322 DoSaveSpectra: Position (Index) 1 
+11/05/18 04:45:07 15322 Method-Call    : StartAcq                                   Parent=04867178
+11/05/18 04:45:07 15322    StartAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 04:45:07 15322 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 04:45:07 15322    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 05:00:23 13887 Method-Call    : StopAcq                                    Parent=04867178
+11/05/18 05:00:23 13887    StopAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 05:00:25 16149 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 05:00:25 16149    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 05:00:26  1883 ++ OnCreate new PluginControlCtrl: this = 071F55E0   parent = 071ED930
+11/05/18 05:00:26  1883 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 05:00:26  1883 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 05:00:26  1883 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 05:00:26  1883 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 05:00:26  1883 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 05:00:26  1914 ++ Close     PluginControlCtrl: this = 071F55E0   parent = 071ED930
+11/05/18 05:00:27  1544 Method-Call    : StopSystem                                 Parent=04867178
+11/05/18 05:00:27  1544    StopSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 05:00:29  3166 Method-Call    : LoadSampleData                             Parent=04867178
+11/05/18 05:00:29  3166    LoadSampleData: Dionex System	SYSTEM1	PUMP	PLUGIN Runtime: 0 return 0
+11/05/18 05:00:32  6192 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 05:00:32  6192    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 05:00:33  7596 Method-Call    : StartSystem                                Parent=04867178
+11/05/18 05:00:33  7596    StartSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 05:00:36 10623 Method-Call    : StartInjection                             Parent=04867178
+11/05/18 05:00:36 10623    StartInjection: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 05:01:16  1079 DoSaveSpectra: Position (Index) 1 
+11/05/18 05:01:16  1079 Method-Call    : StartAcq                                   Parent=04867178
+11/05/18 05:01:16  1079    StartAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 05:01:16  1079 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 05:01:16  1079    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 05:16:33   237 Method-Call    : StopAcq                                    Parent=04867178
+11/05/18 05:16:33   237    StopAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 05:16:35  2484 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 05:16:35  2484    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 05:16:35  4602 ++ OnCreate new PluginControlCtrl: this = 0721BCF8   parent = 071ED984
+11/05/18 05:16:35  4617 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 05:16:35  4617 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 05:16:35  4617 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 05:16:35  4617 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 05:16:35  4617 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 05:16:35  4633 ++ Close     PluginControlCtrl: this = 0721BCF8   parent = 071ED984
+11/05/18 05:16:37  4278 Method-Call    : StopSystem                                 Parent=04867178
+11/05/18 05:16:37  4278    StopSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 05:16:38  5900 Method-Call    : LoadSampleData                             Parent=04867178
+11/05/18 05:16:38  5900    LoadSampleData: Dionex System	SYSTEM1	PUMP	PLUGIN Runtime: 0 return 0
+11/05/18 05:16:41  8927 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 05:16:41  8927    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 05:16:43 10331 Method-Call    : StartSystem                                Parent=04867178
+11/05/18 05:16:43 10331    StartSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 05:16:46 13357 Method-Call    : StartInjection                             Parent=04867178
+11/05/18 05:16:46 13357    StartInjection: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 05:17:26  4531 DoSaveSpectra: Position (Index) 1 
+11/05/18 05:17:26  4531 Method-Call    : StartAcq                                   Parent=04867178
+11/05/18 05:17:26  4531    StartAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 05:17:26  4531 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 05:17:26  4531    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 05:32:43  3986 Method-Call    : StopAcq                                    Parent=04867178
+11/05/18 05:32:43  3986    StopAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 05:32:45  6232 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 05:32:45  6232    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 05:32:46  8350 ++ OnCreate new PluginControlCtrl: this = 0721BCF8   parent = 071ED9D8
+11/05/18 05:32:46  8350 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 05:32:46  8350 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 05:32:46  8350 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 05:32:46  8350 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 05:32:46  8350 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 05:32:46  8381 ++ Close     PluginControlCtrl: this = 0721BCF8   parent = 071ED9D8
+11/05/18 05:32:47  8026 Method-Call    : StopSystem                                 Parent=04867178
+11/05/18 05:32:47  8026    StopSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 05:32:49  9648 Method-Call    : LoadSampleData                             Parent=04867178
+11/05/18 05:32:49  9648    LoadSampleData: Dionex System	SYSTEM1	PUMP	PLUGIN Runtime: 0 return 0
+11/05/18 05:32:52 12675 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 05:32:52 12675    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 05:32:53 14079 Method-Call    : StartSystem                                Parent=04867178
+11/05/18 05:32:53 14079    StartSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 05:32:56   721 Method-Call    : StartInjection                             Parent=04867178
+11/05/18 05:32:56   721    StartInjection: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 05:33:36  8295 DoSaveSpectra: Position (Index) 1 
+11/05/18 05:33:36  8295 Method-Call    : StartAcq                                   Parent=04867178
+11/05/18 05:33:36  8295    StartAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 05:33:36  8295 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 05:33:36  8295    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 05:48:53  7718 Method-Call    : StopAcq                                    Parent=04867178
+11/05/18 05:48:53  7718    StopAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 05:48:56  9965 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 05:48:56  9965    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 05:48:56 12083 ++ OnCreate new PluginControlCtrl: this = 0721BCF8   parent = 071EDA2C
+11/05/18 05:48:56 12083 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 05:48:56 12083 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 05:48:56 12083 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 05:48:56 12083 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 05:48:56 12083 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 05:48:56 12114 ++ Close     PluginControlCtrl: this = 0721BCF8   parent = 071EDA2C
+11/05/18 05:48:57 11759 Method-Call    : StopSystem                                 Parent=04867178
+11/05/18 05:48:57 11759    StopSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 05:48:59 13381 Method-Call    : LoadSampleData                             Parent=04867178
+11/05/18 05:48:59 13381    LoadSampleData: Dionex System	SYSTEM1	PUMP	PLUGIN Runtime: 0 return 0
+11/05/18 05:49:02    23 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 05:49:02    23    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 05:49:03  1427 Method-Call    : StartSystem                                Parent=04867178
+11/05/18 05:49:03  1427    StartSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 05:49:07  4454 Method-Call    : StartInjection                             Parent=04867178
+11/05/18 05:49:07  4454    StartInjection: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 05:49:47 11841 DoSaveSpectra: Position (Index) 1 
+11/05/18 05:49:47 11841 Method-Call    : StartAcq                                   Parent=04867178
+11/05/18 05:49:47 11841    StartAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 05:49:47 11841 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 05:49:47 11841    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 06:05:03 10452 Method-Call    : StopAcq                                    Parent=04867178
+11/05/18 06:05:03 10452    StopAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 06:05:05 12714 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 06:05:05 12714    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 06:05:05 14817 ++ OnCreate new PluginControlCtrl: this = 0721BCF8   parent = 071EDA80
+11/05/18 06:05:05 14817 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 06:05:05 14832 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 06:05:05 14832 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 06:05:05 14832 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 06:05:05 14832 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 06:05:05 14848 ++ Close     PluginControlCtrl: this = 0721BCF8   parent = 071EDA80
+11/05/18 06:05:07 14493 Method-Call    : StopSystem                                 Parent=04867178
+11/05/18 06:05:07 14493    StopSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 06:05:08 16131 Method-Call    : LoadSampleData                             Parent=04867178
+11/05/18 06:05:08 16131    LoadSampleData: Dionex System	SYSTEM1	PUMP	PLUGIN Runtime: 0 return 0
+11/05/18 06:05:11  2773 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 06:05:11  2773    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 06:05:13  4162 Method-Call    : StartSystem                                Parent=04867178
+11/05/18 06:05:13  4162    StartSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 06:05:16  7188 Method-Call    : StartInjection                             Parent=04867178
+11/05/18 06:05:16  7188    StartInjection: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 06:05:56 14512 DoSaveSpectra: Position (Index) 1 
+11/05/18 06:05:56 14512 Method-Call    : StartAcq                                   Parent=04867178
+11/05/18 06:05:56 14512    StartAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 06:05:56 14512 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 06:05:56 14512    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 06:21:12 13202 Method-Call    : StopAcq                                    Parent=04867178
+11/05/18 06:21:12 13202    StopAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 06:21:14 15464 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 06:21:14 15464    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 06:21:15  1198 ++ OnCreate new PluginControlCtrl: this = 0721BCF8   parent = 071EDAD4
+11/05/18 06:21:15  1198 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 06:21:15  1198 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 06:21:15  1198 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 06:21:15  1198 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 06:21:15  1198 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 06:21:15  1229 ++ Close     PluginControlCtrl: this = 0721BCF8   parent = 071EDAD4
+11/05/18 06:21:16   843 Method-Call    : StopSystem                                 Parent=04867178
+11/05/18 06:21:16   843    StopSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 06:21:18  2465 Method-Call    : LoadSampleData                             Parent=04867178
+11/05/18 06:21:18  2465    LoadSampleData: Dionex System	SYSTEM1	PUMP	PLUGIN Runtime: 0 return 0
+11/05/18 06:21:21  5492 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 06:21:21  5492    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 06:21:22  6896 Method-Call    : StartSystem                                Parent=04867178
+11/05/18 06:21:22  6896    StartSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 06:21:25  9922 Method-Call    : StartInjection                             Parent=04867178
+11/05/18 06:21:25  9922    StartInjection: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 06:22:06  1081 DoSaveSpectra: Position (Index) 1 
+11/05/18 06:22:06  1081 Method-Call    : StartAcq                                   Parent=04867178
+11/05/18 06:22:06  1081    StartAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 06:22:06  1081 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 06:22:06  1081    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 06:37:23   535 Method-Call    : StopAcq                                    Parent=04867178
+11/05/18 06:37:23   535    StopAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 06:37:25  2782 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 06:37:25  2782    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 06:37:25  4884 ++ OnCreate new PluginControlCtrl: this = 0721BCF8   parent = 071EDB28
+11/05/18 06:37:25  4884 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 06:37:25  4884 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 06:37:25  4900 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 06:37:25  4900 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 06:37:25  4900 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 06:37:25  4915 ++ Close     PluginControlCtrl: this = 0721BCF8   parent = 071EDB28
+11/05/18 06:37:27  4576 Method-Call    : StopSystem                                 Parent=04867178
+11/05/18 06:37:27  4576    StopSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 06:37:28  6198 Method-Call    : LoadSampleData                             Parent=04867178
+11/05/18 06:37:28  6198    LoadSampleData: Dionex System	SYSTEM1	PUMP	PLUGIN Runtime: 0 return 0
+11/05/18 06:37:31  9225 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 06:37:31  9225    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 06:37:33 10629 Method-Call    : StartSystem                                Parent=04867178
+11/05/18 06:37:33 10629    StartSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 06:37:36 13655 Method-Call    : StartInjection                             Parent=04867178
+11/05/18 06:37:36 13655    StartInjection: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 06:38:16  4642 DoSaveSpectra: Position (Index) 1 
+11/05/18 06:38:16  4642 Method-Call    : StartAcq                                   Parent=04867178
+11/05/18 06:38:16  4642    StartAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 06:38:16  4642 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 06:38:16  4642    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 06:53:32  3269 Method-Call    : StopAcq                                    Parent=04867178
+11/05/18 06:53:32  3269    StopAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 06:53:34  5516 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 06:53:34  5516    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 06:53:35  7634 ++ OnCreate new PluginControlCtrl: this = 01651258   parent = 071EDB7C
+11/05/18 06:53:35  7634 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 06:53:35  7634 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 06:53:35  7634 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 06:53:35  7634 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 06:53:35  7634 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 06:53:35  7665 ++ Close     PluginControlCtrl: this = 01651258   parent = 071EDB7C
+11/05/18 06:53:36  7310 Method-Call    : StopSystem                                 Parent=04867178
+11/05/18 06:53:36  7310    StopSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 06:53:38  8932 Method-Call    : LoadSampleData                             Parent=04867178
+11/05/18 06:53:38  8932    LoadSampleData: Dionex System	SYSTEM1	PUMP	PLUGIN Runtime: 0 return 0
+11/05/18 06:53:41 11959 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 06:53:41 11959    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 06:53:42 13363 Method-Call    : StartSystem                                Parent=04867178
+11/05/18 06:53:42 13363    StartSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 06:53:45     5 Method-Call    : StartInjection                             Parent=04867178
+11/05/18 06:53:45     5    StartInjection: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 06:54:25  7579 DoSaveSpectra: Position (Index) 1 
+11/05/18 06:54:25  7579 Method-Call    : StartAcq                                   Parent=04867178
+11/05/18 06:54:25  7579    StartAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 06:54:25  7579 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 06:54:25  7579    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 07:09:42  7018 Method-Call    : StopAcq                                    Parent=04867178
+11/05/18 07:09:42  7018    StopAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 07:09:45  9264 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 07:09:45  9264    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 07:09:45 11382 ++ OnCreate new PluginControlCtrl: this = 07250868   parent = 071EDBD0
+11/05/18 07:09:45 11382 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 07:09:45 11382 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 07:09:45 11382 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 07:09:45 11382 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 07:09:45 11382 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 07:09:45 11413 ++ Close     PluginControlCtrl: this = 07250868   parent = 071EDBD0
+11/05/18 07:09:46 11058 Method-Call    : StopSystem                                 Parent=04867178
+11/05/18 07:09:46 11058    StopSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 07:09:48 12696 Method-Call    : LoadSampleData                             Parent=04867178
+11/05/18 07:09:48 12696    LoadSampleData: Dionex System	SYSTEM1	PUMP	PLUGIN Runtime: 0 return 0
+11/05/18 07:09:51 15723 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 07:09:51 15723    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 07:09:52   727 Method-Call    : StartSystem                                Parent=04867178
+11/05/18 07:09:52   727    StartSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 07:09:55  3753 Method-Call    : StartInjection                             Parent=04867178
+11/05/18 07:09:55  3753    StartInjection: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 07:10:36 11312 DoSaveSpectra: Position (Index) 1 
+11/05/18 07:10:36 11312 Method-Call    : StartAcq                                   Parent=04867178
+11/05/18 07:10:36 11312    StartAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 07:10:36 11312 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 07:10:36 11312    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 07:25:53 10766 Method-Call    : StopAcq                                    Parent=04867178
+11/05/18 07:25:53 10766    StopAcq: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 07:25:55 13012 Method-Call    : SetMonitorTimeToZero                       Parent=04867178
+11/05/18 07:25:55 13012    SetMonitorTimeToZero: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 07:25:55 15130 ++ OnCreate new PluginControlCtrl: this = 07250868   parent = 071EDC24
+11/05/18 07:25:55 15130 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 07:25:55 15146 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 07:25:55 15146 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 07:25:55 15146 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 07:25:55 15146 Block Postprocessing plugin call: MethodParameterDialogAvailable
+11/05/18 07:25:55 15162 ++ Close     PluginControlCtrl: this = 07250868   parent = 071EDC24
+11/05/18 07:25:57 14806 Method-Call    : StopSystem                                 Parent=04867178
+11/05/18 07:25:57 14806    StopSystem: Dionex System	SYSTEM1	SYS	PLUGIN Runtime: 0 return 0
+11/05/18 07:25:58    29 Method-Call    : LoadSampleData                             Parent=04867178

@@ -1,0 +1,1517 @@
+12/14/17 12:39:13 CInstrSetupCtrl::CInstrSetupCtrl()
+12/14/17 12:39:13 CInstrSetupCtrl::~CInstrSetupCtrl()
+12/14/17 13:15:15 CInstrSetupCtrl::CInstrSetupCtrl()
+12/14/17 13:15:15 CInstrSetupCtrl::~CInstrSetupCtrl()
+12/14/17 13:51:18 CInstrSetupCtrl::CInstrSetupCtrl()
+12/14/17 13:51:18 CInstrSetupCtrl::~CInstrSetupCtrl()
+12/14/17 14:27:21 CInstrSetupCtrl::CInstrSetupCtrl()
+12/14/17 14:27:21 CInstrSetupCtrl::~CInstrSetupCtrl()
+12/14/17 15:03:22 CInstrSetupCtrl::CInstrSetupCtrl()
+12/14/17 15:03:23 CInstrSetupCtrl::~CInstrSetupCtrl()
+12/14/17 15:39:24 CInstrSetupCtrl::CInstrSetupCtrl()
+12/14/17 15:39:24 CInstrSetupCtrl::~CInstrSetupCtrl()
+12/14/17 16:15:27 CInstrSetupCtrl::CInstrSetupCtrl()
+12/14/17 16:15:27 CInstrSetupCtrl::~CInstrSetupCtrl()
+12/14/17 16:51:30 CInstrSetupCtrl::CInstrSetupCtrl()
+12/14/17 16:51:30 CInstrSetupCtrl::~CInstrSetupCtrl()
+12/14/17 16:57:37 CInstrSetupCtrl::CInstrSetupCtrl()
+12/14/17 16:57:37 CInstrSetupCtrl::~CInstrSetupCtrl()
+12/14/17 17:29:02 CInstrSetupCtrl::CInstrSetupCtrl()
+12/14/17 17:29:02 CInstrSetupCtrl::~CInstrSetupCtrl()
+12/14/17 18:02:07 CInstrSetupCtrl::CInstrSetupCtrl()
+12/14/17 18:02:08 CInstrSetupCtrl::~CInstrSetupCtrl()
+12/14/17 18:38:09 CInstrSetupCtrl::CInstrSetupCtrl()
+12/14/17 18:38:09 CInstrSetupCtrl::~CInstrSetupCtrl()
+12/14/17 19:14:12 CInstrSetupCtrl::CInstrSetupCtrl()
+12/14/17 19:14:12 CInstrSetupCtrl::~CInstrSetupCtrl()
+12/14/17 19:50:14 CInstrSetupCtrl::CInstrSetupCtrl()
+12/14/17 19:50:14 CInstrSetupCtrl::~CInstrSetupCtrl()
+12/14/17 20:26:17 CInstrSetupCtrl::CInstrSetupCtrl()
+12/14/17 20:26:17 CInstrSetupCtrl::~CInstrSetupCtrl()
+12/14/17 21:02:20 CInstrSetupCtrl::CInstrSetupCtrl()
+12/14/17 21:02:20 CInstrSetupCtrl::~CInstrSetupCtrl()
+12/14/17 21:38:22 CInstrSetupCtrl::CInstrSetupCtrl()
+12/14/17 21:38:22 CInstrSetupCtrl::~CInstrSetupCtrl()
+12/14/17 22:14:23 CInstrSetupCtrl::CInstrSetupCtrl()
+12/14/17 22:14:23 CInstrSetupCtrl::~CInstrSetupCtrl()
+12/14/17 22:50:25 CInstrSetupCtrl::CInstrSetupCtrl()
+12/14/17 22:50:25 CInstrSetupCtrl::~CInstrSetupCtrl()
+12/14/17 23:26:28 CInstrSetupCtrl::CInstrSetupCtrl()
+12/14/17 23:26:28 CInstrSetupCtrl::~CInstrSetupCtrl()
+12/15/17 00:02:31 CInstrSetupCtrl::CInstrSetupCtrl()
+12/15/17 00:02:31 CInstrSetupCtrl::~CInstrSetupCtrl()
+12/15/17 00:38:33 CInstrSetupCtrl::CInstrSetupCtrl()
+12/15/17 00:38:33 CInstrSetupCtrl::~CInstrSetupCtrl()
+12/15/17 01:04:34 CInstrSetupCtrl::CInstrSetupCtrl()
+12/15/17 01:04:34 CInstrSetupCtrl::~CInstrSetupCtrl()
+12/15/17 01:25:26 CInstrSetupCtrl::CInstrSetupCtrl()
+12/15/17 01:25:27 CInstrSetupCtrl::~CInstrSetupCtrl()
+12/15/17 09:40:21 CInstrSetupCtrl::CInstrSetupCtrl()
+12/15/17 09:40:48 CInstrSetupCtrl::CInstrSetupCtrl()
+12/15/17 09:41:17 CInstrSetupCtrl::CInstrSetupCtrl()
+12/15/17 09:41:25 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+12/20/17 10:51:16 The software was started
+12/20/17 10:51:16 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+12/20/17 10:51:16 Start InitInstance
+12/20/17 10:51:16 CInstrSetupCtrl::CInstrSetupCtrl()
+12/20/17 10:51:16 CInstrSetupCtrl::CInstrSetupCtrl()
+12/20/17 10:51:16 CInstrSetupCtrl::CInstrSetupCtrl()
+12/20/17 10:51:17 CInstrSetupCtrl::~CInstrSetupCtrl()
+12/20/17 11:23:33 CInstrSetupCtrl::CInstrSetupCtrl()
+12/20/17 11:23:33 CInstrSetupCtrl::~CInstrSetupCtrl()
+12/20/17 12:04:46 CInstrSetupCtrl::CInstrSetupCtrl()
+12/20/17 12:04:46 CInstrSetupCtrl::~CInstrSetupCtrl()
+12/20/17 12:46:01 CInstrSetupCtrl::CInstrSetupCtrl()
+12/20/17 12:46:01 CInstrSetupCtrl::~CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+01/10/18 14:16:38 The software was started
+01/10/18 14:16:38 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+01/10/18 14:16:38 Start InitInstance
+01/10/18 14:16:38 CInstrSetupCtrl::CInstrSetupCtrl()
+01/10/18 14:16:38 CInstrSetupCtrl::CInstrSetupCtrl()
+01/10/18 14:16:38 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+01/10/18 16:43:32 The software was started
+01/10/18 16:43:32 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+01/10/18 16:43:32 Start InitInstance
+01/10/18 16:43:32 CInstrSetupCtrl::CInstrSetupCtrl()
+01/10/18 16:43:32 CInstrSetupCtrl::CInstrSetupCtrl()
+01/10/18 16:43:33 CInstrSetupCtrl::CInstrSetupCtrl()
+01/10/18 16:43:33 CInstrSetupCtrl::~CInstrSetupCtrl()
+01/10/18 17:24:23 CInstrSetupCtrl::CInstrSetupCtrl()
+01/10/18 17:24:23 CInstrSetupCtrl::~CInstrSetupCtrl()
+01/10/18 18:05:14 CInstrSetupCtrl::CInstrSetupCtrl()
+01/10/18 18:05:14 CInstrSetupCtrl::~CInstrSetupCtrl()
+01/10/18 18:46:04 CInstrSetupCtrl::CInstrSetupCtrl()
+01/10/18 18:46:04 CInstrSetupCtrl::~CInstrSetupCtrl()
+01/10/18 19:12:04 CInstrSetupCtrl::CInstrSetupCtrl()
+01/10/18 19:12:04 CInstrSetupCtrl::~CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+01/12/18 11:21:18 The software was started
+01/12/18 11:21:18 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+01/12/18 11:21:18 Start InitInstance
+01/12/18 11:21:18 CInstrSetupCtrl::CInstrSetupCtrl()
+01/12/18 11:21:19 CInstrSetupCtrl::CInstrSetupCtrl()
+01/12/18 11:21:19 CInstrSetupCtrl::CInstrSetupCtrl()
+01/12/18 11:21:19 CInstrSetupCtrl::~CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+01/16/18 13:18:57 The software was started
+01/16/18 13:18:57 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+01/16/18 13:18:57 Start InitInstance
+01/16/18 13:18:57 CInstrSetupCtrl::CInstrSetupCtrl()
+01/16/18 13:18:57 CInstrSetupCtrl::CInstrSetupCtrl()
+01/16/18 13:18:58 CInstrSetupCtrl::CInstrSetupCtrl()
+01/16/18 13:18:58 CInstrSetupCtrl::~CInstrSetupCtrl()
+01/16/18 13:54:59 CInstrSetupCtrl::CInstrSetupCtrl()
+01/16/18 13:54:59 CInstrSetupCtrl::~CInstrSetupCtrl()
+01/16/18 14:31:02 CInstrSetupCtrl::CInstrSetupCtrl()
+01/16/18 14:31:03 CInstrSetupCtrl::~CInstrSetupCtrl()
+01/16/18 14:38:02 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+01/22/18 14:00:08 The software was started
+01/22/18 14:00:08 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+01/22/18 14:00:08 Start InitInstance
+01/22/18 14:00:08 CInstrSetupCtrl::CInstrSetupCtrl()
+01/22/18 14:00:08 CInstrSetupCtrl::CInstrSetupCtrl()
+01/22/18 14:00:08 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+01/22/18 14:54:08 The software was started
+01/22/18 14:54:08 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+01/22/18 14:54:08 Start InitInstance
+01/22/18 14:54:08 CInstrSetupCtrl::CInstrSetupCtrl()
+01/22/18 14:54:08 CInstrSetupCtrl::CInstrSetupCtrl()
+01/22/18 14:54:08 CInstrSetupCtrl::CInstrSetupCtrl()
+01/22/18 14:54:08 CInstrSetupCtrl::~CInstrSetupCtrl()
+01/22/18 15:17:06 CInstrSetupCtrl::CInstrSetupCtrl()
+01/22/18 15:17:06 CInstrSetupCtrl::~CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+02/20/18 14:26:45 The software was started
+02/20/18 14:26:45 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+02/20/18 14:26:45 Start InitInstance
+02/20/18 14:26:45 CInstrSetupCtrl::CInstrSetupCtrl()
+02/20/18 14:26:45 CInstrSetupCtrl::CInstrSetupCtrl()
+02/20/18 14:26:46 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+02/28/18 11:57:32 The software was started
+02/28/18 11:57:32 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+02/28/18 11:57:32 Start InitInstance
+02/28/18 11:57:32 CInstrSetupCtrl::CInstrSetupCtrl()
+02/28/18 11:57:32 CInstrSetupCtrl::CInstrSetupCtrl()
+02/28/18 11:57:32 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+02/28/18 11:57:59 The software was started
+02/28/18 11:57:59 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+02/28/18 11:57:59 Start InitInstance
+02/28/18 11:57:59 CInstrSetupCtrl::CInstrSetupCtrl()
+02/28/18 11:57:59 CInstrSetupCtrl::CInstrSetupCtrl()
+02/28/18 11:58:00 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+03/02/18 15:28:22 The software was started
+03/02/18 15:28:22 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+03/02/18 15:28:22 Start InitInstance
+03/02/18 15:28:22 CInstrSetupCtrl::CInstrSetupCtrl()
+03/02/18 15:28:22 CInstrSetupCtrl::CInstrSetupCtrl()
+03/02/18 15:28:22 CInstrSetupCtrl::CInstrSetupCtrl()
+03/02/18 15:28:22 CInstrSetupCtrl::~CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+03/07/18 17:24:22 The software was started
+03/07/18 17:24:22 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+03/07/18 17:24:22 Start InitInstance
+03/07/18 17:24:22 CInstrSetupCtrl::CInstrSetupCtrl()
+03/07/18 17:24:22 CInstrSetupCtrl::CInstrSetupCtrl()
+03/07/18 17:24:22 CInstrSetupCtrl::CInstrSetupCtrl()
+03/07/18 17:24:23 CInstrSetupCtrl::~CInstrSetupCtrl()
+03/07/18 18:00:16 CInstrSetupCtrl::CInstrSetupCtrl()
+03/07/18 18:00:16 CInstrSetupCtrl::~CInstrSetupCtrl()
+03/07/18 18:36:09 CInstrSetupCtrl::CInstrSetupCtrl()
+03/07/18 18:36:09 CInstrSetupCtrl::~CInstrSetupCtrl()
+03/07/18 19:12:03 CInstrSetupCtrl::CInstrSetupCtrl()
+03/07/18 19:12:03 CInstrSetupCtrl::~CInstrSetupCtrl()
+03/07/18 19:47:57 CInstrSetupCtrl::CInstrSetupCtrl()
+03/07/18 19:47:57 CInstrSetupCtrl::~CInstrSetupCtrl()
+03/07/18 20:23:50 CInstrSetupCtrl::CInstrSetupCtrl()
+03/07/18 20:23:50 CInstrSetupCtrl::~CInstrSetupCtrl()
+03/07/18 20:46:43 CInstrSetupCtrl::CInstrSetupCtrl()
+03/07/18 20:46:43 CInstrSetupCtrl::~CInstrSetupCtrl()
+03/07/18 21:07:35 CInstrSetupCtrl::CInstrSetupCtrl()
+03/07/18 21:07:35 CInstrSetupCtrl::~CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+03/08/18 15:00:36 The software was started
+03/08/18 15:00:36 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+03/08/18 15:00:36 Start InitInstance
+03/08/18 15:00:36 CInstrSetupCtrl::CInstrSetupCtrl()
+03/08/18 15:00:36 CInstrSetupCtrl::CInstrSetupCtrl()
+03/08/18 15:00:36 CInstrSetupCtrl::CInstrSetupCtrl()
+03/08/18 15:00:36 CInstrSetupCtrl::CInstrSetupCtrl()
+03/08/18 15:00:36 CheckIfHardwareSetupIsValid: C:\Program Files\Bruker Daltonik\HyStar\Hardware\ultimate 3000.hss return OK
+############# Bruker Hardwaresetup #############
+03/15/18 15:32:24 The software was started
+03/15/18 15:32:24 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+03/15/18 15:32:24 Start InitInstance
+03/15/18 15:32:24 CInstrSetupCtrl::CInstrSetupCtrl()
+03/15/18 15:32:24 CInstrSetupCtrl::CInstrSetupCtrl()
+03/15/18 15:32:24 CInstrSetupCtrl::CInstrSetupCtrl()
+03/15/18 15:32:25 CInstrSetupCtrl::~CInstrSetupCtrl()
+03/15/18 15:51:36 CInstrSetupCtrl::CInstrSetupCtrl()
+03/15/18 15:51:36 CInstrSetupCtrl::~CInstrSetupCtrl()
+03/15/18 16:07:45 CInstrSetupCtrl::CInstrSetupCtrl()
+03/15/18 16:07:45 CInstrSetupCtrl::~CInstrSetupCtrl()
+03/15/18 16:23:55 CInstrSetupCtrl::CInstrSetupCtrl()
+03/15/18 16:23:55 CInstrSetupCtrl::~CInstrSetupCtrl()
+03/15/18 16:40:05 CInstrSetupCtrl::CInstrSetupCtrl()
+03/15/18 16:40:05 CInstrSetupCtrl::~CInstrSetupCtrl()
+03/15/18 16:40:25 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+03/15/18 17:03:36 The software was started
+03/15/18 17:03:36 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+03/15/18 17:03:36 Start InitInstance
+03/15/18 17:03:36 CInstrSetupCtrl::CInstrSetupCtrl()
+03/15/18 17:03:36 CInstrSetupCtrl::CInstrSetupCtrl()
+03/15/18 17:03:37 CInstrSetupCtrl::CInstrSetupCtrl()
+03/15/18 17:03:37 CInstrSetupCtrl::~CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+03/16/18 10:15:40 The software was started
+03/16/18 10:15:40 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+03/16/18 10:15:40 Start InitInstance
+03/16/18 10:15:40 CInstrSetupCtrl::CInstrSetupCtrl()
+03/16/18 10:15:40 CInstrSetupCtrl::CInstrSetupCtrl()
+03/16/18 10:15:40 CInstrSetupCtrl::CInstrSetupCtrl()
+03/16/18 10:15:40 CInstrSetupCtrl::~CInstrSetupCtrl()
+03/16/18 10:34:51 CInstrSetupCtrl::CInstrSetupCtrl()
+03/16/18 10:34:51 CInstrSetupCtrl::~CInstrSetupCtrl()
+03/16/18 10:51:00 CInstrSetupCtrl::CInstrSetupCtrl()
+03/16/18 10:51:00 CInstrSetupCtrl::~CInstrSetupCtrl()
+03/16/18 11:07:09 CInstrSetupCtrl::CInstrSetupCtrl()
+03/16/18 11:07:09 CInstrSetupCtrl::~CInstrSetupCtrl()
+03/16/18 11:23:18 CInstrSetupCtrl::CInstrSetupCtrl()
+03/16/18 11:23:19 CInstrSetupCtrl::~CInstrSetupCtrl()
+03/16/18 11:39:28 CInstrSetupCtrl::CInstrSetupCtrl()
+03/16/18 11:39:28 CInstrSetupCtrl::~CInstrSetupCtrl()
+03/16/18 11:55:37 CInstrSetupCtrl::CInstrSetupCtrl()
+03/16/18 11:55:37 CInstrSetupCtrl::~CInstrSetupCtrl()
+03/16/18 12:11:47 CInstrSetupCtrl::CInstrSetupCtrl()
+03/16/18 12:11:47 CInstrSetupCtrl::~CInstrSetupCtrl()
+03/16/18 12:27:56 CInstrSetupCtrl::CInstrSetupCtrl()
+03/16/18 12:27:56 CInstrSetupCtrl::~CInstrSetupCtrl()
+03/16/18 12:44:05 CInstrSetupCtrl::CInstrSetupCtrl()
+03/16/18 12:44:05 CInstrSetupCtrl::~CInstrSetupCtrl()
+03/16/18 13:00:15 CInstrSetupCtrl::CInstrSetupCtrl()
+03/16/18 13:00:15 CInstrSetupCtrl::~CInstrSetupCtrl()
+03/16/18 13:00:50 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+03/16/18 13:16:24 The software was started
+03/16/18 13:16:24 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+03/16/18 13:16:24 Start InitInstance
+03/16/18 13:16:24 CInstrSetupCtrl::CInstrSetupCtrl()
+03/16/18 13:16:24 CInstrSetupCtrl::CInstrSetupCtrl()
+03/16/18 13:16:25 CInstrSetupCtrl::CInstrSetupCtrl()
+03/16/18 13:16:25 CInstrSetupCtrl::~CInstrSetupCtrl()
+03/16/18 13:39:54 CInstrSetupCtrl::CInstrSetupCtrl()
+03/16/18 13:39:55 CInstrSetupCtrl::~CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+03/20/18 17:17:56 The software was started
+03/20/18 17:17:56 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+03/20/18 17:17:56 Start InitInstance
+03/20/18 17:17:56 CInstrSetupCtrl::CInstrSetupCtrl()
+03/20/18 17:17:56 CInstrSetupCtrl::CInstrSetupCtrl()
+03/20/18 17:17:57 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+03/20/18 17:18:04 The software was started
+03/20/18 17:18:04 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+03/20/18 17:18:04 Start InitInstance
+03/20/18 17:18:04 CInstrSetupCtrl::CInstrSetupCtrl()
+03/20/18 17:18:04 CInstrSetupCtrl::CInstrSetupCtrl()
+03/20/18 17:18:04 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+03/20/18 18:55:52 The software was started
+03/20/18 18:55:52 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+03/20/18 18:55:52 Start InitInstance
+03/20/18 18:55:52 CInstrSetupCtrl::CInstrSetupCtrl()
+03/20/18 18:55:52 CInstrSetupCtrl::CInstrSetupCtrl()
+03/20/18 18:55:53 CInstrSetupCtrl::CInstrSetupCtrl()
+03/20/18 18:55:53 CInstrSetupCtrl::~CInstrSetupCtrl()
+03/20/18 19:22:19 CInstrSetupCtrl::CInstrSetupCtrl()
+03/20/18 19:22:19 CInstrSetupCtrl::~CInstrSetupCtrl()
+03/20/18 19:33:51 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+03/20/18 19:34:52 The software was started
+03/20/18 19:34:52 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+03/20/18 19:34:52 Start InitInstance
+03/20/18 19:34:52 CInstrSetupCtrl::CInstrSetupCtrl()
+03/20/18 19:34:52 CInstrSetupCtrl::CInstrSetupCtrl()
+03/20/18 19:34:53 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+03/20/18 19:36:47 The software was started
+03/20/18 19:36:47 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+03/20/18 19:36:47 Start InitInstance
+03/20/18 19:36:47 CInstrSetupCtrl::CInstrSetupCtrl()
+03/20/18 19:36:47 CInstrSetupCtrl::CInstrSetupCtrl()
+03/20/18 19:36:47 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+03/20/18 19:37:34 The software was started
+03/20/18 19:37:34 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+03/20/18 19:37:34 Start InitInstance
+03/20/18 19:37:34 CInstrSetupCtrl::CInstrSetupCtrl()
+03/20/18 19:37:34 CInstrSetupCtrl::CInstrSetupCtrl()
+03/20/18 19:37:34 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+03/20/18 19:47:29 The software was started
+03/20/18 19:47:29 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+03/20/18 19:47:29 Start InitInstance
+03/20/18 19:47:29 CInstrSetupCtrl::CInstrSetupCtrl()
+03/20/18 19:47:29 CInstrSetupCtrl::CInstrSetupCtrl()
+03/20/18 19:47:29 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+03/20/18 19:48:44 The software was started
+03/20/18 19:48:44 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+03/20/18 19:48:44 Start InitInstance
+03/20/18 19:48:44 CInstrSetupCtrl::CInstrSetupCtrl()
+03/20/18 19:48:44 CInstrSetupCtrl::CInstrSetupCtrl()
+03/20/18 19:48:44 CInstrSetupCtrl::CInstrSetupCtrl()
+03/20/18 19:48:44 CInstrSetupCtrl::~CInstrSetupCtrl()
+03/20/18 20:15:07 CInstrSetupCtrl::CInstrSetupCtrl()
+03/20/18 20:15:07 CInstrSetupCtrl::~CInstrSetupCtrl()
+03/20/18 20:35:58 CInstrSetupCtrl::CInstrSetupCtrl()
+03/20/18 20:35:58 CInstrSetupCtrl::~CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+03/21/18 14:40:50 The software was started
+03/21/18 14:40:50 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+03/21/18 14:40:50 Start InitInstance
+03/21/18 14:40:50 CInstrSetupCtrl::CInstrSetupCtrl()
+03/21/18 14:40:50 CInstrSetupCtrl::CInstrSetupCtrl()
+03/21/18 14:40:51 CInstrSetupCtrl::CInstrSetupCtrl()
+03/21/18 14:40:51 CInstrSetupCtrl::~CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+03/21/18 16:19:00 The software was started
+03/21/18 16:19:00 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+03/21/18 16:19:00 Start InitInstance
+03/21/18 16:19:00 CInstrSetupCtrl::CInstrSetupCtrl()
+03/21/18 16:19:00 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+03/22/18 17:15:45 The software was started
+03/22/18 17:15:45 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+03/22/18 17:15:45 Start InitInstance
+03/22/18 17:15:45 CInstrSetupCtrl::CInstrSetupCtrl()
+03/22/18 17:15:45 CInstrSetupCtrl::CInstrSetupCtrl()
+03/22/18 17:15:45 CInstrSetupCtrl::CInstrSetupCtrl()
+03/22/18 17:15:45 CInstrSetupCtrl::~CInstrSetupCtrl()
+03/22/18 17:42:12 CInstrSetupCtrl::CInstrSetupCtrl()
+03/22/18 17:42:12 CInstrSetupCtrl::~CInstrSetupCtrl()
+03/22/18 17:56:58 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+03/22/18 17:58:07 The software was started
+03/22/18 17:58:07 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+03/22/18 17:58:07 Start InitInstance
+03/22/18 17:58:07 CInstrSetupCtrl::CInstrSetupCtrl()
+03/22/18 17:58:07 CInstrSetupCtrl::CInstrSetupCtrl()
+03/22/18 17:58:08 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+03/22/18 17:58:44 The software was started
+03/22/18 17:58:44 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+03/22/18 17:58:44 Start InitInstance
+03/22/18 17:58:44 CInstrSetupCtrl::CInstrSetupCtrl()
+03/22/18 17:58:44 CInstrSetupCtrl::CInstrSetupCtrl()
+03/22/18 17:58:45 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+03/22/18 17:59:45 The software was started
+03/22/18 17:59:45 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+03/22/18 17:59:45 Start InitInstance
+03/22/18 17:59:45 CInstrSetupCtrl::CInstrSetupCtrl()
+03/22/18 17:59:45 CInstrSetupCtrl::CInstrSetupCtrl()
+03/22/18 17:59:45 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+03/22/18 18:02:19 The software was started
+03/22/18 18:02:19 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+03/22/18 18:02:19 Start InitInstance
+03/22/18 18:02:19 CInstrSetupCtrl::CInstrSetupCtrl()
+03/22/18 18:02:19 CInstrSetupCtrl::CInstrSetupCtrl()
+03/22/18 18:02:19 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+03/22/18 18:06:07 The software was started
+03/22/18 18:06:07 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+03/22/18 18:06:07 Start InitInstance
+03/22/18 18:06:07 CInstrSetupCtrl::CInstrSetupCtrl()
+03/22/18 18:06:07 CInstrSetupCtrl::CInstrSetupCtrl()
+03/22/18 18:06:07 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+03/22/18 18:08:36 The software was started
+03/22/18 18:08:36 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+03/22/18 18:08:36 Start InitInstance
+03/22/18 18:08:36 CInstrSetupCtrl::CInstrSetupCtrl()
+03/22/18 18:08:36 CInstrSetupCtrl::CInstrSetupCtrl()
+03/22/18 18:08:37 CInstrSetupCtrl::CInstrSetupCtrl()
+03/22/18 18:08:37 CInstrSetupCtrl::~CInstrSetupCtrl()
+03/22/18 18:34:59 CInstrSetupCtrl::CInstrSetupCtrl()
+03/22/18 18:34:59 CInstrSetupCtrl::~CInstrSetupCtrl()
+03/22/18 19:01:24 CInstrSetupCtrl::CInstrSetupCtrl()
+03/22/18 19:01:24 CInstrSetupCtrl::~CInstrSetupCtrl()
+03/22/18 19:27:49 CInstrSetupCtrl::CInstrSetupCtrl()
+03/22/18 19:27:49 CInstrSetupCtrl::~CInstrSetupCtrl()
+03/22/18 19:54:14 CInstrSetupCtrl::CInstrSetupCtrl()
+03/22/18 19:54:14 CInstrSetupCtrl::~CInstrSetupCtrl()
+03/22/18 20:15:05 CInstrSetupCtrl::CInstrSetupCtrl()
+03/22/18 20:15:05 CInstrSetupCtrl::~CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+03/26/18 16:43:15 The software was started
+03/26/18 16:43:15 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+03/26/18 16:43:15 Start InitInstance
+03/26/18 16:43:15 CInstrSetupCtrl::CInstrSetupCtrl()
+03/26/18 16:43:15 CInstrSetupCtrl::CInstrSetupCtrl()
+03/26/18 16:43:15 CInstrSetupCtrl::CInstrSetupCtrl()
+03/26/18 16:43:15 CInstrSetupCtrl::~CInstrSetupCtrl()
+03/26/18 17:02:24 CInstrSetupCtrl::CInstrSetupCtrl()
+03/26/18 17:02:24 CInstrSetupCtrl::~CInstrSetupCtrl()
+03/26/18 17:18:34 CInstrSetupCtrl::CInstrSetupCtrl()
+03/26/18 17:18:34 CInstrSetupCtrl::~CInstrSetupCtrl()
+03/26/18 17:34:43 CInstrSetupCtrl::CInstrSetupCtrl()
+03/26/18 17:34:43 CInstrSetupCtrl::~CInstrSetupCtrl()
+03/26/18 17:50:52 CInstrSetupCtrl::CInstrSetupCtrl()
+03/26/18 17:50:52 CInstrSetupCtrl::~CInstrSetupCtrl()
+03/26/18 18:14:26 CInstrSetupCtrl::CInstrSetupCtrl()
+03/26/18 18:14:26 CInstrSetupCtrl::~CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+03/28/18 10:53:39 The software was started
+03/28/18 10:53:39 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+03/28/18 10:53:39 Start InitInstance
+03/28/18 10:53:39 CInstrSetupCtrl::CInstrSetupCtrl()
+03/28/18 10:53:39 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+03/29/18 18:10:47 The software was started
+03/29/18 18:10:47 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+03/29/18 18:10:47 Start InitInstance
+03/29/18 18:10:47 CInstrSetupCtrl::CInstrSetupCtrl()
+03/29/18 18:10:47 CInstrSetupCtrl::CInstrSetupCtrl()
+03/29/18 18:10:48 CInstrSetupCtrl::CInstrSetupCtrl()
+03/29/18 18:10:48 CInstrSetupCtrl::~CInstrSetupCtrl()
+03/29/18 18:41:43 CInstrSetupCtrl::CInstrSetupCtrl()
+03/29/18 18:41:43 CInstrSetupCtrl::~CInstrSetupCtrl()
+03/29/18 19:12:38 CInstrSetupCtrl::CInstrSetupCtrl()
+03/29/18 19:12:38 CInstrSetupCtrl::~CInstrSetupCtrl()
+03/30/18 11:29:52 CInstrSetupCtrl::CInstrSetupCtrl()
+03/30/18 11:29:52 CInstrSetupCtrl::~CInstrSetupCtrl()
+03/30/18 12:42:16 CInstrSetupCtrl::CInstrSetupCtrl()
+03/30/18 12:42:16 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/18/18 13:45:33 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+04/18/18 13:47:04 The software was started
+04/18/18 13:47:04 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+04/18/18 13:47:04 Start InitInstance
+04/18/18 13:47:04 CInstrSetupCtrl::CInstrSetupCtrl()
+04/18/18 13:47:04 CInstrSetupCtrl::CInstrSetupCtrl()
+04/18/18 13:47:05 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+04/18/18 13:48:33 The software was started
+04/18/18 13:48:33 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+04/18/18 13:48:33 Start InitInstance
+04/18/18 13:48:33 CInstrSetupCtrl::CInstrSetupCtrl()
+04/18/18 13:48:33 CInstrSetupCtrl::CInstrSetupCtrl()
+04/18/18 13:48:33 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+04/18/18 13:48:43 The software was started
+04/18/18 13:48:43 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+04/18/18 13:48:43 Start InitInstance
+04/18/18 13:48:43 CInstrSetupCtrl::CInstrSetupCtrl()
+04/18/18 13:48:43 CInstrSetupCtrl::CInstrSetupCtrl()
+04/18/18 13:48:44 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+04/18/18 13:48:54 The software was started
+04/18/18 13:48:54 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+04/18/18 13:48:54 Start InitInstance
+04/18/18 13:48:54 CInstrSetupCtrl::CInstrSetupCtrl()
+04/18/18 13:48:55 CInstrSetupCtrl::CInstrSetupCtrl()
+04/18/18 13:48:55 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+04/18/18 13:49:50 The software was started
+04/18/18 13:49:50 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+04/18/18 13:49:50 Start InitInstance
+04/18/18 13:49:50 CInstrSetupCtrl::CInstrSetupCtrl()
+04/18/18 13:49:50 CInstrSetupCtrl::CInstrSetupCtrl()
+04/18/18 13:49:51 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+04/18/18 13:49:58 The software was started
+04/18/18 13:49:58 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+04/18/18 13:49:58 Start InitInstance
+04/18/18 13:49:58 CInstrSetupCtrl::CInstrSetupCtrl()
+04/18/18 13:49:58 CInstrSetupCtrl::CInstrSetupCtrl()
+04/18/18 13:49:58 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+04/18/18 13:50:13 The software was started
+04/18/18 13:50:13 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+04/18/18 13:50:13 Start InitInstance
+04/18/18 13:50:13 CInstrSetupCtrl::CInstrSetupCtrl()
+04/18/18 13:50:13 CInstrSetupCtrl::CInstrSetupCtrl()
+04/18/18 13:50:14 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+04/18/18 13:50:22 The software was started
+04/18/18 13:50:22 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+04/18/18 13:50:22 Start InitInstance
+04/18/18 13:50:22 CInstrSetupCtrl::CInstrSetupCtrl()
+04/18/18 13:50:22 CInstrSetupCtrl::CInstrSetupCtrl()
+04/18/18 13:50:23 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+04/18/18 13:50:33 The software was started
+04/18/18 13:50:33 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+04/18/18 13:50:33 Start InitInstance
+04/18/18 13:50:33 CInstrSetupCtrl::CInstrSetupCtrl()
+04/18/18 13:50:33 CInstrSetupCtrl::CInstrSetupCtrl()
+04/18/18 13:50:34 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+04/18/18 13:56:41 The software was started
+04/18/18 13:56:41 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+04/18/18 13:56:41 Start InitInstance
+04/18/18 13:56:41 CInstrSetupCtrl::CInstrSetupCtrl()
+04/18/18 13:56:41 CInstrSetupCtrl::CInstrSetupCtrl()
+04/18/18 13:56:41 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+04/18/18 13:57:29 The software was started
+04/18/18 13:57:29 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+04/18/18 13:57:29 Start InitInstance
+04/18/18 13:57:29 CInstrSetupCtrl::CInstrSetupCtrl()
+04/18/18 13:57:29 CInstrSetupCtrl::CInstrSetupCtrl()
+04/18/18 13:57:29 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+04/18/18 13:59:30 The software was started
+04/18/18 13:59:30 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+04/18/18 13:59:30 Start InitInstance
+04/18/18 13:59:30 CInstrSetupCtrl::CInstrSetupCtrl()
+04/18/18 13:59:30 CInstrSetupCtrl::CInstrSetupCtrl()
+04/18/18 13:59:31 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+04/18/18 13:59:54 The software was started
+04/18/18 13:59:54 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+04/18/18 13:59:54 Start InitInstance
+04/18/18 13:59:54 CInstrSetupCtrl::CInstrSetupCtrl()
+04/18/18 13:59:54 CInstrSetupCtrl::CInstrSetupCtrl()
+04/18/18 13:59:54 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+04/18/18 14:00:07 The software was started
+04/18/18 14:00:07 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+04/18/18 14:00:07 Start InitInstance
+04/18/18 14:00:07 CInstrSetupCtrl::CInstrSetupCtrl()
+04/18/18 14:00:07 CInstrSetupCtrl::CInstrSetupCtrl()
+04/18/18 14:00:08 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+04/18/18 14:00:14 The software was started
+04/18/18 14:00:14 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+04/18/18 14:00:14 Start InitInstance
+04/18/18 14:00:14 CInstrSetupCtrl::CInstrSetupCtrl()
+04/18/18 14:00:14 CInstrSetupCtrl::CInstrSetupCtrl()
+04/18/18 14:00:15 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+04/18/18 14:00:27 The software was started
+04/18/18 14:00:27 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+04/18/18 14:00:27 Start InitInstance
+04/18/18 14:00:27 CInstrSetupCtrl::CInstrSetupCtrl()
+04/18/18 14:00:27 CInstrSetupCtrl::CInstrSetupCtrl()
+04/18/18 14:00:28 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+04/18/18 14:00:39 The software was started
+04/18/18 14:00:39 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+04/18/18 14:00:39 Start InitInstance
+04/18/18 14:00:39 CInstrSetupCtrl::CInstrSetupCtrl()
+04/18/18 14:00:39 CInstrSetupCtrl::CInstrSetupCtrl()
+04/18/18 14:00:39 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+04/18/18 14:01:35 The software was started
+04/18/18 14:01:35 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+04/18/18 14:01:35 Start InitInstance
+04/18/18 14:01:35 CInstrSetupCtrl::CInstrSetupCtrl()
+04/18/18 14:01:35 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+04/18/18 14:01:43 The software was started
+04/18/18 14:01:43 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+04/18/18 14:01:43 Start InitInstance
+04/18/18 14:01:43 CInstrSetupCtrl::CInstrSetupCtrl()
+04/18/18 14:01:43 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+04/18/18 14:01:52 The software was started
+04/18/18 14:01:52 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+04/18/18 14:01:52 Start InitInstance
+04/18/18 14:01:52 CInstrSetupCtrl::CInstrSetupCtrl()
+04/18/18 14:01:52 CInstrSetupCtrl::CInstrSetupCtrl()
+04/18/18 14:01:52 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+04/18/18 14:02:35 The software was started
+04/18/18 14:02:35 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+04/18/18 14:02:35 Start InitInstance
+04/18/18 14:02:35 CInstrSetupCtrl::CInstrSetupCtrl()
+04/18/18 14:02:35 CInstrSetupCtrl::CInstrSetupCtrl()
+04/18/18 14:02:36 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+04/18/18 14:02:50 The software was started
+04/18/18 14:02:50 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+04/18/18 14:02:50 Start InitInstance
+04/18/18 14:02:50 CInstrSetupCtrl::CInstrSetupCtrl()
+04/18/18 14:02:50 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+04/18/18 14:04:55 The software was started
+04/18/18 14:04:55 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+04/18/18 14:04:55 Start InitInstance
+04/18/18 14:04:55 CInstrSetupCtrl::CInstrSetupCtrl()
+04/18/18 14:04:55 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+04/18/18 14:05:23 The software was started
+04/18/18 14:05:23 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+04/18/18 14:05:23 Start InitInstance
+04/18/18 14:05:23 CInstrSetupCtrl::CInstrSetupCtrl()
+04/18/18 14:05:23 CInstrSetupCtrl::CInstrSetupCtrl()
+04/18/18 14:05:24 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+04/18/18 14:05:28 The software was started
+04/18/18 14:05:28 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+04/18/18 14:05:28 Start InitInstance
+04/18/18 14:05:28 CInstrSetupCtrl::CInstrSetupCtrl()
+04/18/18 14:05:28 CInstrSetupCtrl::CInstrSetupCtrl()
+04/18/18 14:05:29 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+04/25/18 14:06:00 The software was started
+04/25/18 14:06:00 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+04/25/18 14:06:00 Start InitInstance
+04/25/18 14:06:00 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 14:06:00 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 14:06:01 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 14:06:01 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 14:10:54 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 14:10:54 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 14:15:48 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 14:15:48 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 14:20:42 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 14:20:42 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 14:25:36 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 14:25:36 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 14:30:30 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 14:30:30 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 14:35:24 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 14:35:24 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 14:40:18 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 14:40:18 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 14:45:12 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 14:45:12 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 14:50:06 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 14:50:06 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 14:55:00 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 14:55:01 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 14:59:55 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 14:59:55 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 15:04:49 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 15:04:49 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 15:09:43 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 15:09:43 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 15:14:37 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 15:14:37 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 15:19:31 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 15:19:31 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 15:24:25 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 15:24:25 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 15:29:19 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 15:29:19 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 15:34:13 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 15:34:13 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 15:39:07 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 15:39:07 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 15:44:01 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 15:44:01 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 15:48:55 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 15:48:55 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 15:53:49 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 15:53:49 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 15:58:43 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 15:58:43 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 16:03:37 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 16:03:37 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 16:08:31 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 16:08:31 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 16:13:25 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 16:13:25 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 16:18:20 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 16:18:20 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 16:23:15 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 16:23:15 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 16:28:10 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 16:28:10 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 16:33:04 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 16:33:04 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 16:37:58 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 16:37:58 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 16:42:53 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 16:42:53 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 16:47:47 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 16:47:47 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 16:52:42 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 16:52:42 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 16:57:36 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 16:57:36 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 17:02:24 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 17:02:24 CInstrSetupCtrl::~CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+04/25/18 17:10:28 The software was started
+04/25/18 17:10:28 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+04/25/18 17:10:28 Start InitInstance
+04/25/18 17:10:28 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 17:10:28 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 17:10:28 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+04/25/18 17:19:12 The software was started
+04/25/18 17:19:12 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+04/25/18 17:19:12 Start InitInstance
+04/25/18 17:19:12 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 17:19:12 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 17:19:12 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 17:19:13 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 17:24:05 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 17:24:06 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 17:29:00 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 17:29:00 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 17:33:54 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 17:33:54 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 17:38:49 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 17:38:49 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 17:43:43 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 17:43:43 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 17:48:37 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 17:48:37 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 17:53:31 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 17:53:31 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 17:58:26 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 17:58:26 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 18:03:20 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 18:03:20 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 18:08:15 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 18:08:15 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 18:13:09 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 18:13:09 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 18:18:03 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 18:18:03 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 18:22:57 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 18:22:57 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 18:27:51 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 18:27:51 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 18:32:45 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 18:32:45 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 18:37:39 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 18:37:39 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 18:42:34 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 18:42:34 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 18:47:28 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 18:47:28 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 18:52:22 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 18:52:22 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 18:57:16 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 18:57:16 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 19:02:10 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 19:02:10 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 19:07:04 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 19:07:04 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 19:11:58 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 19:11:58 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 19:16:53 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 19:16:53 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 19:21:47 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 19:21:47 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 19:26:41 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 19:26:41 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 19:31:35 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 19:31:35 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 19:36:30 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 19:36:30 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 19:41:24 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 19:41:24 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 19:46:19 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 19:46:19 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 19:51:13 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 19:51:13 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 19:56:08 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 19:56:08 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 20:01:03 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 20:01:03 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 20:05:58 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 20:05:58 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 20:10:52 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 20:10:52 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 20:15:46 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 20:15:46 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 20:20:40 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 20:20:40 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 20:25:34 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 20:25:34 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 20:30:28 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 20:30:28 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 20:35:22 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 20:35:22 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 20:40:16 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 20:40:16 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 20:45:10 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 20:45:10 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 20:50:04 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 20:50:04 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 20:54:58 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 20:54:58 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 20:59:52 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 20:59:52 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 21:04:46 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 21:04:46 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 21:09:40 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 21:09:40 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 21:14:36 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 21:14:37 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 21:19:32 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 21:19:32 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 21:24:26 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 21:24:26 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 21:29:20 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 21:29:20 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 21:34:14 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 21:34:14 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 21:39:08 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 21:39:08 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 21:44:02 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 21:44:02 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 21:48:56 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 21:48:56 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 21:53:50 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 21:53:50 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 21:58:44 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 21:58:44 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 22:03:38 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 22:03:38 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 22:08:32 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 22:08:32 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 22:13:26 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 22:13:26 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 22:18:20 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 22:18:20 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 22:23:14 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 22:23:14 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 22:28:07 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 22:28:07 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 22:33:01 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 22:33:01 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 22:37:55 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 22:37:56 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 22:42:50 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 22:42:50 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 22:47:44 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 22:47:44 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 22:52:38 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 22:52:38 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 22:57:32 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 22:57:32 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 23:02:26 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 23:02:26 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 23:07:20 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 23:07:20 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 23:12:14 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 23:12:14 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 23:17:08 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 23:17:08 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 23:22:02 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 23:22:02 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 23:26:55 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 23:26:55 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 23:31:49 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 23:31:49 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/25/18 23:36:43 CInstrSetupCtrl::CInstrSetupCtrl()
+04/25/18 23:36:43 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/27/18 14:03:40 CInstrSetupCtrl::CInstrSetupCtrl()
+04/27/18 14:03:40 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/27/18 14:33:35 CInstrSetupCtrl::CInstrSetupCtrl()
+04/27/18 14:33:35 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/27/18 14:49:44 CInstrSetupCtrl::CInstrSetupCtrl()
+04/27/18 14:49:44 CInstrSetupCtrl::~CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+04/30/18 11:07:04 The software was started
+04/30/18 11:07:04 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+04/30/18 11:07:04 Start InitInstance
+04/30/18 11:07:04 CInstrSetupCtrl::CInstrSetupCtrl()
+04/30/18 11:07:04 CInstrSetupCtrl::CInstrSetupCtrl()
+04/30/18 11:07:04 CInstrSetupCtrl::CInstrSetupCtrl()
+04/30/18 11:07:05 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/30/18 11:26:19 CInstrSetupCtrl::CInstrSetupCtrl()
+04/30/18 11:26:19 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/30/18 11:42:28 CInstrSetupCtrl::CInstrSetupCtrl()
+04/30/18 11:42:28 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/30/18 11:58:37 CInstrSetupCtrl::CInstrSetupCtrl()
+04/30/18 11:58:37 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/30/18 12:14:47 CInstrSetupCtrl::CInstrSetupCtrl()
+04/30/18 12:14:47 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/30/18 12:30:56 CInstrSetupCtrl::CInstrSetupCtrl()
+04/30/18 12:30:56 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/30/18 12:47:06 CInstrSetupCtrl::CInstrSetupCtrl()
+04/30/18 12:47:06 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/30/18 13:03:15 CInstrSetupCtrl::CInstrSetupCtrl()
+04/30/18 13:03:15 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/30/18 13:19:24 CInstrSetupCtrl::CInstrSetupCtrl()
+04/30/18 13:19:24 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/30/18 13:42:58 CInstrSetupCtrl::CInstrSetupCtrl()
+04/30/18 13:42:58 CInstrSetupCtrl::~CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+04/30/18 14:21:09 The software was started
+04/30/18 14:21:09 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+04/30/18 14:21:09 Start InitInstance
+04/30/18 14:21:09 CInstrSetupCtrl::CInstrSetupCtrl()
+04/30/18 14:21:09 CInstrSetupCtrl::CInstrSetupCtrl()
+04/30/18 14:21:09 CInstrSetupCtrl::CInstrSetupCtrl()
+04/30/18 14:21:10 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/30/18 14:40:26 CInstrSetupCtrl::CInstrSetupCtrl()
+04/30/18 14:40:26 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/30/18 14:56:34 CInstrSetupCtrl::CInstrSetupCtrl()
+04/30/18 14:56:34 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/30/18 15:12:43 CInstrSetupCtrl::CInstrSetupCtrl()
+04/30/18 15:12:44 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/30/18 15:28:54 CInstrSetupCtrl::CInstrSetupCtrl()
+04/30/18 15:28:54 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/30/18 15:45:03 CInstrSetupCtrl::CInstrSetupCtrl()
+04/30/18 15:45:03 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/30/18 16:01:13 CInstrSetupCtrl::CInstrSetupCtrl()
+04/30/18 16:01:13 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/30/18 16:17:22 CInstrSetupCtrl::CInstrSetupCtrl()
+04/30/18 16:17:22 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/30/18 16:33:31 CInstrSetupCtrl::CInstrSetupCtrl()
+04/30/18 16:33:31 CInstrSetupCtrl::~CInstrSetupCtrl()
+04/30/18 16:57:07 CInstrSetupCtrl::CInstrSetupCtrl()
+04/30/18 16:57:07 CInstrSetupCtrl::~CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+05/02/18 14:03:02 The software was started
+05/02/18 14:03:02 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+05/02/18 14:03:02 Start InitInstance
+05/02/18 14:03:02 CInstrSetupCtrl::CInstrSetupCtrl()
+05/02/18 14:03:02 CInstrSetupCtrl::CInstrSetupCtrl()
+05/02/18 14:03:02 CInstrSetupCtrl::CInstrSetupCtrl()
+05/02/18 14:03:03 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/02/18 14:22:22 CInstrSetupCtrl::CInstrSetupCtrl()
+05/02/18 14:22:22 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/02/18 14:38:31 CInstrSetupCtrl::CInstrSetupCtrl()
+05/02/18 14:38:31 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/02/18 14:54:40 CInstrSetupCtrl::CInstrSetupCtrl()
+05/02/18 14:54:41 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/02/18 15:10:52 CInstrSetupCtrl::CInstrSetupCtrl()
+05/02/18 15:10:52 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/02/18 15:27:01 CInstrSetupCtrl::CInstrSetupCtrl()
+05/02/18 15:27:01 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/02/18 15:43:11 CInstrSetupCtrl::CInstrSetupCtrl()
+05/02/18 15:43:11 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/02/18 15:59:20 CInstrSetupCtrl::CInstrSetupCtrl()
+05/02/18 15:59:20 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/02/18 16:15:29 CInstrSetupCtrl::CInstrSetupCtrl()
+05/02/18 16:15:29 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/02/18 16:31:39 CInstrSetupCtrl::CInstrSetupCtrl()
+05/02/18 16:31:39 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/02/18 16:47:51 CInstrSetupCtrl::CInstrSetupCtrl()
+05/02/18 16:47:51 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/02/18 17:11:42 CInstrSetupCtrl::CInstrSetupCtrl()
+05/02/18 17:11:42 CInstrSetupCtrl::~CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+05/03/18 10:09:04 The software was started
+05/03/18 10:09:04 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+05/03/18 10:09:04 Start InitInstance
+05/03/18 10:09:04 CInstrSetupCtrl::CInstrSetupCtrl()
+05/03/18 10:09:04 CInstrSetupCtrl::CInstrSetupCtrl()
+05/03/18 10:09:05 CInstrSetupCtrl::CInstrSetupCtrl()
+05/03/18 10:09:05 CInstrSetupCtrl::~CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+05/03/18 11:13:41 The software was started
+05/03/18 11:13:41 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+05/03/18 11:13:41 Start InitInstance
+05/03/18 11:13:41 CInstrSetupCtrl::CInstrSetupCtrl()
+05/03/18 11:13:41 CInstrSetupCtrl::CInstrSetupCtrl()
+05/03/18 11:13:42 CInstrSetupCtrl::CInstrSetupCtrl()
+05/03/18 11:13:42 CInstrSetupCtrl::~CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+05/03/18 12:11:53 The software was started
+05/03/18 12:11:53 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+05/03/18 12:11:53 Start InitInstance
+05/03/18 12:11:53 CInstrSetupCtrl::CInstrSetupCtrl()
+05/03/18 12:11:53 CInstrSetupCtrl::CInstrSetupCtrl()
+05/03/18 12:11:54 CInstrSetupCtrl::CInstrSetupCtrl()
+05/03/18 12:11:54 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/03/18 12:28:02 CInstrSetupCtrl::CInstrSetupCtrl()
+05/03/18 12:28:02 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/03/18 12:44:12 CInstrSetupCtrl::CInstrSetupCtrl()
+05/03/18 12:44:12 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/03/18 13:10:21 CInstrSetupCtrl::CInstrSetupCtrl()
+05/03/18 13:10:21 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/03/18 13:36:31 CInstrSetupCtrl::CInstrSetupCtrl()
+05/03/18 13:36:31 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/03/18 13:52:40 CInstrSetupCtrl::CInstrSetupCtrl()
+05/03/18 13:52:40 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/03/18 14:16:11 CInstrSetupCtrl::CInstrSetupCtrl()
+05/03/18 14:16:11 CInstrSetupCtrl::~CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+05/04/18 09:38:51 The software was started
+05/04/18 09:38:51 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+05/04/18 09:38:51 Start InitInstance
+05/04/18 09:38:51 CInstrSetupCtrl::CInstrSetupCtrl()
+05/04/18 09:38:51 CInstrSetupCtrl::CInstrSetupCtrl()
+05/04/18 09:38:52 CInstrSetupCtrl::CInstrSetupCtrl()
+05/04/18 09:38:52 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/04/18 09:57:55 CInstrSetupCtrl::CInstrSetupCtrl()
+05/04/18 09:57:55 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/04/18 10:14:04 CInstrSetupCtrl::CInstrSetupCtrl()
+05/04/18 10:14:04 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/04/18 10:30:15 CInstrSetupCtrl::CInstrSetupCtrl()
+05/04/18 10:30:15 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/04/18 10:46:25 CInstrSetupCtrl::CInstrSetupCtrl()
+05/04/18 10:46:25 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/04/18 11:02:36 CInstrSetupCtrl::CInstrSetupCtrl()
+05/04/18 11:02:36 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/04/18 11:18:49 CInstrSetupCtrl::CInstrSetupCtrl()
+05/04/18 11:18:49 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/04/18 11:34:59 CInstrSetupCtrl::CInstrSetupCtrl()
+05/04/18 11:34:59 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/04/18 11:51:11 CInstrSetupCtrl::CInstrSetupCtrl()
+05/04/18 11:51:11 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/04/18 12:07:22 CInstrSetupCtrl::CInstrSetupCtrl()
+05/04/18 12:07:22 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/04/18 12:23:34 CInstrSetupCtrl::CInstrSetupCtrl()
+05/04/18 12:23:34 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/04/18 12:39:47 CInstrSetupCtrl::CInstrSetupCtrl()
+05/04/18 12:39:47 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/04/18 12:55:58 CInstrSetupCtrl::CInstrSetupCtrl()
+05/04/18 12:55:58 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/04/18 13:12:09 CInstrSetupCtrl::CInstrSetupCtrl()
+05/04/18 13:12:09 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/04/18 13:28:19 CInstrSetupCtrl::CInstrSetupCtrl()
+05/04/18 13:28:19 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/04/18 13:44:31 CInstrSetupCtrl::CInstrSetupCtrl()
+05/04/18 13:44:32 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/04/18 14:00:43 CInstrSetupCtrl::CInstrSetupCtrl()
+05/04/18 14:00:43 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/04/18 14:16:55 CInstrSetupCtrl::CInstrSetupCtrl()
+05/04/18 14:16:55 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/04/18 14:33:06 CInstrSetupCtrl::CInstrSetupCtrl()
+05/04/18 14:33:06 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/04/18 14:49:17 CInstrSetupCtrl::CInstrSetupCtrl()
+05/04/18 14:49:17 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/04/18 15:05:29 CInstrSetupCtrl::CInstrSetupCtrl()
+05/04/18 15:05:29 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/04/18 15:21:40 CInstrSetupCtrl::CInstrSetupCtrl()
+05/04/18 15:21:40 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/04/18 15:37:51 CInstrSetupCtrl::CInstrSetupCtrl()
+05/04/18 15:37:51 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/04/18 15:54:02 CInstrSetupCtrl::CInstrSetupCtrl()
+05/04/18 15:54:02 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/04/18 16:10:14 CInstrSetupCtrl::CInstrSetupCtrl()
+05/04/18 16:10:14 CInstrSetupCtrl::~CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+05/07/18 09:36:51 The software was started
+05/07/18 09:36:51 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+05/07/18 09:36:51 Start InitInstance
+05/07/18 09:36:51 CInstrSetupCtrl::CInstrSetupCtrl()
+05/07/18 09:36:51 CInstrSetupCtrl::CInstrSetupCtrl()
+05/07/18 09:36:51 CInstrSetupCtrl::CInstrSetupCtrl()
+05/07/18 09:36:51 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/07/18 09:55:54 CInstrSetupCtrl::CInstrSetupCtrl()
+05/07/18 09:55:54 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/07/18 10:12:03 CInstrSetupCtrl::CInstrSetupCtrl()
+05/07/18 10:12:03 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/07/18 10:28:14 CInstrSetupCtrl::CInstrSetupCtrl()
+05/07/18 10:28:14 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/07/18 10:44:23 CInstrSetupCtrl::CInstrSetupCtrl()
+05/07/18 10:44:23 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/07/18 11:00:32 CInstrSetupCtrl::CInstrSetupCtrl()
+05/07/18 11:00:33 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/07/18 11:16:42 CInstrSetupCtrl::CInstrSetupCtrl()
+05/07/18 11:16:42 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/07/18 11:40:13 CInstrSetupCtrl::CInstrSetupCtrl()
+05/07/18 11:40:13 CInstrSetupCtrl::~CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+05/07/18 13:12:50 The software was started
+05/07/18 13:12:50 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+05/07/18 13:12:50 Start InitInstance
+05/07/18 13:12:50 CInstrSetupCtrl::CInstrSetupCtrl()
+05/07/18 13:12:50 CInstrSetupCtrl::CInstrSetupCtrl()
+05/07/18 13:12:50 CInstrSetupCtrl::CInstrSetupCtrl()
+05/07/18 13:12:50 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/07/18 13:32:04 CInstrSetupCtrl::CInstrSetupCtrl()
+05/07/18 13:32:04 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/07/18 13:39:01 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+05/07/18 13:48:14 The software was started
+05/07/18 13:48:14 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+05/07/18 13:48:14 Start InitInstance
+05/07/18 13:48:14 CInstrSetupCtrl::CInstrSetupCtrl()
+05/07/18 13:48:14 CInstrSetupCtrl::CInstrSetupCtrl()
+05/07/18 13:48:14 CInstrSetupCtrl::CInstrSetupCtrl()
+05/07/18 13:48:15 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/07/18 14:04:23 CInstrSetupCtrl::CInstrSetupCtrl()
+05/07/18 14:04:23 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/07/18 14:20:32 CInstrSetupCtrl::CInstrSetupCtrl()
+05/07/18 14:20:32 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/07/18 14:43:03 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+05/07/18 14:44:10 The software was started
+05/07/18 14:44:10 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+05/07/18 14:44:10 Start InitInstance
+05/07/18 14:44:10 CInstrSetupCtrl::CInstrSetupCtrl()
+05/07/18 14:44:10 CInstrSetupCtrl::CInstrSetupCtrl()
+05/07/18 14:44:10 CInstrSetupCtrl::CInstrSetupCtrl()
+05/07/18 14:44:11 CInstrSetupCtrl::~CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+05/07/18 15:15:33 The software was started
+05/07/18 15:15:33 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+05/07/18 15:15:33 Start InitInstance
+05/07/18 15:15:33 CInstrSetupCtrl::CInstrSetupCtrl()
+05/07/18 15:15:33 CInstrSetupCtrl::CInstrSetupCtrl()
+05/07/18 15:15:34 CInstrSetupCtrl::CInstrSetupCtrl()
+05/07/18 15:15:34 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/07/18 15:35:00 CInstrSetupCtrl::CInstrSetupCtrl()
+05/07/18 15:35:00 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/07/18 15:51:11 CInstrSetupCtrl::CInstrSetupCtrl()
+05/07/18 15:51:11 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/07/18 16:07:20 CInstrSetupCtrl::CInstrSetupCtrl()
+05/07/18 16:07:20 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/07/18 16:23:30 CInstrSetupCtrl::CInstrSetupCtrl()
+05/07/18 16:23:30 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/07/18 16:39:44 CInstrSetupCtrl::CInstrSetupCtrl()
+05/07/18 16:39:44 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/07/18 16:55:53 CInstrSetupCtrl::CInstrSetupCtrl()
+05/07/18 16:55:53 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/07/18 17:12:03 CInstrSetupCtrl::CInstrSetupCtrl()
+05/07/18 17:12:03 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/07/18 17:35:36 CInstrSetupCtrl::CInstrSetupCtrl()
+05/07/18 17:35:36 CInstrSetupCtrl::~CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+05/07/18 18:47:47 The software was started
+05/07/18 18:47:47 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+05/07/18 18:47:47 Start InitInstance
+05/07/18 18:47:47 CInstrSetupCtrl::CInstrSetupCtrl()
+05/07/18 18:47:47 CInstrSetupCtrl::CInstrSetupCtrl()
+05/07/18 18:47:48 CInstrSetupCtrl::CInstrSetupCtrl()
+05/07/18 18:47:48 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/07/18 19:07:40 CInstrSetupCtrl::CInstrSetupCtrl()
+05/07/18 19:07:40 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/07/18 19:23:50 CInstrSetupCtrl::CInstrSetupCtrl()
+05/07/18 19:23:50 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/07/18 19:39:59 CInstrSetupCtrl::CInstrSetupCtrl()
+05/07/18 19:39:59 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/07/18 19:56:09 CInstrSetupCtrl::CInstrSetupCtrl()
+05/07/18 19:56:09 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/07/18 20:19:19 CInstrSetupCtrl::CInstrSetupCtrl()
+05/07/18 20:19:19 CInstrSetupCtrl::~CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+05/07/18 21:46:40 The software was started
+05/07/18 21:46:40 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+05/07/18 21:46:40 Start InitInstance
+05/07/18 21:46:40 CInstrSetupCtrl::CInstrSetupCtrl()
+05/07/18 21:46:40 CInstrSetupCtrl::CInstrSetupCtrl()
+05/07/18 21:46:41 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+05/07/18 22:09:39 The software was started
+05/07/18 22:09:39 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+05/07/18 22:09:39 Start InitInstance
+05/07/18 22:09:39 CInstrSetupCtrl::CInstrSetupCtrl()
+05/07/18 22:09:39 CInstrSetupCtrl::CInstrSetupCtrl()
+05/07/18 22:09:40 CInstrSetupCtrl::CInstrSetupCtrl()
+05/07/18 22:09:40 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/07/18 22:25:48 CInstrSetupCtrl::CInstrSetupCtrl()
+05/07/18 22:25:48 CInstrSetupCtrl::~CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+05/08/18 01:15:55 The software was started
+05/08/18 01:15:55 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+05/08/18 01:15:55 Start InitInstance
+05/08/18 01:15:55 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 01:15:55 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 01:15:56 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 01:15:56 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 01:32:05 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 01:32:05 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 01:48:15 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 01:48:15 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 02:04:24 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 02:04:24 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 02:20:34 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 02:20:34 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 02:36:43 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 02:36:43 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 02:52:52 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 02:52:52 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 03:09:02 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 03:09:02 CInstrSetupCtrl::~CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+05/08/18 03:45:11 The software was started
+05/08/18 03:45:11 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+05/08/18 03:45:11 Start InitInstance
+05/08/18 03:45:11 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 03:45:11 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 03:45:12 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 03:45:12 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 04:01:20 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 04:01:20 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 04:08:27 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+05/08/18 04:08:35 The software was started
+05/08/18 04:08:35 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+05/08/18 04:08:35 Start InitInstance
+05/08/18 04:08:35 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 04:08:35 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 04:08:35 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+05/08/18 04:17:31 The software was started
+05/08/18 04:17:31 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+05/08/18 04:17:31 Start InitInstance
+05/08/18 04:17:31 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 04:17:31 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 04:17:32 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 04:17:32 CInstrSetupCtrl::~CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+05/08/18 06:07:56 The software was started
+05/08/18 06:07:56 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+05/08/18 06:07:56 Start InitInstance
+05/08/18 06:07:56 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 06:07:56 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 06:07:57 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 06:07:57 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 06:24:05 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 06:24:05 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 06:40:15 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 06:40:15 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 06:56:25 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 06:56:25 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 07:12:34 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 07:12:34 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 07:14:22 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+05/08/18 07:14:30 The software was started
+05/08/18 07:14:30 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+05/08/18 07:14:30 Start InitInstance
+05/08/18 07:14:30 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 07:14:30 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 07:14:30 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+05/08/18 07:14:38 The software was started
+05/08/18 07:14:38 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+05/08/18 07:14:38 Start InitInstance
+05/08/18 07:14:38 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 07:14:38 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 07:14:39 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+05/08/18 07:14:52 The software was started
+05/08/18 07:14:52 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+05/08/18 07:14:52 Start InitInstance
+05/08/18 07:14:52 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 07:14:52 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 07:14:53 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+05/08/18 07:15:25 The software was started
+05/08/18 07:15:25 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+05/08/18 07:15:25 Start InitInstance
+05/08/18 07:15:25 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 07:15:25 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 07:15:25 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+05/08/18 07:28:45 The software was started
+05/08/18 07:28:45 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+05/08/18 07:28:45 Start InitInstance
+05/08/18 07:28:45 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 07:28:45 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 07:28:46 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 07:28:46 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 07:44:54 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 07:44:54 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 08:01:03 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 08:01:03 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 08:17:13 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 08:17:13 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 08:33:22 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 08:33:22 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 08:49:33 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 08:49:33 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 09:05:42 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 09:05:42 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 09:21:51 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 09:21:51 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 09:34:37 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+05/08/18 09:35:02 The software was started
+05/08/18 09:35:02 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+05/08/18 09:35:02 Start InitInstance
+05/08/18 09:35:02 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 09:35:02 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 09:35:03 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+05/08/18 09:35:25 The software was started
+05/08/18 09:35:25 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+05/08/18 09:35:25 Start InitInstance
+05/08/18 09:35:25 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 09:35:25 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 09:35:26 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+05/08/18 09:35:43 The software was started
+05/08/18 09:35:43 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+05/08/18 09:35:43 Start InitInstance
+05/08/18 09:35:43 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 09:35:43 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 09:35:44 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+05/08/18 09:36:06 The software was started
+05/08/18 09:36:06 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+05/08/18 09:36:06 Start InitInstance
+05/08/18 09:36:06 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 09:36:07 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 09:36:07 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+05/08/18 09:36:17 The software was started
+05/08/18 09:36:17 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+05/08/18 09:36:17 Start InitInstance
+05/08/18 09:36:17 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 09:36:17 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 09:36:18 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+05/08/18 09:36:29 The software was started
+05/08/18 09:36:29 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+05/08/18 09:36:29 Start InitInstance
+05/08/18 09:36:29 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 09:36:29 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 09:36:29 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+05/08/18 09:38:02 The software was started
+05/08/18 09:38:02 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+05/08/18 09:38:02 Start InitInstance
+05/08/18 09:38:02 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 09:38:02 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 09:38:03 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 09:38:03 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 09:54:11 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 09:54:11 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 10:17:22 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 10:17:22 CInstrSetupCtrl::~CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+05/08/18 15:33:37 The software was started
+05/08/18 15:33:37 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+05/08/18 15:33:37 Start InitInstance
+05/08/18 15:33:37 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 15:33:37 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 15:33:38 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 15:33:38 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 15:49:46 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 15:49:46 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 16:05:56 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 16:05:56 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 16:22:05 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 16:22:05 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 16:38:18 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 16:38:18 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 16:54:28 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 16:54:28 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 17:10:37 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 17:10:37 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 17:26:48 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 17:26:48 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 17:42:58 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 17:42:58 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 17:59:07 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 17:59:07 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 18:15:17 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 18:15:17 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 18:31:27 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 18:31:27 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 18:47:38 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 18:47:38 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 19:03:47 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 19:03:47 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 19:19:56 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 19:19:56 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 19:36:06 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 19:36:06 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 19:52:15 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 19:52:15 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 20:08:25 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 20:08:25 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 20:24:36 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 20:24:36 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 20:40:45 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 20:40:45 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 20:56:56 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 20:56:56 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 21:13:05 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 21:13:05 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 21:29:15 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 21:29:15 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 21:45:25 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 21:45:25 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 22:01:34 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 22:01:34 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 22:17:44 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 22:17:44 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 22:33:53 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 22:33:53 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 22:50:03 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 22:50:03 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 23:06:13 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 23:06:13 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 23:22:22 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 23:22:22 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 23:38:33 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 23:38:33 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/08/18 23:54:42 CInstrSetupCtrl::CInstrSetupCtrl()
+05/08/18 23:54:42 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/09/18 00:10:51 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 00:10:51 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/09/18 00:27:01 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 00:27:01 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/09/18 00:43:10 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 00:43:10 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/09/18 00:59:20 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 00:59:21 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/09/18 01:15:30 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 01:15:30 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/09/18 01:31:40 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 01:31:40 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/09/18 01:47:50 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 01:47:50 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/09/18 02:04:00 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 02:04:00 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/09/18 02:20:10 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 02:20:10 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/09/18 02:36:20 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 02:36:20 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/09/18 02:52:30 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 02:52:30 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/09/18 03:08:40 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 03:08:40 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/09/18 03:24:49 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 03:24:49 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/09/18 03:40:58 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 03:40:58 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/09/18 03:57:09 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 03:57:09 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/09/18 04:13:19 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 04:13:19 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/09/18 04:29:30 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 04:29:30 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/09/18 04:45:40 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 04:45:40 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/09/18 05:01:49 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 05:01:49 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/09/18 05:17:59 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 05:17:59 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/09/18 05:34:08 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 05:34:08 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/09/18 05:50:19 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 05:50:19 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/09/18 06:06:29 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 06:06:29 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/09/18 06:22:39 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 06:22:39 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/09/18 06:38:49 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 06:38:49 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/09/18 06:54:58 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 06:54:58 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/09/18 07:11:09 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 07:11:09 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/09/18 07:27:18 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 07:27:18 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/09/18 07:43:28 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 07:43:28 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/09/18 07:59:38 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 07:59:38 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/09/18 08:15:47 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 08:15:47 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/09/18 08:31:57 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 08:31:58 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/09/18 08:48:07 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 08:48:07 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/09/18 09:04:17 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 09:04:17 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/09/18 09:20:28 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 09:20:28 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/09/18 09:36:37 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 09:36:37 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/09/18 09:52:47 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 09:52:47 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/09/18 10:08:58 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 10:08:58 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/09/18 10:25:08 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 10:25:08 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/09/18 10:41:19 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 10:41:19 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/09/18 10:57:28 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 10:57:28 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/09/18 11:13:38 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 11:13:38 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/09/18 11:29:49 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 11:29:49 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/09/18 11:45:58 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 11:45:58 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/09/18 12:02:08 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 12:02:08 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/09/18 12:18:19 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 12:18:19 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/09/18 12:34:29 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 12:34:29 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/09/18 12:50:39 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 12:50:39 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/09/18 13:06:48 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 13:06:48 CInstrSetupCtrl::~CInstrSetupCtrl()
+05/09/18 13:08:53 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+05/09/18 13:09:22 The software was started
+05/09/18 13:09:22 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+05/09/18 13:09:22 Start InitInstance
+05/09/18 13:09:22 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 13:09:22 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 13:09:23 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+05/09/18 13:11:31 The software was started
+05/09/18 13:11:31 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+05/09/18 13:11:31 Start InitInstance
+05/09/18 13:11:31 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 13:11:31 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 13:11:31 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+05/09/18 13:11:44 The software was started
+05/09/18 13:11:44 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+05/09/18 13:11:44 Start InitInstance
+05/09/18 13:11:44 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 13:11:45 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 13:11:45 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+05/09/18 13:12:14 The software was started
+05/09/18 13:12:14 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+05/09/18 13:12:14 Start InitInstance
+05/09/18 13:12:14 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 13:12:14 CInstrSetupCtrl::CInstrSetupCtrl()
+05/09/18 13:12:15 CInstrSetupCtrl::CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+05/09/18 13:12:41 The software was started

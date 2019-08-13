@@ -1,0 +1,2145 @@
+
+###  Start HyStar GetLIP: Tue Oct 18 14:56:32 2016
+18/10/16 14:56:32:312 InitGetLIP
+18/10/16 14:56:32:312 Constructor CModuleInfo: StartTime 1456534
+18/10/16 14:56:32:312 Win Version 6 Build 7601
+18/10/16 15:03:06:683 CloseModuleInterface: Instance 043AEC40
+18/10/16 15:03:06:698 CloseModuleInterface LockOrder()==TRUE
+18/10/16 15:03:06:698 CloseModuleInterface End
+18/10/16 15:03:07:917 ~CModuleInfo:
+18/10/16 15:03:07:917 CloseModuleInterface: Instance 00000000
+18/10/16 15:03:07:917 CloseModuleInterface LockOrder()==TRUE
+18/10/16 15:03:07:917 CloseModuleInterface End
+18/10/16 15:03:07:917 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Tue Oct 18 15:x8:H0 2016
+
+###  Start HyStar GetLIP: Tue Oct 18 17:35:53 2016
+18/10/16 17:35:54:312 InitGetLIP
+18/10/16 17:35:54:312 Constructor CModuleInfo: StartTime 11018023
+18/10/16 17:35:54:312 Win Version 6 Build 7601
+18/10/16 17:39:54:896 CloseModuleInterface: Instance 04646368
+18/10/16 17:39:54:912 CloseModuleInterface LockOrder()==TRUE
+18/10/16 17:39:54:912 CloseModuleInterface End
+18/10/16 17:39:54: 68 ~CModuleInfo:
+18/10/16 17:39:54: 68 CloseModuleInterface: Instance 00000000
+18/10/16 17:39:54: 68 CloseModuleInterface LockOrder()==TRUE
+18/10/16 17:39:54: 68 CloseModuleInterface End
+18/10/16 17:39:54: 68 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Tue Oct 18 17:8:-6 2016
+
+###  Start HyStar GetLIP: Mon Oct 24 16:01:44 2016
+24/10/16 16:01:45:312 InitGetLIP
+24/10/16 16:01:45:312 Constructor CModuleInfo: StartTime 453842975
+24/10/16 16:01:45:312 Win Version 6 Build 7601
+24/10/16 16:03:26:385 CloseModuleInterface: Instance 048966C8
+24/10/16 16:03:26:385 CloseModuleInterface LockOrder()==TRUE
+24/10/16 16:03:26:385 CloseModuleInterface End
+24/10/16 16:03:26:541 ~CModuleInfo:
+24/10/16 16:03:26:541 CloseModuleInterface: Instance 00000000
+24/10/16 16:03:26:541 CloseModuleInterface LockOrder()==TRUE
+24/10/16 16:03:26:541 CloseModuleInterface End
+24/10/16 16:03:26:541 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Mon Oct 24 16:þ4:w2 2016
+
+###  Start HyStar GetLIP: Wed Nov 02 11:36:57 2016
+02/11/16 11:36:57:312 InitGetLIP
+02/11/16 11:36:57:312 Constructor CModuleInfo: StartTime 1215555313
+02/11/16 11:36:57:312 Win Version 6 Build 7601
+02/11/16 11:37:06:703 ~CModuleInfo:
+02/11/16 11:37:06:703 CloseModuleInterface: Instance 00000000
+02/11/16 11:37:06:703 CloseModuleInterface LockOrder()==TRUE
+02/11/16 11:37:06:703 CloseModuleInterface End
+02/11/16 11:37:06:703 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Mon Oct 24 16:Ê4:¸0 2016
+
+###  Start HyStar GetLIP: Wed Nov 02 11:37:57 2016
+02/11/16 11:37:57:312 InitGetLIP
+02/11/16 11:37:57:312 Constructor CModuleInfo: StartTime 1215615560
+02/11/16 11:37:57:312 Win Version 6 Build 7601
+02/11/16 13:34:20:886 CloseModuleInterface: Instance 029807D0
+02/11/16 13:34:20:886 CloseModuleInterface LockOrder()==TRUE
+02/11/16 13:34:20:886 CloseModuleInterface End
+02/11/16 13:34:20: 58 ~CModuleInfo:
+02/11/16 13:34:20: 58 CloseModuleInterface: Instance 00000000
+02/11/16 13:34:20: 58 CloseModuleInterface LockOrder()==TRUE
+02/11/16 13:34:20: 58 CloseModuleInterface End
+02/11/16 13:34:20: 58 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Wed Nov 02 13:Ä8:Ì0 2016
+
+###  Start HyStar GetLIP: Wed Nov 02 13:34:31 2016
+02/11/16 13:34:32:312 InitGetLIP
+02/11/16 13:34:32:312 Constructor CModuleInfo: StartTime 1222609974
+02/11/16 13:34:32:312 Win Version 6 Build 7601
+02/11/16 13:44:38:187 CloseModuleInterface: Instance 04CAB4A8
+02/11/16 13:44:38:187 CloseModuleInterface LockOrder()==TRUE
+02/11/16 13:44:38:187 CloseModuleInterface End
+02/11/16 13:44:39:359 ~CModuleInfo:
+02/11/16 13:44:39:359 CloseModuleInterface: Instance 00000000
+02/11/16 13:44:39:359 CloseModuleInterface LockOrder()==TRUE
+02/11/16 13:44:39:359 CloseModuleInterface End
+02/11/16 13:44:39:359 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Wed Nov 02 13:2:"4 2016
+
+###  Start HyStar GetLIP: Wed Nov 02 13:45:20 2016
+02/11/16 13:45:21:312 InitGetLIP
+02/11/16 13:45:21:312 Constructor CModuleInfo: StartTime 1223259126
+02/11/16 13:45:21:312 Win Version 6 Build 7601
+03/11/16 10:36:41:676 CloseModuleInterface: Instance 0411FBA0
+03/11/16 10:36:41:676 CloseModuleInterface LockOrder()==TRUE
+03/11/16 10:36:41:676 CloseModuleInterface End
+03/11/16 10:36:41:832 ~CModuleInfo:
+03/11/16 10:36:41:832 CloseModuleInterface: Instance 00000000
+03/11/16 10:36:41:832 CloseModuleInterface LockOrder()==TRUE
+03/11/16 10:36:41:832 CloseModuleInterface End
+03/11/16 10:36:41:832 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Thu Nov 03 10:£2:,0 2016
+
+###  Start HyStar GetLIP: Wed Nov 09 13:47:07 2016
+09/11/16 13:47:07:312 InitGetLIP
+09/11/16 13:47:07:312 Constructor CModuleInfo: StartTime 1831765798
+09/11/16 13:47:07:312 Win Version 6 Build 7601
+09/11/16 13:49:58:  9 ~CModuleInfo:
+09/11/16 13:49:58:  9 CloseModuleInterface: Instance 00000000
+09/11/16 13:49:58:  9 CloseModuleInterface LockOrder()==TRUE
+09/11/16 13:49:58:  9 CloseModuleInterface End
+09/11/16 13:49:58:  9 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Wed Nov 09 13:j4:´8 2016
+
+###  Start HyStar GetLIP: Wed Nov 09 13:51:33 2016
+09/11/16 13:51:33:312 InitGetLIP
+09/11/16 13:51:33:312 Constructor CModuleInfo: StartTime 1832031733
+09/11/16 13:51:33:312 Win Version 6 Build 7601
+09/11/16 13:54:36: 83 ~CModuleInfo:
+09/11/16 13:54:36: 83 CloseModuleInterface: Instance 00000000
+09/11/16 13:54:36: 83 CloseModuleInterface LockOrder()==TRUE
+09/11/16 13:54:36: 83 CloseModuleInterface End
+09/11/16 13:54:36: 83 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Wed Nov 09 13:y6:_2 2016
+
+###  Start HyStar GetLIP: Wed Nov 09 13:54:37 2016
+09/11/16 13:54:37:312 InitGetLIP
+09/11/16 13:54:37:312 Constructor CModuleInfo: StartTime 1832215393
+09/11/16 13:54:37:312 Win Version 6 Build 7601
+09/11/16 14:19:16:202 CloseModuleInterface: Instance 019455D8
+09/11/16 14:19:16:202 CloseModuleInterface LockOrder()==TRUE
+09/11/16 14:19:16:202 CloseModuleInterface End
+09/11/16 14:19:16:373 ~CModuleInfo:
+09/11/16 14:19:16:373 CloseModuleInterface: Instance 00000000
+09/11/16 14:19:16:373 CloseModuleInterface LockOrder()==TRUE
+09/11/16 14:19:16:373 CloseModuleInterface End
+09/11/16 14:19:16:373 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Wed Nov 09 14:Ð8:N4 2016
+
+###  Start HyStar GetLIP: Wed Nov 09 14:19:18 2016
+09/11/16 14:19:19:312 InitGetLIP
+09/11/16 14:19:19:312 Constructor CModuleInfo: StartTime 1833697262
+09/11/16 14:19:19:312 Win Version 6 Build 7601
+10/01/17 10:33:46:920 ~CModuleInfo:
+10/01/17 10:33:46:920 CloseModuleInterface: Instance 00000000
+10/01/17 10:33:46:920 CloseModuleInterface LockOrder()==TRUE
+10/01/17 10:33:46:920 CloseModuleInterface End
+10/01/17 10:33:46:920 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Tue Jan 10 10:@0:H0 2017
+
+###  Start HyStar GetLIP: Tue Jan 10 10:34:27 2017
+10/01/17 10:34:27:328 InitGetLIP
+10/01/17 10:34:27:328 Constructor CModuleInfo: StartTime -1412928727
+10/01/17 10:34:27:328 Win Version 6 Build 7601
+11/01/17 10:14:25: 27 CloseModuleInterface: Instance 04E2E3F8
+11/01/17 10:14:25: 43 CloseModuleInterface LockOrder()==TRUE
+11/01/17 10:14:25: 43 CloseModuleInterface End
+11/01/17 10:14:25:199 ~CModuleInfo:
+11/01/17 10:14:25:199 CloseModuleInterface: Instance 00000000
+11/01/17 10:14:25:199 CloseModuleInterface LockOrder()==TRUE
+11/01/17 10:14:25:199 CloseModuleInterface End
+11/01/17 10:14:25:199 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Wed Jan 11 10:»2:”0 2017
+
+###  Start HyStar GetLIP: Wed Jan 11 10:14:27 2017
+11/01/17 10:14:27:312 InitGetLIP
+11/01/17 10:14:27:312 Constructor CModuleInfo: StartTime -1327729124
+11/01/17 10:14:27:312 Win Version 6 Build 7601
+11/01/17 10:16:12:910 CloseModuleInterface: Instance 04813718
+11/01/17 10:16:12:910 CloseModuleInterface LockOrder()==TRUE
+11/01/17 10:16:12:910 CloseModuleInterface End
+11/01/17 10:16:12: 66 ~CModuleInfo:
+11/01/17 10:16:12: 66 CloseModuleInterface: Instance 00000000
+11/01/17 10:16:12: 66 CloseModuleInterface LockOrder()==TRUE
+11/01/17 10:16:12: 66 CloseModuleInterface End
+11/01/17 10:16:12: 66 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Wed Jan 11 10:ƒ2:”8 2017
+
+###  Start HyStar GetLIP: Wed Jan 11 10:18:16 2017
+11/01/17 10:18:17:312 InitGetLIP
+11/01/17 10:18:17:312 Constructor CModuleInfo: StartTime 51152
+11/01/17 10:18:17:312 Win Version 6 Build 7601
+11/01/17 10:29:56:852 CloseModuleInterface: Instance 04A5ADF8
+11/01/17 10:29:56:852 CloseModuleInterface LockOrder()==TRUE
+11/01/17 10:29:56:852 CloseModuleInterface End
+11/01/17 10:29:56: 24 ~CModuleInfo:
+11/01/17 10:29:56: 24 CloseModuleInterface: Instance 00000000
+11/01/17 10:29:56: 24 CloseModuleInterface LockOrder()==TRUE
+11/01/17 10:29:56: 24 CloseModuleInterface End
+11/01/17 10:29:56: 24 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Wed Jan 11 10:_2:Å6 2017
+
+###  Start HyStar GetLIP: Wed Jan 11 10:37:03 2017
+11/01/17 10:37:03:312 InitGetLIP
+11/01/17 10:37:03:312 Constructor CModuleInfo: StartTime 1177589
+11/01/17 10:37:03:312 Win Version 6 Build 7601
+11/01/17 10:41:34: 51 CloseModuleInterface: Instance 049B5090
+11/01/17 10:41:34: 51 CloseModuleInterface LockOrder()==TRUE
+11/01/17 10:41:34: 51 CloseModuleInterface End
+11/01/17 10:41:34:207 ~CModuleInfo:
+11/01/17 10:41:34:207 CloseModuleInterface: Instance 00000000
+11/01/17 10:41:34:207 CloseModuleInterface LockOrder()==TRUE
+11/01/17 10:41:34:207 CloseModuleInterface End
+11/01/17 10:41:34:207 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Wed Jan 11 10:Ù6:¦4 2017
+
+###  Start HyStar GetLIP: Wed Jan 11 10:43:07 2017
+11/01/17 10:43:08:312 InitGetLIP
+11/01/17 10:43:08:312 Constructor CModuleInfo: StartTime 20077
+11/01/17 10:43:08:312 Win Version 6 Build 7601
+11/01/17 10:56:38:690 CloseModuleInterface: Instance 0499F0E0
+11/01/17 10:56:38:706 CloseModuleInterface LockOrder()==TRUE
+11/01/17 10:56:38:706 CloseModuleInterface End
+11/01/17 10:56:38:862 ~CModuleInfo:
+11/01/17 10:56:38:862 CloseModuleInterface: Instance 00000000
+11/01/17 10:56:38:862 CloseModuleInterface LockOrder()==TRUE
+11/01/17 10:56:38:862 CloseModuleInterface End
+11/01/17 10:56:38:862 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Wed Jan 11 10:ø8:©6 2017
+
+###  Start HyStar GetLIP: Wed Jan 11 10:58:15 2017
+11/01/17 10:58:15:312 InitGetLIP
+11/01/17 10:58:15:312 Constructor CModuleInfo: StartTime 34866
+11/01/17 10:58:15:312 Win Version 6 Build 7601
+11/01/17 11:10:02:715 CloseModuleInterface: Instance 049C64F8
+11/01/17 11:10:02:715 CloseModuleInterface LockOrder()==TRUE
+11/01/17 11:10:02:715 CloseModuleInterface End
+11/01/17 11:10:02:887 ~CModuleInfo:
+11/01/17 11:10:02:887 CloseModuleInterface: Instance 00000000
+11/01/17 11:10:02:887 CloseModuleInterface LockOrder()==TRUE
+11/01/17 11:10:02:887 CloseModuleInterface End
+11/01/17 11:10:02:887 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Wed Jan 11 11:Å6:i6 2017
+
+###  Start HyStar GetLIP: Wed Jan 11 11:10:07 2017
+11/01/17 11:10:07:312 InitGetLIP
+11/01/17 11:10:07:312 Constructor CModuleInfo: StartTime 746402
+11/01/17 11:10:07:312 Win Version 6 Build 7601
+11/01/17 11:12:06:450 CloseModuleInterface: Instance 048D2C20
+11/01/17 11:12:06:450 CloseModuleInterface LockOrder()==TRUE
+11/01/17 11:12:06:450 CloseModuleInterface End
+11/01/17 11:12:06:606 ~CModuleInfo:
+11/01/17 11:12:06:606 CloseModuleInterface: Instance 00000000
+11/01/17 11:12:06:606 CloseModuleInterface LockOrder()==TRUE
+11/01/17 11:12:06:606 CloseModuleInterface End
+11/01/17 11:12:06:606 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Wed Jan 11 11:8:›2 2017
+
+###  Start HyStar GetLIP: Wed Jan 11 11:13:41 2017
+11/01/17 11:13:41:328 InitGetLIP
+11/01/17 11:13:41:328 Constructor CModuleInfo: StartTime 35849
+11/01/17 11:13:41:328 Win Version 6 Build 7601
+23/01/17 16:10:14:468 CloseModuleInterface: Instance 04B09E20
+23/01/17 16:10:14:468 CloseModuleInterface LockOrder()==TRUE
+23/01/17 16:10:14:468 CloseModuleInterface End
+23/01/17 16:10:14:624 ~CModuleInfo:
+23/01/17 16:10:14:624 CloseModuleInterface: Instance 00000000
+23/01/17 16:10:14:624 CloseModuleInterface LockOrder()==TRUE
+23/01/17 16:10:14:624 CloseModuleInterface End
+23/01/17 16:10:14:624 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Mon Jan 23 16:8:64 2017
+
+###  Start HyStar GetLIP: Mon Jan 23 16:13:34 2017
+23/01/17 16:13:35:312 InitGetLIP
+23/01/17 16:13:35:312 Constructor CModuleInfo: StartTime 1054829199
+23/01/17 16:13:35:312 Win Version 6 Build 7601
+24/01/17 11:11:07:871 CloseModuleInterface: Instance 0486FEB8
+24/01/17 11:11:07:871 CloseModuleInterface LockOrder()==TRUE
+24/01/17 11:11:07:871 CloseModuleInterface End
+24/01/17 11:11:07: 42 ~CModuleInfo:
+24/01/17 11:11:07: 42 CloseModuleInterface: Instance 00000000
+24/01/17 11:11:07: 42 CloseModuleInterface LockOrder()==TRUE
+24/01/17 11:11:07: 42 CloseModuleInterface End
+24/01/17 11:11:07: 42 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Tue Jan 24 11:6:,0 2017
+
+###  Start HyStar GetLIP: Tue Jan 24 11:11:08 2017
+24/01/17 11:11:09:312 InitGetLIP
+24/01/17 11:11:09:312 Constructor CModuleInfo: StartTime 1123083006
+24/01/17 11:11:09:312 Win Version 6 Build 7601
+24/01/17 13:52:27:879 CloseModuleInterface: Instance 04A2BA40
+24/01/17 13:52:27:879 CloseModuleInterface LockOrder()==TRUE
+24/01/17 13:52:27:879 CloseModuleInterface End
+24/01/17 13:52:27: 35 ~CModuleInfo:
+24/01/17 13:52:27: 35 CloseModuleInterface: Instance 00000000
+24/01/17 13:52:27: 35 CloseModuleInterface LockOrder()==TRUE
+24/01/17 13:52:27: 35 CloseModuleInterface End
+24/01/17 13:52:27: 35 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Tue Jan 24 13:Å6:”0 2017
+
+###  Start HyStar GetLIP: Tue Jan 24 14:01:30 2017
+24/01/17 14:01:30:312 InitGetLIP
+24/01/17 14:01:30:312 Constructor CModuleInfo: StartTime 162709
+24/01/17 14:01:30:312 Win Version 6 Build 7601
+25/01/17 11:06:15:767 CloseModuleInterface: Instance 04A8E5E8
+25/01/17 11:06:15:767 CloseModuleInterface LockOrder()==TRUE
+25/01/17 11:06:15:767 CloseModuleInterface End
+25/01/17 11:06:15:939 ~CModuleInfo:
+25/01/17 11:06:15:939 CloseModuleInterface: Instance 00000000
+25/01/17 11:06:15:939 CloseModuleInterface LockOrder()==TRUE
+25/01/17 11:06:15:939 CloseModuleInterface End
+25/01/17 11:06:15:939 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Wed Jan 25 11:Å6:Ú4 2017
+
+###  Start HyStar GetLIP: Thu Jan 26 14:19:57 2017
+26/01/17 14:19:57:312 InitGetLIP
+26/01/17 14:19:57:312 Constructor CModuleInfo: StartTime 174069924
+26/01/17 14:19:57:312 Win Version 6 Build 7601
+26/01/17 14:20:40:901 ~CModuleInfo:
+26/01/17 14:20:40:901 CloseModuleInterface: Instance 00000000
+26/01/17 14:20:40:901 CloseModuleInterface LockOrder()==TRUE
+26/01/17 14:20:40:901 CloseModuleInterface End
+26/01/17 14:20:40:901 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Thu Jan 26 14:ò4:,0 2017
+
+###  Start HyStar GetLIP: Sun Feb 12 20:06:19 2017
+12/02/17 20:06:19:312 InitGetLIP
+12/02/17 20:06:19:312 Constructor CModuleInfo: StartTime 1663651836
+12/02/17 20:06:19:312 Win Version 6 Build 7601
+12/02/17 20:19:52:703 ~CModuleInfo:
+12/02/17 20:19:52:703 CloseModuleInterface: Instance 00000000
+12/02/17 20:19:52:703 CloseModuleInterface LockOrder()==TRUE
+12/02/17 20:19:52:703 CloseModuleInterface End
+12/02/17 20:19:52:703 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Sun Feb 12 20:œ0:§2 2017
+
+###  Start HyStar GetLIP: Mon Feb 13 14:00:45 2017
+13/02/17 14:00:46:312 InitGetLIP
+13/02/17 14:00:46:312 Constructor CModuleInfo: StartTime 1728118110
+13/02/17 14:00:46:312 Win Version 6 Build 7601
+13/02/17 14:56:34:390 CloseModuleInterface: Instance 048A97B8
+13/02/17 14:56:34:390 CloseModuleInterface LockOrder()==TRUE
+13/02/17 14:56:34:390 CloseModuleInterface End
+13/02/17 14:56:34:562 ~CModuleInfo:
+13/02/17 14:56:34:562 CloseModuleInterface: Instance 00000000
+13/02/17 14:56:34:562 CloseModuleInterface LockOrder()==TRUE
+13/02/17 14:56:34:562 CloseModuleInterface End
+13/02/17 14:56:34:562 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Mon Feb 13 14:<0:Z4 2017
+
+###  Start HyStar GetLIP: Mon Feb 13 14:56:48 2017
+13/02/17 14:56:48:312 InitGetLIP
+13/02/17 14:56:48:312 Constructor CModuleInfo: StartTime 1731480493
+13/02/17 14:56:48:312 Win Version 6 Build 7601
+14/02/17 10:13:39: 38 CloseModuleInterface: Instance 04AA6B48
+14/02/17 10:13:39: 38 CloseModuleInterface LockOrder()==TRUE
+14/02/17 10:13:39: 38 CloseModuleInterface End
+14/02/17 10:13:39:194 ~CModuleInfo:
+14/02/17 10:13:39:194 CloseModuleInterface: Instance 00000000
+14/02/17 10:13:39:194 CloseModuleInterface LockOrder()==TRUE
+14/02/17 10:13:39:194 CloseModuleInterface End
+14/02/17 10:13:39:194 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Tue Feb 14 10:C2:Å6 2017
+
+###  Start HyStar GetLIP: Wed Feb 15 13:07:26 2017
+15/02/17 13:07:26:312 InitGetLIP
+15/02/17 13:07:26:312 Constructor CModuleInfo: StartTime 1897718669
+15/02/17 13:07:26:312 Win Version 6 Build 7601
+15/02/17 14:57:24:109 CloseModuleInterface: Instance 031D12E0
+15/02/17 14:57:24:109 CloseModuleInterface LockOrder()==TRUE
+15/02/17 14:57:24:109 CloseModuleInterface End
+15/02/17 14:57:24:280 ~CModuleInfo:
+15/02/17 14:57:24:280 CloseModuleInterface: Instance 00000000
+15/02/17 14:57:24:280 CloseModuleInterface LockOrder()==TRUE
+15/02/17 14:57:24:280 CloseModuleInterface End
+15/02/17 14:57:24:280 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Wed Feb 15 14:a6:@0 2017
+
+###  Start HyStar GetLIP: Wed Feb 15 15:00:21 2017
+15/02/17 15:00:21:312 InitGetLIP
+15/02/17 15:00:21:312 Constructor CModuleInfo: StartTime 1904493621
+15/02/17 15:00:21:312 Win Version 6 Build 7601
+15/02/17 15:20:29: 25 CloseModuleInterface: Instance 04759308
+15/02/17 15:20:29: 25 CloseModuleInterface LockOrder()==TRUE
+15/02/17 15:20:29: 25 CloseModuleInterface End
+15/02/17 15:20:29:181 ~CModuleInfo:
+15/02/17 15:20:29:181 CloseModuleInterface: Instance 00000000
+15/02/17 15:20:29:181 CloseModuleInterface LockOrder()==TRUE
+15/02/17 15:20:29:181 CloseModuleInterface End
+15/02/17 15:20:29:181 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Wed Feb 15 15:G2:€8 2017
+
+###  Start HyStar GetLIP: Wed Feb 15 15:20:54 2017
+15/02/17 15:20:54:312 InitGetLIP
+15/02/17 15:20:54:312 Constructor CModuleInfo: StartTime 1905726886
+15/02/17 15:20:54:312 Win Version 6 Build 7601
+15/02/17 15:24:22:529 CloseModuleInterface: Instance 00D21B58
+15/02/17 15:24:22:529 CloseModuleInterface LockOrder()==TRUE
+15/02/17 15:24:22:529 CloseModuleInterface End
+15/02/17 15:24:22:700 ~CModuleInfo:
+15/02/17 15:24:22:700 CloseModuleInterface: Instance 00000000
+15/02/17 15:24:22:700 CloseModuleInterface LockOrder()==TRUE
+15/02/17 15:24:22:700 CloseModuleInterface End
+15/02/17 15:24:22:700 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Wed Feb 15 15:Ù6:Ð8 2017
+
+###  Start HyStar GetLIP: Wed Feb 15 15:26:30 2017
+15/02/17 15:26:31:312 InitGetLIP
+15/02/17 15:26:31:312 Constructor CModuleInfo: StartTime 38048
+15/02/17 15:26:31:312 Win Version 6 Build 7601
+16/02/17 13:26:50:570 CloseModuleInterface: Instance 048E1B20
+16/02/17 13:26:50:570 CloseModuleInterface LockOrder()==TRUE
+16/02/17 13:26:50:570 CloseModuleInterface End
+16/02/17 13:26:50:726 ~CModuleInfo:
+16/02/17 13:26:50:726 CloseModuleInterface: Instance 00000000
+16/02/17 13:26:50:726 CloseModuleInterface LockOrder()==TRUE
+16/02/17 13:26:50:726 CloseModuleInterface End
+16/02/17 13:26:50:726 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Thu Feb 16 13:z4:ó2 2017
+
+###  Start HyStar GetLIP: Thu Feb 16 13:27:05 2017
+16/02/17 13:27:05:312 InitGetLIP
+16/02/17 13:27:05:312 Constructor CModuleInfo: StartTime 79272485
+16/02/17 13:27:05:312 Win Version 6 Build 7601
+16/02/17 13:50:46:574 ~CModuleInfo:
+16/02/17 13:50:46:574 CloseModuleInterface: Instance 00000000
+16/02/17 13:50:46:574 CloseModuleInterface LockOrder()==TRUE
+16/02/17 13:50:46:574 CloseModuleInterface End
+16/02/17 13:50:46:574 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Thu Feb 16 13:„8:"4 2017
+
+###  Start HyStar GetLIP: Thu Feb 16 13:51:22 2017
+16/02/17 13:51:22:312 InitGetLIP
+16/02/17 13:51:22:312 Constructor CModuleInfo: StartTime 80729316
+16/02/17 13:51:22:312 Win Version 6 Build 7601
+20/02/17 16:10:14:260 CloseModuleInterface: Instance 04A9EC28
+20/02/17 16:10:14:260 CloseModuleInterface LockOrder()==TRUE
+20/02/17 16:10:14:276 CloseModuleInterface End
+20/02/17 16:10:14:432 ~CModuleInfo:
+20/02/17 16:10:14:432 CloseModuleInterface: Instance 00000000
+20/02/17 16:10:14:432 CloseModuleInterface LockOrder()==TRUE
+20/02/17 16:10:14:432 CloseModuleInterface End
+20/02/17 16:10:14:432 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Mon Feb 20 16:0:È8 2017
+
+###  Start HyStar GetLIP: Mon Feb 20 16:12:08 2017
+20/02/17 16:12:08:312 InitGetLIP
+20/02/17 16:12:08:312 Constructor CModuleInfo: StartTime 44569
+20/02/17 16:12:08:312 Win Version 6 Build 7601
+21/02/17 10:13:36:132 CloseModuleInterface: Instance 04BCACE0
+21/02/17 10:13:36:148 CloseModuleInterface LockOrder()==TRUE
+21/02/17 10:13:36:148 CloseModuleInterface End
+21/02/17 10:13:36:304 ~CModuleInfo:
+21/02/17 10:13:36:304 CloseModuleInterface: Instance 00000000
+21/02/17 10:13:36:304 CloseModuleInterface LockOrder()==TRUE
+21/02/17 10:13:36:304 CloseModuleInterface End
+21/02/17 10:13:36:304 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Tue Feb 21 10:´0:<0 2017
+
+###  Start HyStar GetLIP: Tue Feb 21 10:21:42 2017
+21/02/17 10:21:42:312 InitGetLIP
+21/02/17 10:21:42:312 Constructor CModuleInfo: StartTime 65418847
+21/02/17 10:21:42:312 Win Version 6 Build 7601
+21/02/17 10:46:58:252 ~CModuleInfo:
+21/02/17 10:46:58:252 CloseModuleInterface: Instance 00000000
+21/02/17 10:46:58:252 CloseModuleInterface LockOrder()==TRUE
+21/02/17 10:46:58:252 CloseModuleInterface End
+21/02/17 10:46:58:252 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Tue Feb 21 10:ñ6:x0 2017
+
+###  Start HyStar GetLIP: Tue Feb 21 10:48:08 2017
+21/02/17 10:48:08:312 InitGetLIP
+21/02/17 10:48:08:312 Constructor CModuleInfo: StartTime 67004785
+21/02/17 10:48:08:312 Win Version 6 Build 7601
+21/02/17 10:48:38:295 ~CModuleInfo:
+21/02/17 10:48:38:295 CloseModuleInterface: Instance 00000000
+21/02/17 10:48:38:295 CloseModuleInterface LockOrder()==TRUE
+21/02/17 10:48:38:295 CloseModuleInterface End
+21/02/17 10:48:38:295 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Tue Feb 21 10:8:˜8 2017
+
+###  Start HyStar GetLIP: Fri Feb 24 11:34:36 2017
+24/02/17 11:34:36:312 InitGetLIP
+24/02/17 11:34:36:312 Constructor CModuleInfo: StartTime 328992895
+24/02/17 11:34:36:312 Win Version 6 Build 7601
+24/02/17 11:38:54:291 ~CModuleInfo:
+24/02/17 11:38:54:291 CloseModuleInterface: Instance 00000000
+24/02/17 11:38:54:291 CloseModuleInterface LockOrder()==TRUE
+24/02/17 11:38:54:291 CloseModuleInterface End
+24/02/17 11:38:54:291 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Fri Feb 24 11:s2:24 2017
+
+###  Start HyStar GetLIP: Fri Feb 24 11:42:30 2017
+24/02/17 11:42:30:312 InitGetLIP
+24/02/17 11:42:30:312 Constructor CModuleInfo: StartTime 329466451
+24/02/17 11:42:30:312 Win Version 6 Build 7601
+24/02/17 12:39:25:862 ~CModuleInfo:
+24/02/17 12:39:25:862 CloseModuleInterface: Instance 00000000
+24/02/17 12:39:25:862 CloseModuleInterface LockOrder()==TRUE
+24/02/17 12:39:25:862 CloseModuleInterface End
+24/02/17 12:39:25:862 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Fri Feb 24 12:³2:’4 2017
+
+###  Start HyStar GetLIP: Fri Feb 24 12:39:25 2017
+24/02/17 12:39:26:312 InitGetLIP
+24/02/17 12:39:26:312 Constructor CModuleInfo: StartTime 332882125
+24/02/17 12:39:26:312 Win Version 6 Build 7601
+24/02/17 14:06:50:613 ~CModuleInfo:
+24/02/17 14:06:50:613 CloseModuleInterface: Instance 00000000
+24/02/17 14:06:50:613 CloseModuleInterface LockOrder()==TRUE
+24/02/17 14:06:50:613 CloseModuleInterface End
+24/02/17 14:06:50:613 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Fri Feb 24 14:,0:0 2017
+
+###  Start HyStar GetLIP: Mon Feb 27 15:40:54 2017
+27/02/17 15:40:55:312 InitGetLIP
+27/02/17 15:40:55:312 Constructor CModuleInfo: StartTime 602971258
+27/02/17 15:40:55:312 Win Version 6 Build 7601
+27/02/17 15:46:00:153 CloseModuleInterface: Instance 048FF6B0
+27/02/17 15:46:00:153 CloseModuleInterface LockOrder()==TRUE
+27/02/17 15:46:00:153 CloseModuleInterface End
+27/02/17 15:50:17:321 CloseModuleInterface: Instance 048FCDF8
+27/02/17 15:50:17:321 CloseModuleInterface LockOrder()==TRUE
+27/02/17 15:50:17:321 CloseModuleInterface End
+28/02/17 09:48:48:797 CloseModuleInterface: Instance 048FCDF8
+28/02/17 09:48:48:797 CloseModuleInterface LockOrder()==TRUE
+28/02/17 09:48:48:797 CloseModuleInterface End
+28/02/17 09:48:48:953 ~CModuleInfo:
+28/02/17 09:48:48:953 CloseModuleInterface: Instance 00000000
+28/02/17 09:48:48:953 CloseModuleInterface LockOrder()==TRUE
+28/02/17 09:48:48:953 CloseModuleInterface End
+28/02/17 09:48:48:953 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Tue Feb 28 09:á6:2 2017
+
+###  Start HyStar GetLIP: Wed Mar 01 14:27:36 2017
+01/03/17 14:27:36:312 InitGetLIP
+01/03/17 14:27:36:312 Constructor CModuleInfo: StartTime 771372746
+01/03/17 14:27:36:312 Win Version 6 Build 7601
+01/03/17 15:23:21:488 CloseModuleInterface: Instance 048B5F98
+01/03/17 15:23:21:488 CloseModuleInterface LockOrder()==TRUE
+01/03/17 15:23:21:488 CloseModuleInterface End
+01/03/17 15:23:22:659 ~CModuleInfo:
+01/03/17 15:23:22:659 CloseModuleInterface: Instance 00000000
+01/03/17 15:23:22:659 CloseModuleInterface LockOrder()==TRUE
+01/03/17 15:23:22:659 CloseModuleInterface End
+01/03/17 15:23:22:659 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Wed Mar 01 15:‡2:_2 2017
+
+###  Start HyStar GetLIP: Mon Mar 06 15:30:00 2017
+06/03/17 15:30:01:312 InitGetLIP
+06/03/17 15:30:01:312 Constructor CModuleInfo: StartTime 1207117000
+06/03/17 15:30:01:312 Win Version 6 Build 7601
+06/03/17 15:30:34:227 ~CModuleInfo:
+06/03/17 15:30:34:227 CloseModuleInterface: Instance 00000000
+06/03/17 15:30:34:227 CloseModuleInterface LockOrder()==TRUE
+06/03/17 15:30:34:227 CloseModuleInterface End
+06/03/17 15:30:34:227 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Mon Mar 06 15:0:«2 2017
+
+###  Start HyStar GetLIP: Mon Mar 06 15:31:08 2017
+06/03/17 15:31:08:312 InitGetLIP
+06/03/17 15:31:08:312 Constructor CModuleInfo: StartTime 1207184923
+06/03/17 15:31:08:312 Win Version 6 Build 7601
+06/03/17 15:31:25:396 ~CModuleInfo:
+06/03/17 15:31:25:396 CloseModuleInterface: Instance 00000000
+06/03/17 15:31:25:396 CloseModuleInterface LockOrder()==TRUE
+06/03/17 15:31:25:396 CloseModuleInterface End
+06/03/17 15:31:25:396 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Mon Mar 06 15:W2:W2 2017
+
+###  Start HyStar GetLIP: Mon Mar 06 15:31:26 2017
+06/03/17 15:31:26:312 InitGetLIP
+06/03/17 15:31:26:312 Constructor CModuleInfo: StartTime 1207202863
+06/03/17 15:31:26:312 Win Version 6 Build 7601
+06/03/17 15:34:22:845 ~CModuleInfo:
+06/03/17 15:34:22:845 CloseModuleInterface: Instance 00000000
+06/03/17 15:34:22:845 CloseModuleInterface LockOrder()==TRUE
+06/03/17 15:34:22:845 CloseModuleInterface End
+06/03/17 15:34:22:845 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Mon Mar 06 15:@0:ì0 2017
+
+###  Start HyStar GetLIP: Tue Mar 07 10:58:09 2017
+07/03/17 10:58:09:312 InitGetLIP
+07/03/17 10:58:09:312 Constructor CModuleInfo: StartTime 1277205426
+07/03/17 10:58:09:312 Win Version 6 Build 7601
+08/03/17 10:30:11:708 CloseModuleInterface: Instance 046F02F0
+08/03/17 10:30:11:708 CloseModuleInterface LockOrder()==TRUE
+08/03/17 10:30:11:708 CloseModuleInterface End
+08/03/17 10:30:12:879 ~CModuleInfo:
+08/03/17 10:30:12:879 CloseModuleInterface: Instance 00000000
+08/03/17 10:30:12:879 CloseModuleInterface LockOrder()==TRUE
+08/03/17 10:30:12:879 CloseModuleInterface End
+08/03/17 10:30:12:879 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Wed Mar 08 10:_2:¼8 2017
+
+###  Start HyStar GetLIP: Wed Mar 08 10:30:14 2017
+08/03/17 10:30:14:312 InitGetLIP
+08/03/17 10:30:14:312 Constructor CModuleInfo: StartTime 1361930349
+08/03/17 10:30:14:312 Win Version 6 Build 7601
+08/03/17 15:09:57:835 CloseModuleInterface: Instance 04C0C738
+08/03/17 15:09:57:835 CloseModuleInterface LockOrder()==TRUE
+08/03/17 15:09:57:835 CloseModuleInterface End
+08/03/17 15:09:58:  7 ~CModuleInfo:
+08/03/17 15:09:58:  7 CloseModuleInterface: Instance 00000000
+08/03/17 15:09:58:  7 CloseModuleInterface LockOrder()==TRUE
+08/03/17 15:09:58:  7 CloseModuleInterface End
+08/03/17 15:09:58:  7 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Wed Mar 08 15:Ù6:s2 2017
+
+###  Start HyStar GetLIP: Thu Mar 09 11:13:50 2017
+09/03/17 11:13:51:312 InitGetLIP
+09/03/17 11:13:51:312 Constructor CModuleInfo: StartTime 1450947171
+09/03/17 11:13:51:312 Win Version 6 Build 7601
+10/03/17 11:03:07: 10 CloseModuleInterface: Instance 04872490
+10/03/17 11:03:07: 10 CloseModuleInterface LockOrder()==TRUE
+10/03/17 11:03:07: 10 CloseModuleInterface End
+10/03/17 11:03:08:182 ~CModuleInfo:
+10/03/17 11:03:08:182 CloseModuleInterface: Instance 00000000
+10/03/17 11:03:08:182 CloseModuleInterface LockOrder()==TRUE
+10/03/17 11:03:08:182 CloseModuleInterface End
+10/03/17 11:03:08:182 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Fri Mar 10 11:8:‚4 2017
+
+###  Start HyStar GetLIP: Fri Mar 10 11:03:21 2017
+10/03/17 11:03:21:312 InitGetLIP
+10/03/17 11:03:21:312 Constructor CModuleInfo: StartTime 1536717644
+10/03/17 11:03:21:312 Win Version 6 Build 7601
+13/03/17 11:50:30:463 CloseModuleInterface: Instance 0CAE2158
+13/03/17 11:50:30:463 CloseModuleInterface LockOrder()==TRUE
+13/03/17 11:50:30:463 CloseModuleInterface End
+13/03/17 11:50:30:634 ~CModuleInfo:
+13/03/17 11:50:30:634 CloseModuleInterface: Instance 00000000
+13/03/17 11:50:30:634 CloseModuleInterface LockOrder()==TRUE
+13/03/17 11:50:30:634 CloseModuleInterface End
+13/03/17 11:50:30:634 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Mon Mar 13 11:¢4:A6 2017
+
+###  Start HyStar GetLIP: Mon Mar 13 13:54:17 2017
+13/03/17 13:54:17:312 InitGetLIP
+13/03/17 13:54:17:312 Constructor CModuleInfo: StartTime 1802573737
+13/03/17 13:54:17:312 Win Version 6 Build 7601
+
+###  Start HyStar GetLIP: Mon Mar 13 14:27:42 2017
+13/03/17 14:27:42:312 InitGetLIP
+13/03/17 14:27:42:312 Constructor CModuleInfo: StartTime 1804578646
+13/03/17 14:27:42:312 Win Version 6 Build 7601
+
+###  Start HyStar GetLIP: Mon Mar 13 15:45:35 2017
+13/03/17 15:45:36:249 InitGetLIP
+13/03/17 15:45:36:249 Constructor CModuleInfo: StartTime 13072
+13/03/17 15:45:36:249 Win Version 6 Build 7601
+14/03/17 10:12:21:320 CloseModuleInterface: Instance 0436E640
+14/03/17 10:12:21:320 CloseModuleInterface LockOrder()==TRUE
+14/03/17 10:12:21:320 CloseModuleInterface End
+14/03/17 10:12:21:476 ~CModuleInfo:
+14/03/17 10:12:21:476 CloseModuleInterface: Instance 00000000
+14/03/17 10:12:21:476 CloseModuleInterface LockOrder()==TRUE
+14/03/17 10:12:21:476 CloseModuleInterface End
+14/03/17 10:12:21:476 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Tue Mar 14 10:’4:`0 2017
+
+###  Start HyStar GetLIP: Tue Mar 14 10:12:38 2017
+14/03/17 10:12:38:312 InitGetLIP
+14/03/17 10:12:38:312 Constructor CModuleInfo: StartTime 66435677
+14/03/17 10:12:38:312 Win Version 6 Build 7601
+14/03/17 10:16:54:544 CloseModuleInterface: Instance 048BFA48
+14/03/17 10:16:54:560 CloseModuleInterface LockOrder()==TRUE
+14/03/17 10:16:54:560 CloseModuleInterface End
+14/03/17 10:16:55:716 ~CModuleInfo:
+14/03/17 10:16:55:716 CloseModuleInterface: Instance 00000000
+14/03/17 10:16:55:716 CloseModuleInterface LockOrder()==TRUE
+14/03/17 10:16:55:716 CloseModuleInterface End
+14/03/17 10:16:55:716 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Tue Mar 14 10:\0:0 2017
+
+###  Start HyStar GetLIP: Tue Mar 14 10:19:43 2017
+14/03/17 10:19:43:312 InitGetLIP
+14/03/17 10:19:43:312 Constructor CModuleInfo: StartTime 107515
+14/03/17 10:19:43:312 Win Version 6 Build 7601
+14/03/17 10:47:09: 76 CloseModuleInterface: Instance 04DF9F48
+14/03/17 10:47:09: 76 CloseModuleInterface LockOrder()==TRUE
+14/03/17 10:47:09: 76 CloseModuleInterface End
+
+###  Start HyStar GetLIP: Tue Mar 14 10:48:56 2017
+14/03/17 10:48:57:312 InitGetLIP
+14/03/17 10:48:57:312 Constructor CModuleInfo: StartTime 17035
+14/03/17 10:48:57:312 Win Version 6 Build 7601
+14/03/17 10:52:42:874 CloseModuleInterface: Instance 049BD808
+14/03/17 10:52:42:874 CloseModuleInterface LockOrder()==TRUE
+14/03/17 10:52:42:874 CloseModuleInterface End
+14/03/17 10:52:42: 30 ~CModuleInfo:
+14/03/17 10:52:42: 30 CloseModuleInterface: Instance 00000000
+14/03/17 10:52:42: 30 CloseModuleInterface LockOrder()==TRUE
+14/03/17 10:52:42: 30 CloseModuleInterface End
+14/03/17 10:52:42: 30 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Tue Mar 14 10:à0:4 2017
+
+###  Start HyStar GetLIP: Tue Mar 14 10:53:13 2017
+14/03/17 10:53:13:327 InitGetLIP
+14/03/17 10:53:13:327 Constructor CModuleInfo: StartTime 273625
+14/03/17 10:53:13:327 Win Version 6 Build 7601
+14/03/17 13:04:08:508 CloseModuleInterface: Instance 050DB088
+14/03/17 13:04:08:508 CloseModuleInterface LockOrder()==TRUE
+14/03/17 13:04:08:508 CloseModuleInterface End
+14/03/17 13:04:08:664 ~CModuleInfo:
+14/03/17 13:04:08:664 CloseModuleInterface: Instance 00000000
+14/03/17 13:04:08:664 CloseModuleInterface LockOrder()==TRUE
+14/03/17 13:04:08:664 CloseModuleInterface End
+14/03/17 13:04:08:664 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Tue Mar 14 13:’4:6 2017
+
+###  Start HyStar GetLIP: Wed Mar 15 09:48:28 2017
+15/03/17 09:48:28:312 InitGetLIP
+15/03/17 09:48:28:312 Constructor CModuleInfo: StartTime 82788560
+15/03/17 09:48:28:312 Win Version 6 Build 7601
+15/03/17 13:31:04: 88 CloseModuleInterface: Instance 04932388
+15/03/17 13:31:04:104 CloseModuleInterface LockOrder()==TRUE
+15/03/17 13:31:04:104 CloseModuleInterface End
+15/03/17 13:31:04:260 ~CModuleInfo:
+15/03/17 13:31:04:260 CloseModuleInterface: Instance 00000000
+15/03/17 13:31:04:260 CloseModuleInterface LockOrder()==TRUE
+15/03/17 13:31:04:260 CloseModuleInterface End
+15/03/17 13:31:04:260 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Wed Mar 15 13:Ð0:—2 2017
+
+###  Start HyStar GetLIP: Thu Mar 16 13:50:06 2017
+16/03/17 13:50:06:312 InitGetLIP
+16/03/17 13:50:06:312 Constructor CModuleInfo: StartTime 183686965
+16/03/17 13:50:06:312 Win Version 6 Build 7601
+16/03/17 16:53:16:927 CloseModuleInterface: Instance 04A3CE28
+16/03/17 16:53:16:927 CloseModuleInterface LockOrder()==TRUE
+16/03/17 16:53:16:927 CloseModuleInterface End
+16/03/17 16:53:16: 99 ~CModuleInfo:
+16/03/17 16:53:16: 99 CloseModuleInterface: Instance 00000000
+16/03/17 16:53:16: 99 CloseModuleInterface LockOrder()==TRUE
+16/03/17 16:53:16: 99 CloseModuleInterface End
+16/03/17 16:53:16: 99 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Thu Mar 16 16:d8:32 2017
+
+###  Start HyStar GetLIP: Fri Mar 17 07:56:33 2017
+17/03/17 07:56:33:312 InitGetLIP
+17/03/17 07:56:33:312 Constructor CModuleInfo: StartTime 248873792
+17/03/17 07:56:33:312 Win Version 6 Build 7601
+17/03/17 13:41:16: 49 CloseModuleInterface: Instance 0495D740
+17/03/17 13:41:16: 49 CloseModuleInterface LockOrder()==TRUE
+17/03/17 13:41:16: 49 CloseModuleInterface End
+17/03/17 13:41:16:205 ~CModuleInfo:
+17/03/17 13:41:16:205 CloseModuleInterface: Instance 00000000
+17/03/17 13:41:16:205 CloseModuleInterface LockOrder()==TRUE
+17/03/17 13:41:16:205 CloseModuleInterface End
+17/03/17 13:41:16:205 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Fri Mar 17 13:`8:û2 2017
+
+###  Start HyStar GetLIP: Fri Mar 17 13:58:41 2017
+17/03/17 13:58:41:312 InitGetLIP
+17/03/17 13:58:41:312 Constructor CModuleInfo: StartTime 270601409
+17/03/17 13:58:41:312 Win Version 6 Build 7601
+17/03/17 13:58:44:837 ~CModuleInfo:
+17/03/17 13:58:44:837 CloseModuleInterface: Instance 00000000
+17/03/17 13:58:44:837 CloseModuleInterface LockOrder()==TRUE
+17/03/17 13:58:44:837 CloseModuleInterface End
+17/03/17 13:58:44:837 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Fri Mar 17 13:Y6:)6 2017
+
+###  Start HyStar GetLIP: Fri Mar 17 14:07:36 2017
+17/03/17 14:07:37:312 InitGetLIP
+17/03/17 14:07:37:312 Constructor CModuleInfo: StartTime 271137022
+17/03/17 14:07:37:312 Win Version 6 Build 7601
+
+###  Start HyStar GetLIP: Mon Mar 20 11:41:18 2017
+20/03/17 11:41:19:312 InitGetLIP
+20/03/17 11:41:19:312 Constructor CModuleInfo: StartTime 58203
+20/03/17 11:41:19:312 Win Version 6 Build 7601
+20/03/17 11:48:59:859 ~CModuleInfo:
+20/03/17 11:48:59:859 CloseModuleInterface: Instance 00000000
+20/03/17 11:48:59:859 CloseModuleInterface LockOrder()==TRUE
+20/03/17 11:48:59:859 CloseModuleInterface End
+20/03/17 11:48:59:859 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Mon Mar 20 11:8:Å6 2017
+
+###  Start HyStar GetLIP: Tue Mar 21 11:25:07 2017
+21/03/17 11:25:07:312 InitGetLIP
+21/03/17 11:25:07:312 Constructor CModuleInfo: StartTime 85486769
+21/03/17 11:25:07:312 Win Version 6 Build 7601
+21/03/17 11:25:42:975 ~CModuleInfo:
+21/03/17 11:25:42:975 CloseModuleInterface: Instance 00000000
+21/03/17 11:25:42:975 CloseModuleInterface LockOrder()==TRUE
+21/03/17 11:25:42:975 CloseModuleInterface End
+21/03/17 11:25:42:975 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Tue Mar 21 11:16:»2 2017
+
+###  Start HyStar GetLIP: Wed Mar 22 11:38:25 2017
+22/03/17 11:38:25:328 InitGetLIP
+22/03/17 11:38:25:328 Constructor CModuleInfo: StartTime 172684417
+22/03/17 11:38:25:328 Win Version 6 Build 7601
+22/03/17 13:14:36:899 ~CModuleInfo:
+22/03/17 13:14:36:899 CloseModuleInterface: Instance 00000000
+22/03/17 13:14:36:899 CloseModuleInterface LockOrder()==TRUE
+22/03/17 13:14:36:899 CloseModuleInterface End
+22/03/17 13:14:36:899 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Wed Mar 22 13:R4:0 2017
+
+###  Start HyStar GetLIP: Fri Mar 31 16:09:04 2017
+31/03/17 16:09:04:312 InitGetLIP
+31/03/17 16:09:04:312 Constructor CModuleInfo: StartTime 194757482
+31/03/17 16:09:04:312 Win Version 6 Build 7601
+31/03/17 16:13:28:172 ~CModuleInfo:
+31/03/17 16:13:28:172 CloseModuleInterface: Instance 00000000
+31/03/17 16:13:28:172 CloseModuleInterface LockOrder()==TRUE
+31/03/17 16:13:28:172 CloseModuleInterface End
+31/03/17 16:13:28:172 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Fri Mar 31 16:ø8:/2 2017
+
+###  Start HyStar GetLIP: Mon Apr 03 14:08:44 2017
+03/04/17 14:08:45:312 InitGetLIP
+03/04/17 14:08:45:312 Constructor CModuleInfo: StartTime 446738066
+03/04/17 14:08:45:312 Win Version 6 Build 7601
+03/04/17 15:02:34:125 ~CModuleInfo:
+03/04/17 15:02:34:125 CloseModuleInterface: Instance 00000000
+03/04/17 15:02:34:125 CloseModuleInterface LockOrder()==TRUE
+03/04/17 15:02:34:125 CloseModuleInterface End
+03/04/17 15:02:34:125 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Mon Apr 03 15:Å6:Ì0 2017
+
+###  Start HyStar GetLIP: Tue Apr 04 14:06:15 2017
+04/04/17 14:06:15:312 InitGetLIP
+04/04/17 14:06:15:312 Constructor CModuleInfo: StartTime 532988663
+04/04/17 14:06:15:312 Win Version 6 Build 7601
+04/04/17 15:20:26:520 ~CModuleInfo:
+04/04/17 15:20:26:520 CloseModuleInterface: Instance 00000000
+04/04/17 15:20:26:520 CloseModuleInterface LockOrder()==TRUE
+04/04/17 15:20:26:520 CloseModuleInterface End
+04/04/17 15:20:26:520 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Tue Apr 04 15:0:z4 2017
+
+###  Start HyStar GetLIP: Tue Apr 04 15:21:10 2017
+04/04/17 15:21:10:312 InitGetLIP
+04/04/17 15:21:10:312 Constructor CModuleInfo: StartTime 537483411
+04/04/17 15:21:10:312 Win Version 6 Build 7601
+05/04/17 10:27:18: 64 CloseModuleInterface: Instance 049796E8
+05/04/17 10:27:18: 64 CloseModuleInterface LockOrder()==TRUE
+05/04/17 10:27:18: 64 CloseModuleInterface End
+05/04/17 10:27:18:236 ~CModuleInfo:
+05/04/17 10:27:18:236 CloseModuleInterface: Instance 00000000
+05/04/17 10:27:18:236 CloseModuleInterface LockOrder()==TRUE
+05/04/17 10:27:18:236 CloseModuleInterface End
+05/04/17 10:27:18:236 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Wed Apr 05 10:”0:,0 2017
+
+###  Start HyStar GetLIP: Wed Apr 05 13:33:12 2017
+05/04/17 13:33:13:312 InitGetLIP
+05/04/17 13:33:13:312 Constructor CModuleInfo: StartTime 617406077
+05/04/17 13:33:13:312 Win Version 6 Build 7601
+
+###  Start HyStar GetLIP: Wed Apr 05 13:54:17 2017
+05/04/17 13:54:17:312 InitGetLIP
+05/04/17 13:54:17:312 Constructor CModuleInfo: StartTime 618670403
+05/04/17 13:54:17:312 Win Version 6 Build 7601
+05/04/17 14:02:13:692 CloseModuleInterface: Instance 04D38428
+05/04/17 14:02:13:692 CloseModuleInterface LockOrder()==TRUE
+05/04/17 14:02:13:692 CloseModuleInterface End
+05/04/17 14:02:14:863 ~CModuleInfo:
+05/04/17 14:02:14:863 CloseModuleInterface: Instance 00000000
+05/04/17 14:02:14:863 CloseModuleInterface LockOrder()==TRUE
+05/04/17 14:02:14:863 CloseModuleInterface End
+05/04/17 14:02:14:863 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Wed Apr 05 14:ˆ8:ô8 2017
+
+###  Start HyStar GetLIP: Wed Apr 05 14:02:14 2017
+05/04/17 14:02:15:312 InitGetLIP
+05/04/17 14:02:15:312 Constructor CModuleInfo: StartTime 619148031
+05/04/17 14:02:15:312 Win Version 6 Build 7601
+05/04/17 17:40:30:332 CloseModuleInterface: Instance 04778CB8
+05/04/17 17:40:30:332 CloseModuleInterface LockOrder()==TRUE
+05/04/17 17:40:30:332 CloseModuleInterface End
+05/04/17 17:40:30:441 ~CModuleInfo:
+05/04/17 17:40:30:441 CloseModuleInterface: Instance 00000000
+05/04/17 17:40:30:441 CloseModuleInterface LockOrder()==TRUE
+05/04/17 17:40:30:441 CloseModuleInterface End
+05/04/17 17:40:30:441 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Wed Apr 05 17:Õ6:6 2017
+
+###  Start HyStar GetLIP: Wed Apr 05 17:43:44 2017
+05/04/17 17:43:45:312 InitGetLIP
+05/04/17 17:43:45:312 Constructor CModuleInfo: StartTime 632438006
+05/04/17 17:43:45:312 Win Version 6 Build 7601
+05/04/17 17:50:18:294 CloseModuleInterface: Instance 05020D70
+05/04/17 17:50:18:294 CloseModuleInterface LockOrder()==TRUE
+05/04/17 17:50:18:294 CloseModuleInterface End
+05/04/17 17:50:18:465 ~CModuleInfo:
+05/04/17 17:50:18:465 CloseModuleInterface: Instance 00000000
+05/04/17 17:50:18:465 CloseModuleInterface LockOrder()==TRUE
+05/04/17 17:50:18:465 CloseModuleInterface End
+05/04/17 17:50:18:465 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Wed Apr 05 17:0:|8 2017
+
+###  Start HyStar GetLIP: Wed Apr 05 17:50:34 2017
+05/04/17 17:50:34:312 InitGetLIP
+05/04/17 17:50:34:312 Constructor CModuleInfo: StartTime 632847368
+05/04/17 17:50:34:312 Win Version 6 Build 7601
+05/04/17 17:50:47:853 ~CModuleInfo:
+05/04/17 17:50:47:853 CloseModuleInterface: Instance 00000000
+05/04/17 17:50:47:853 CloseModuleInterface LockOrder()==TRUE
+05/04/17 17:50:47:853 CloseModuleInterface End
+05/04/17 17:50:47:853 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Wed Apr 05 17:!6:¢4 2017
+
+###  Start HyStar GetLIP: Wed Apr 05 17:51:03 2017
+05/04/17 17:51:04:312 InitGetLIP
+05/04/17 17:51:04:312 Constructor CModuleInfo: StartTime 632877242
+05/04/17 17:51:04:312 Win Version 6 Build 7601
+06/04/17 15:17:56:804 CloseModuleInterface: Instance 047EBE78
+06/04/17 15:17:56:820 CloseModuleInterface LockOrder()==TRUE
+06/04/17 15:17:56:820 CloseModuleInterface End
+06/04/17 15:17:56:976 ~CModuleInfo:
+06/04/17 15:17:56:976 CloseModuleInterface: Instance 00000000
+06/04/17 15:17:56:976 CloseModuleInterface LockOrder()==TRUE
+06/04/17 15:17:56:976 CloseModuleInterface End
+06/04/17 15:17:56:976 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Thu Apr 06 15:(0:K2 2017
+
+###  Start HyStar GetLIP: Thu Apr 06 15:21:31 2017
+06/04/17 15:21:31:312 InitGetLIP
+06/04/17 15:21:31:312 Constructor CModuleInfo: StartTime 710304547
+06/04/17 15:21:31:312 Win Version 6 Build 7601
+06/04/17 15:26:23:627 ~CModuleInfo:
+06/04/17 15:26:23:627 CloseModuleInterface: Instance 00000000
+06/04/17 15:26:23:627 CloseModuleInterface LockOrder()==TRUE
+06/04/17 15:26:23:627 CloseModuleInterface End
+06/04/17 15:26:23:627 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Thu Apr 06 15:«2:00 2017
+
+###  Start HyStar GetLIP: Thu Apr 06 15:31:58 2017
+06/04/17 15:31:59:312 InitGetLIP
+06/04/17 15:31:59:312 Constructor CModuleInfo: StartTime 213175
+06/04/17 15:31:59:312 Win Version 6 Build 7601
+06/04/17 15:56:16: 79 ~CModuleInfo:
+06/04/17 15:56:16: 79 CloseModuleInterface: Instance 00000000
+06/04/17 15:56:16: 79 CloseModuleInterface LockOrder()==TRUE
+06/04/17 15:56:16: 79 CloseModuleInterface End
+06/04/17 15:56:16: 79 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Thu Apr 06 15:Ž4:00 2017
+
+###  Start HyStar GetLIP: Thu Apr 06 16:06:06 2017
+06/04/17 16:06:06:312 InitGetLIP
+06/04/17 16:06:06:312 Constructor CModuleInfo: StartTime 2260360
+06/04/17 16:06:06:312 Win Version 6 Build 7601
+07/04/17 09:14:45:988 CloseModuleInterface: Instance 048F77F0
+07/04/17 09:14:45:988 CloseModuleInterface LockOrder()==TRUE
+07/04/17 09:14:45:988 CloseModuleInterface End
+07/04/17 09:14:45:160 ~CModuleInfo:
+07/04/17 09:14:45:160 CloseModuleInterface: Instance 00000000
+07/04/17 09:14:45:160 CloseModuleInterface LockOrder()==TRUE
+07/04/17 09:14:45:160 CloseModuleInterface End
+07/04/17 09:14:45:160 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Fri Apr 07 09::4:c2 2017
+
+###  Start HyStar GetLIP: Fri Apr 07 09:14:51 2017
+07/04/17 09:14:51:312 InitGetLIP
+07/04/17 09:14:51:312 Constructor CModuleInfo: StartTime 63985588
+07/04/17 09:14:51:312 Win Version 6 Build 7601
+07/04/17 09:20:31:332 CloseModuleInterface: Instance 0470ED78
+07/04/17 09:20:31:332 CloseModuleInterface LockOrder()==TRUE
+07/04/17 09:20:31:332 CloseModuleInterface End
+07/04/17 09:20:31:488 ~CModuleInfo:
+07/04/17 09:20:31:488 CloseModuleInterface: Instance 00000000
+07/04/17 09:20:31:488 CloseModuleInterface LockOrder()==TRUE
+07/04/17 09:20:31:488 CloseModuleInterface End
+07/04/17 09:20:31:488 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Fri Apr 07 09:’4:.4 2017
+
+###  Start HyStar GetLIP: Fri Apr 07 09:20:32 2017
+07/04/17 09:20:33:312 InitGetLIP
+07/04/17 09:20:33:312 Constructor CModuleInfo: StartTime 64327137
+07/04/17 09:20:33:312 Win Version 6 Build 7601
+07/04/17 09:35:41:534 CloseModuleInterface: Instance 01968310
+07/04/17 09:35:41:534 CloseModuleInterface LockOrder()==TRUE
+07/04/17 09:35:41:534 CloseModuleInterface End
+07/04/17 09:35:41:705 ~CModuleInfo:
+07/04/17 09:35:41:705 CloseModuleInterface: Instance 00000000
+07/04/17 09:35:41:705 CloseModuleInterface LockOrder()==TRUE
+07/04/17 09:35:41:705 CloseModuleInterface End
+07/04/17 09:35:41:705 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Fri Apr 07 09:Ð0:Å6 2017
+
+###  Start HyStar GetLIP: Fri Apr 07 09:37:27 2017
+07/04/17 09:37:27:312 InitGetLIP
+07/04/17 09:37:27:312 Constructor CModuleInfo: StartTime 24835
+07/04/17 09:37:27:312 Win Version 6 Build 7601
+07/04/17 12:37:05:405 CloseModuleInterface: Instance 04AB8400
+07/04/17 12:37:05:405 CloseModuleInterface LockOrder()==TRUE
+07/04/17 12:37:05:405 CloseModuleInterface End
+07/04/17 12:37:06:577 ~CModuleInfo:
+07/04/17 12:37:06:577 CloseModuleInterface: Instance 00000000
+07/04/17 12:37:06:577 CloseModuleInterface LockOrder()==TRUE
+07/04/17 12:37:06:577 CloseModuleInterface End
+07/04/17 12:37:06:577 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Fri Apr 07 12: 0:³2 2017
+
+###  Start HyStar GetLIP: Mon Apr 10 13:13:07 2017
+10/04/17 13:13:07:312 InitGetLIP
+10/04/17 13:13:07:312 Constructor CModuleInfo: StartTime 272164492
+10/04/17 13:13:07:312 Win Version 6 Build 7601
+10/04/17 13:23:30: 99 ~CModuleInfo:
+10/04/17 13:23:30: 99 CloseModuleInterface: Instance 00000000
+10/04/17 13:23:30: 99 CloseModuleInterface LockOrder()==TRUE
+10/04/17 13:23:30: 99 CloseModuleInterface End
+10/04/17 13:23:30: 99 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Mon Apr 10 13:±6:2 2017
+
+###  Start HyStar GetLIP: Mon Apr 10 15:08:37 2017
+10/04/17 15:08:38:312 InitGetLIP
+10/04/17 15:08:38:312 Constructor CModuleInfo: StartTime 279095023
+10/04/17 15:08:38:312 Win Version 6 Build 7601
+11/04/17 09:58:37: 32 CloseModuleInterface: Instance 048A8BF0
+11/04/17 09:58:37: 32 CloseModuleInterface LockOrder()==TRUE
+11/04/17 09:58:37: 32 CloseModuleInterface End
+11/04/17 09:58:37:203 ~CModuleInfo:
+11/04/17 09:58:37:203 CloseModuleInterface: Instance 00000000
+11/04/17 09:58:37:203 CloseModuleInterface LockOrder()==TRUE
+11/04/17 09:58:37:203 CloseModuleInterface End
+11/04/17 09:58:37:203 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Tue Apr 11 09:ç2:|8 2017
+
+###  Start HyStar GetLIP: Tue Apr 11 10:45:17 2017
+11/04/17 10:45:17:312 InitGetLIP
+11/04/17 10:45:17:312 Constructor CModuleInfo: StartTime 349694898
+11/04/17 10:45:17:312 Win Version 6 Build 7601
+11/04/17 10:45:24:958 ~CModuleInfo:
+11/04/17 10:45:24:958 CloseModuleInterface: Instance 00000000
+11/04/17 10:45:24:958 CloseModuleInterface LockOrder()==TRUE
+11/04/17 10:45:24:958 CloseModuleInterface End
+11/04/17 10:45:24:958 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Tue Apr 11 10:á6:Ä8 2017
+
+###  Start HyStar GetLIP: Tue Apr 11 10:45:43 2017
+11/04/17 10:45:44:312 InitGetLIP
+11/04/17 10:45:44:312 Constructor CModuleInfo: StartTime 349721278
+11/04/17 10:45:44:312 Win Version 6 Build 7601
+11/04/17 10:48:03:730 ~CModuleInfo:
+11/04/17 10:48:03:730 CloseModuleInterface: Instance 00000000
+11/04/17 10:48:03:730 CloseModuleInterface LockOrder()==TRUE
+11/04/17 10:48:03:730 CloseModuleInterface End
+11/04/17 10:48:03:730 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Tue Apr 11 10:’4:ø8 2017
+
+###  Start HyStar GetLIP: Tue Apr 11 14:12:37 2017
+11/04/17 14:12:37:312 InitGetLIP
+11/04/17 14:12:37:312 Constructor CModuleInfo: StartTime 362134683
+11/04/17 14:12:37:312 Win Version 6 Build 7601
+11/04/17 14:16:03:327 ~CModuleInfo:
+11/04/17 14:16:03:327 CloseModuleInterface: Instance 00000000
+11/04/17 14:16:03:327 CloseModuleInterface LockOrder()==TRUE
+11/04/17 14:16:03:327 CloseModuleInterface End
+11/04/17 14:16:03:327 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Tue Apr 11 14:€8:_2 2017
+
+###  Start HyStar GetLIP: Tue Apr 11 14:26:00 2017
+11/04/17 14:26:01:312 InitGetLIP
+11/04/17 14:26:01:312 Constructor CModuleInfo: StartTime 362938057
+11/04/17 14:26:01:312 Win Version 6 Build 7601
+11/04/17 14:26:32:434 ~CModuleInfo:
+11/04/17 14:26:32:434 CloseModuleInterface: Instance 00000000
+11/04/17 14:26:32:434 CloseModuleInterface LockOrder()==TRUE
+11/04/17 14:26:32:434 CloseModuleInterface End
+11/04/17 14:26:32:434 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Tue Apr 11 14:”0:ø8 2017
+
+###  Start HyStar GetLIP: Tue Apr 11 14:28:31 2017
+11/04/17 14:28:31:328 InitGetLIP
+11/04/17 14:28:31:328 Constructor CModuleInfo: StartTime 363088723
+11/04/17 14:28:31:328 Win Version 6 Build 7601
+11/04/17 15:29:24: 13 CloseModuleInterface: Instance 046B0538
+11/04/17 15:29:24: 29 CloseModuleInterface LockOrder()==TRUE
+11/04/17 15:29:24: 29 CloseModuleInterface End
+11/04/17 15:29:24:185 ~CModuleInfo:
+11/04/17 15:29:24:185 CloseModuleInterface: Instance 00000000
+11/04/17 15:29:24:185 CloseModuleInterface LockOrder()==TRUE
+11/04/17 15:29:24:185 CloseModuleInterface End
+11/04/17 15:29:24:185 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Tue Apr 11 15:¬8:ø8 2017
+
+###  Start HyStar GetLIP: Tue Apr 11 15:29:30 2017
+11/04/17 15:29:30:312 InitGetLIP
+11/04/17 15:29:30:312 Constructor CModuleInfo: StartTime 366747680
+11/04/17 15:29:30:312 Win Version 6 Build 7601
+11/04/17 15:33:15:530 CloseModuleInterface: Instance 04AA8688
+11/04/17 15:33:15:530 CloseModuleInterface LockOrder()==TRUE
+11/04/17 15:33:15:530 CloseModuleInterface End
+11/04/17 15:33:16:702 ~CModuleInfo:
+11/04/17 15:33:16:702 CloseModuleInterface: Instance 00000000
+11/04/17 15:33:16:702 CloseModuleInterface LockOrder()==TRUE
+11/04/17 15:33:16:702 CloseModuleInterface End
+11/04/17 15:33:16:702 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Tue Apr 11 15:]6:_2 2017
+
+###  Start HyStar GetLIP: Tue Apr 11 15:34:21 2017
+11/04/17 15:34:21:312 InitGetLIP
+11/04/17 15:34:21:312 Constructor CModuleInfo: StartTime 367038294
+11/04/17 15:34:21:312 Win Version 6 Build 7601
+11/04/17 15:35:54:117 CloseModuleInterface: Instance 04A5A5B8
+11/04/17 15:35:54:117 CloseModuleInterface LockOrder()==TRUE
+11/04/17 15:35:54:117 CloseModuleInterface End
+11/04/17 15:35:54:288 ~CModuleInfo:
+11/04/17 15:35:54:288 CloseModuleInterface: Instance 00000000
+11/04/17 15:35:54:288 CloseModuleInterface LockOrder()==TRUE
+11/04/17 15:35:54:288 CloseModuleInterface End
+11/04/17 15:35:54:288 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Tue Apr 11 15:‚4:\0 2017
+
+###  Start HyStar GetLIP: Tue Apr 11 15:36:15 2017
+11/04/17 15:36:16:312 InitGetLIP
+11/04/17 15:36:16:312 Constructor CModuleInfo: StartTime 367153095
+11/04/17 15:36:16:312 Win Version 6 Build 7601
+11/04/17 15:44:33:893 CloseModuleInterface: Instance 04E1A0B8
+11/04/17 15:44:33:908 CloseModuleInterface LockOrder()==TRUE
+11/04/17 15:44:33:908 CloseModuleInterface End
+11/04/17 15:44:33: 64 ~CModuleInfo:
+11/04/17 15:44:33: 64 CloseModuleInterface: Instance 00000000
+11/04/17 15:44:33: 64 CloseModuleInterface LockOrder()==TRUE
+11/04/17 15:44:33: 64 CloseModuleInterface End
+11/04/17 15:44:33: 64 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Tue Apr 11 15:c2:80 2017
+
+###  Start HyStar GetLIP: Tue Apr 11 15:44:51 2017
+11/04/17 15:44:51:312 InitGetLIP
+11/04/17 15:44:51:312 Constructor CModuleInfo: StartTime 367668413
+11/04/17 15:44:51:312 Win Version 6 Build 7601
+11/04/17 15:45:58:361 ~CModuleInfo:
+11/04/17 15:45:58:361 CloseModuleInterface: Instance 00000000
+11/04/17 15:45:58:361 CloseModuleInterface LockOrder()==TRUE
+11/04/17 15:45:58:361 CloseModuleInterface End
+11/04/17 15:45:58:361 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Tue Apr 11 15:Ç2:,0 2017
+
+###  Start HyStar GetLIP: Tue Apr 11 15:54:47 2017
+11/04/17 15:54:48:312 InitGetLIP
+11/04/17 15:54:48:312 Constructor CModuleInfo: StartTime 368265055
+11/04/17 15:54:48:312 Win Version 6 Build 7601
+12/04/17 09:52:35:796 CloseModuleInterface: Instance 04D08E28
+12/04/17 09:52:35:796 CloseModuleInterface LockOrder()==TRUE
+12/04/17 09:52:35:796 CloseModuleInterface End
+12/04/17 09:52:35:952 ~CModuleInfo:
+12/04/17 09:52:35:952 CloseModuleInterface: Instance 00000000
+12/04/17 09:52:35:952 CloseModuleInterface LockOrder()==TRUE
+12/04/17 09:52:35:952 CloseModuleInterface End
+12/04/17 09:52:35:952 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Wed Apr 12 09:Ð8:Ü8 2017
+
+###  Start HyStar GetLIP: Thu Apr 13 14:02:43 2017
+13/04/17 14:02:44:312 InitGetLIP
+13/04/17 14:02:44:312 Constructor CModuleInfo: StartTime 534341098
+13/04/17 14:02:44:312 Win Version 6 Build 7601
+13/04/17 14:02:49:772 ~CModuleInfo:
+13/04/17 14:02:49:772 CloseModuleInterface: Instance 00000000
+13/04/17 14:02:49:772 CloseModuleInterface LockOrder()==TRUE
+13/04/17 14:02:49:772 CloseModuleInterface End
+13/04/17 14:02:49:772 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Tue Apr 11 15:à0:’4 2017
+
+###  Start HyStar GetLIP: Thu Apr 13 14:02:50 2017
+13/04/17 14:02:50:312 InitGetLIP
+13/04/17 14:02:50:312 Constructor CModuleInfo: StartTime 534347728
+13/04/17 14:02:50:312 Win Version 6 Build 7601
+13/04/17 14:14:26:999 ~CModuleInfo:
+13/04/17 14:14:26:999 CloseModuleInterface: Instance 00000000
+13/04/17 14:14:26:999 CloseModuleInterface LockOrder()==TRUE
+13/04/17 14:14:26:999 CloseModuleInterface End
+13/04/17 14:14:26:999 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Thu Apr 13 14:¸8:ø8 2017
+
+###  Start HyStar GetLIP: Thu Apr 13 14:15:34 2017
+13/04/17 14:15:35:312 InitGetLIP
+13/04/17 14:15:35:312 Constructor CModuleInfo: StartTime 535112289
+13/04/17 14:15:35:312 Win Version 6 Build 7601
+13/04/17 16:19:06:982 CloseModuleInterface: Instance 049FDF00
+13/04/17 16:19:07:998 CloseModuleInterface LockOrder()==TRUE
+13/04/17 16:19:07:998 CloseModuleInterface End
+13/04/17 16:19:07:154 ~CModuleInfo:
+13/04/17 16:19:07:154 CloseModuleInterface: Instance 00000000
+13/04/17 16:19:07:154 CloseModuleInterface LockOrder()==TRUE
+13/04/17 16:19:07:154 CloseModuleInterface End
+13/04/17 16:19:07:154 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Thu Apr 13 16:ì8:Å6 2017
+
+###  Start HyStar GetLIP: Thu Apr 13 16:23:57 2017
+13/04/17 16:23:58:312 InitGetLIP
+13/04/17 16:23:58:312 Constructor CModuleInfo: StartTime 542815197
+13/04/17 16:23:58:312 Win Version 6 Build 7601
+14/04/17 09:45:22:531 CloseModuleInterface: Instance 048B5830
+14/04/17 09:45:22:531 CloseModuleInterface LockOrder()==TRUE
+14/04/17 09:45:22:531 CloseModuleInterface End
+14/04/17 09:45:22:687 ~CModuleInfo:
+14/04/17 09:45:22:687 CloseModuleInterface: Instance 00000000
+14/04/17 09:45:22:687 CloseModuleInterface LockOrder()==TRUE
+14/04/17 09:45:22:687 CloseModuleInterface End
+14/04/17 09:45:22:687 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Fri Apr 14 09:†4:’4 2017
+
+###  Start HyStar GetLIP: Tue May 09 15:10:42 2017
+09/05/17 15:10:43:312 InitGetLIP
+09/05/17 15:10:43:312 Constructor CModuleInfo: StartTime -1510147070
+09/05/17 15:10:43:312 Win Version 6 Build 7601
+09/05/17 15:36:18:487 ~CModuleInfo:
+09/05/17 15:36:18:487 CloseModuleInterface: Instance 00000000
+09/05/17 15:36:18:487 CloseModuleInterface LockOrder()==TRUE
+09/05/17 15:36:18:487 CloseModuleInterface End
+09/05/17 15:36:18:487 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Tue May 09 15:Å6:L8 2017
+
+###  Start HyStar GetLIP: Tue May 09 15:41:41 2017
+09/05/17 15:41:41:312 InitGetLIP
+09/05/17 15:41:41:312 Constructor CModuleInfo: StartTime -1508288895
+09/05/17 15:41:41:312 Win Version 6 Build 7601
+
+###  Start HyStar GetLIP: Tue May 09 16:53:31 2017
+09/05/17 16:53:31:312 InitGetLIP
+09/05/17 16:53:31:312 Constructor CModuleInfo: StartTime -1503978509
+09/05/17 16:53:31:312 Win Version 6 Build 7601
+09/05/17 16:57:59:728 CloseModuleInterface: Instance 04A8B130
+09/05/17 16:57:59:728 CloseModuleInterface LockOrder()==TRUE
+09/05/17 16:57:59:728 CloseModuleInterface End
+09/05/17 16:57:59:900 ~CModuleInfo:
+09/05/17 16:57:59:900 CloseModuleInterface: Instance 00000000
+09/05/17 16:57:59:900 CloseModuleInterface LockOrder()==TRUE
+09/05/17 16:57:59:900 CloseModuleInterface End
+09/05/17 16:57:59:900 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Tue May 09 16:i6:L0 2017
+
+###  Start HyStar GetLIP: Tue May 09 17:47:03 2017
+09/05/17 17:47:03:312 InitGetLIP
+09/05/17 17:47:03:312 Constructor CModuleInfo: StartTime -1500766995
+09/05/17 17:47:03:312 Win Version 6 Build 7601
+10/05/17 09:39:01:939 CloseModuleInterface: Instance 0485F348
+10/05/17 09:39:01:955 CloseModuleInterface LockOrder()==TRUE
+10/05/17 09:39:01:955 CloseModuleInterface End
+10/05/17 09:39:02:111 ~CModuleInfo:
+10/05/17 09:39:02:111 CloseModuleInterface: Instance 00000000
+10/05/17 09:39:02:111 CloseModuleInterface LockOrder()==TRUE
+10/05/17 09:39:02:111 CloseModuleInterface End
+10/05/17 09:39:02:111 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Wed May 10 09:‰6:2 2017
+
+###  Start HyStar GetLIP: Wed May 10 09:39:07 2017
+10/05/17 09:39:07:312 InitGetLIP
+10/05/17 09:39:07:312 Constructor CModuleInfo: StartTime -1443642752
+10/05/17 09:39:07:312 Win Version 6 Build 7601
+10/05/17 10:09:35:786 CloseModuleInterface: Instance 046F42B0
+10/05/17 10:09:35:786 CloseModuleInterface LockOrder()==TRUE
+10/05/17 10:09:35:786 CloseModuleInterface End
+10/05/17 10:09:35:958 ~CModuleInfo:
+10/05/17 10:09:35:958 CloseModuleInterface: Instance 00000000
+10/05/17 10:09:35:958 CloseModuleInterface LockOrder()==TRUE
+10/05/17 10:09:35:958 CloseModuleInterface End
+10/05/17 10:09:35:958 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Wed May 10 10:c2:
+4 2017
+
+###  Start HyStar GetLIP: Mon May 15 15:35:52 2017
+15/05/17 15:35:52:312 InitGetLIP
+15/05/17 15:35:52:312 Constructor CModuleInfo: StartTime -990237889
+15/05/17 15:35:52:312 Win Version 6 Build 7601
+15/05/17 16:27:32:395 ~CModuleInfo:
+15/05/17 16:27:32:395 CloseModuleInterface: Instance 00000000
+15/05/17 16:27:32:395 CloseModuleInterface LockOrder()==TRUE
+15/05/17 16:27:32:395 CloseModuleInterface End
+15/05/17 16:27:32:395 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Mon May 15 16:ý6:²4 2017
+
+###  Start HyStar GetLIP: Mon May 15 16:27:45 2017
+15/05/17 16:27:45:312 InitGetLIP
+15/05/17 16:27:45:312 Constructor CModuleInfo: StartTime -987124561
+15/05/17 16:27:45:312 Win Version 6 Build 7601
+15/05/17 16:29:33:968 ~CModuleInfo:
+15/05/17 16:29:33:968 CloseModuleInterface: Instance 00000000
+15/05/17 16:29:33:968 CloseModuleInterface LockOrder()==TRUE
+15/05/17 16:29:33:968 CloseModuleInterface End
+15/05/17 16:29:33:968 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Mon May 15 16:™6:¹6 2017
+
+###  Start HyStar GetLIP: Tue May 16 10:03:53 2017
+16/05/17 10:03:53:312 InitGetLIP
+16/05/17 10:03:53:312 Constructor CModuleInfo: StartTime -923756362
+16/05/17 10:03:53:312 Win Version 6 Build 7601
+17/05/17 16:03:31:808 CloseModuleInterface: Instance 0489B688
+17/05/17 16:03:31:808 CloseModuleInterface LockOrder()==TRUE
+17/05/17 16:03:31:808 CloseModuleInterface End
+17/05/17 16:03:31:979 ~CModuleInfo:
+17/05/17 16:03:31:979 CloseModuleInterface: Instance 00000000
+17/05/17 16:03:31:979 CloseModuleInterface LockOrder()==TRUE
+17/05/17 16:03:31:979 CloseModuleInterface End
+17/05/17 16:03:31:979 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Wed May 17 16:k2:ø8 2017
+
+###  Start HyStar GetLIP: Wed May 17 16:03:36 2017
+17/05/17 16:03:36:312 InitGetLIP
+17/05/17 16:03:36:312 Constructor CModuleInfo: StartTime -815773438
+17/05/17 16:03:36:312 Win Version 6 Build 7601
+17/05/17 16:13:10:678 ~CModuleInfo:
+17/05/17 16:13:10:678 CloseModuleInterface: Instance 00000000
+17/05/17 16:13:10:678 CloseModuleInterface LockOrder()==TRUE
+17/05/17 16:13:10:678 CloseModuleInterface End
+17/05/17 16:13:10:678 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Wed May 17 16:2:_2 2017
+
+###  Start HyStar GetLIP: Mon May 22 10:09:27 2017
+22/05/17 10:09:27:312 InitGetLIP
+22/05/17 10:09:27:312 Constructor CModuleInfo: StartTime -405022431
+22/05/17 10:09:27:312 Win Version 6 Build 7601
+22/05/17 16:10:31: 93 CloseModuleInterface: Instance 047FC5F0
+22/05/17 16:10:31: 93 CloseModuleInterface LockOrder()==TRUE
+22/05/17 16:10:31: 93 CloseModuleInterface End
+22/05/17 16:10:31:265 ~CModuleInfo:
+22/05/17 16:10:31:265 CloseModuleInterface: Instance 00000000
+22/05/17 16:10:31:265 CloseModuleInterface LockOrder()==TRUE
+22/05/17 16:10:31:265 CloseModuleInterface End
+22/05/17 16:10:31:265 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Mon May 22 16:L8:F4 2017
+
+###  Start HyStar GetLIP: Mon May 22 16:10:32 2017
+22/05/17 16:10:33:312 InitGetLIP
+22/05/17 16:10:33:312 Constructor CModuleInfo: StartTime -383357152
+22/05/17 16:10:33:312 Win Version 6 Build 7601
+22/05/17 16:11:58:348 ~CModuleInfo:
+22/05/17 16:11:58:348 CloseModuleInterface: Instance 00000000
+22/05/17 16:11:58:348 CloseModuleInterface LockOrder()==TRUE
+22/05/17 16:11:58:348 CloseModuleInterface End
+22/05/17 16:11:58:348 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Mon May 22 16:-6:_2 2017
+
+###  Start HyStar GetLIP: Mon May 22 16:12:14 2017
+22/05/17 16:12:14:312 InitGetLIP
+22/05/17 16:12:14:312 Constructor CModuleInfo: StartTime -383255580
+22/05/17 16:12:14:312 Win Version 6 Build 7601
+24/05/17 09:18:16:738 CloseModuleInterface: Instance 0494CE58
+24/05/17 09:18:16:738 CloseModuleInterface LockOrder()==TRUE
+24/05/17 09:18:16:738 CloseModuleInterface End
+24/05/17 09:18:16:909 ~CModuleInfo:
+24/05/17 09:18:16:909 CloseModuleInterface: Instance 00000000
+24/05/17 09:18:16:909 CloseModuleInterface LockOrder()==TRUE
+24/05/17 09:18:16:909 CloseModuleInterface End
+24/05/17 09:18:16:909 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Wed May 24 09:´8:Ž4 2017
+
+###  Start HyStar GetLIP: Tue Jun 13 13:07:40 2017
+13/06/17 13:07:40:312 InitGetLIP
+13/06/17 13:07:40:312 Constructor CModuleInfo: StartTime 1506409787
+13/06/17 13:07:40:312 Win Version 6 Build 7601
+13/06/17 13:23:23:104 ~CModuleInfo:
+13/06/17 13:23:23:104 CloseModuleInterface: Instance 00000000
+13/06/17 13:23:23:104 CloseModuleInterface LockOrder()==TRUE
+13/06/17 13:23:23:104 CloseModuleInterface End
+13/06/17 13:23:23:104 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Tue Jun 13 13:¯2:e6 2017
+
+###  Start HyStar GetLIP: Tue Jun 13 13:25:43 2017
+13/06/17 13:25:43:312 InitGetLIP
+13/06/17 13:25:43:312 Constructor CModuleInfo: StartTime 1507493121
+13/06/17 13:25:43:312 Win Version 6 Build 7601
+21/06/17 17:06:44:797 CloseModuleInterface: Instance 04598C78
+21/06/17 17:06:44:797 CloseModuleInterface LockOrder()==TRUE
+21/06/17 17:06:44:797 CloseModuleInterface End
+21/06/17 17:06:44:953 ~CModuleInfo:
+21/06/17 17:06:44:953 CloseModuleInterface: Instance 00000000
+21/06/17 17:06:44:953 CloseModuleInterface LockOrder()==TRUE
+21/06/17 17:06:44:953 CloseModuleInterface End
+21/06/17 17:06:44:953 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Wed Jun 21 17:,0:‚4 2017
+
+###  Start HyStar GetLIP: Wed Jun 21 17:07:08 2017
+21/06/17 17:07:09:312 InitGetLIP
+21/06/17 17:07:09:312 Constructor CModuleInfo: StartTime -2082988839
+21/06/17 17:07:09:312 Win Version 6 Build 7601
+21/06/17 18:13:41:549 CloseModuleInterface: Instance 04974478
+21/06/17 18:13:41:549 CloseModuleInterface LockOrder()==TRUE
+21/06/17 18:13:41:549 CloseModuleInterface End
+21/06/17 18:13:41:705 ~CModuleInfo:
+21/06/17 18:13:41:705 CloseModuleInterface: Instance 00000000
+21/06/17 18:13:41:705 CloseModuleInterface LockOrder()==TRUE
+21/06/17 18:13:41:705 CloseModuleInterface End
+21/06/17 18:13:41:705 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Wed Jun 21 18:ø8:8 2017
+
+###  Start HyStar GetLIP: Wed Jun 21 18:13:59 2017
+21/06/17 18:13:59:312 InitGetLIP
+21/06/17 18:13:59:312 Constructor CModuleInfo: StartTime -2078978225
+21/06/17 18:13:59:312 Win Version 6 Build 7601
+21/06/17 18:28:49:658 CloseModuleInterface: Instance 04ED8258
+21/06/17 18:28:49:658 CloseModuleInterface LockOrder()==TRUE
+21/06/17 18:28:49:658 CloseModuleInterface End
+21/06/17 18:28:49:814 ~CModuleInfo:
+21/06/17 18:28:49:814 CloseModuleInterface: Instance 00000000
+21/06/17 18:28:49:814 CloseModuleInterface LockOrder()==TRUE
+21/06/17 18:28:49:814 CloseModuleInterface End
+21/06/17 18:28:49:814 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Wed Jun 21 18:’4:O2 2017
+
+###  Start HyStar GetLIP: Wed Jun 21 18:40:39 2017
+21/06/17 18:40:39:312 InitGetLIP
+21/06/17 18:40:39:312 Constructor CModuleInfo: StartTime -2077378388
+21/06/17 18:40:39:312 Win Version 6 Build 7601
+21/06/17 18:48:04: 55 CloseModuleInterface: Instance 047FCA50
+21/06/17 18:48:04: 55 CloseModuleInterface LockOrder()==TRUE
+21/06/17 18:48:04: 55 CloseModuleInterface End
+21/06/17 18:48:04:211 ~CModuleInfo:
+21/06/17 18:48:04:211 CloseModuleInterface: Instance 00000000
+21/06/17 18:48:04:211 CloseModuleInterface LockOrder()==TRUE
+21/06/17 18:48:04:211 CloseModuleInterface End
+21/06/17 18:48:04:211 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Wed Jun 21 18:’4:Ç2 2017
+
+###  Start HyStar GetLIP: Thu Jun 22 10:37:16 2017
+22/06/17 10:37:16:312 InitGetLIP
+22/06/17 10:37:16:312 Constructor CModuleInfo: StartTime -2019981705
+22/06/17 10:37:16:312 Win Version 6 Build 7601
+22/06/17 10:52:03: 22 ~CModuleInfo:
+22/06/17 10:52:03: 22 CloseModuleInterface: Instance 00000000
+22/06/17 10:52:03: 22 CloseModuleInterface LockOrder()==TRUE
+22/06/17 10:52:03: 22 CloseModuleInterface End
+22/06/17 10:52:03: 22 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Thu Jun 22 10:ð8:–4 2017
+
+###  Start HyStar GetLIP: Thu Jun 22 11:13:58 2017
+22/06/17 11:13:59:312 InitGetLIP
+22/06/17 11:13:59:312 Constructor CModuleInfo: StartTime -2017779002
+22/06/17 11:13:59:312 Win Version 6 Build 7601
+22/06/17 11:16:09: 41 CloseModuleInterface: Instance 047CBED8
+22/06/17 11:16:09: 41 CloseModuleInterface LockOrder()==TRUE
+22/06/17 11:16:09: 41 CloseModuleInterface End
+22/06/17 11:16:09:213 ~CModuleInfo:
+22/06/17 11:16:09:213 CloseModuleInterface: Instance 00000000
+22/06/17 11:16:09:213 CloseModuleInterface LockOrder()==TRUE
+22/06/17 11:16:09:213 CloseModuleInterface End
+22/06/17 11:16:09:213 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Thu Jun 22 11:’4:§2 2017
+
+###  Start HyStar GetLIP: Thu Jun 22 11:16:11 2017
+22/06/17 11:16:11:312 InitGetLIP
+22/06/17 11:16:11:312 Constructor CModuleInfo: StartTime -2017646619
+22/06/17 11:16:11:312 Win Version 6 Build 7601
+22/06/17 12:00:24:873 CloseModuleInterface: Instance 04B97CE0
+22/06/17 12:00:24:873 CloseModuleInterface LockOrder()==TRUE
+22/06/17 12:00:24:873 CloseModuleInterface End
+22/06/17 12:00:25: 45 ~CModuleInfo:
+22/06/17 12:00:25: 45 CloseModuleInterface: Instance 00000000
+22/06/17 12:00:25: 45 CloseModuleInterface LockOrder()==TRUE
+22/06/17 12:00:25: 45 CloseModuleInterface End
+22/06/17 12:00:25: 45 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Thu Jun 22 12:È8:ä0 2017
+
+###  Start HyStar GetLIP: Thu Jun 22 12:00:28 2017
+22/06/17 12:00:29:312 InitGetLIP
+22/06/17 12:00:29:312 Constructor CModuleInfo: StartTime -2014988737
+22/06/17 12:00:29:312 Win Version 6 Build 7601
+23/06/17 16:39:49:997 CloseModuleInterface: Instance 0473F0B0
+23/06/17 16:39:49:997 CloseModuleInterface LockOrder()==TRUE
+23/06/17 16:39:49:997 CloseModuleInterface End
+23/06/17 16:39:50:153 ~CModuleInfo:
+23/06/17 16:39:50:153 CloseModuleInterface: Instance 00000000
+23/06/17 16:39:50:153 CloseModuleInterface LockOrder()==TRUE
+23/06/17 16:39:50:153 CloseModuleInterface End
+23/06/17 16:39:50:153 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Fri Jun 23 16::4:-6 2017
+
+###  Start HyStar GetLIP: Mon Jun 26 14:16:34 2017
+26/06/17 14:16:35:312 InitGetLIP
+26/06/17 14:16:35:312 Constructor CModuleInfo: StartTime -1661222976
+26/06/17 14:16:35:312 Win Version 6 Build 7601
+26/06/17 15:00:28:999 ~CModuleInfo:
+26/06/17 15:00:28:999 CloseModuleInterface: Instance 00000000
+26/06/17 15:00:28:999 CloseModuleInterface LockOrder()==TRUE
+26/06/17 15:00:28:999 CloseModuleInterface End
+26/06/17 15:00:28:999 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Mon Jun 26 15:w2:’4 2017
+
+###  Start HyStar GetLIP: Mon Jun 26 15:05:13 2017
+26/06/17 15:05:13:328 InitGetLIP
+26/06/17 15:05:13:328 Constructor CModuleInfo: StartTime -1658304197
+26/06/17 15:05:13:328 Win Version 6 Build 7601
+26/06/17 15:10:43:973 ~CModuleInfo:
+26/06/17 15:10:43:973 CloseModuleInterface: Instance 00000000
+26/06/17 15:10:43:973 CloseModuleInterface LockOrder()==TRUE
+26/06/17 15:10:43:973 CloseModuleInterface End
+26/06/17 15:10:43:973 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Mon Jun 26 15:2:á6 2017
+
+###  Start HyStar GetLIP: Mon Jun 26 15:17:30 2017
+26/06/17 15:17:30:312 InitGetLIP
+26/06/17 15:17:30:312 Constructor CModuleInfo: StartTime 80714
+26/06/17 15:17:30:312 Win Version 6 Build 7601
+06/07/17 14:15:04:519 CloseModuleInterface: Instance 04C9A2E8
+06/07/17 14:15:04:519 CloseModuleInterface LockOrder()==TRUE
+06/07/17 14:15:04:519 CloseModuleInterface End
+06/07/17 14:15:05:691 ~CModuleInfo:
+06/07/17 14:15:05:691 CloseModuleInterface: Instance 00000000
+06/07/17 14:15:05:691 CloseModuleInterface LockOrder()==TRUE
+06/07/17 14:15:05:691 CloseModuleInterface End
+06/07/17 14:15:05:691 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Thu Jul 06 14:G2:0 2017
+
+###  Start HyStar GetLIP: Thu Jul 06 14:17:16 2017
+06/07/17 14:17:17:312 InitGetLIP
+06/07/17 14:17:17:312 Constructor CModuleInfo: StartTime 28220
+06/07/17 14:17:17:312 Win Version 6 Build 7601
+
+###  Start HyStar GetLIP: Thu Jul 06 14:21:15 2017
+06/07/17 14:21:15:312 InitGetLIP
+06/07/17 14:21:15:312 Constructor CModuleInfo: StartTime 266933
+06/07/17 14:21:15:312 Win Version 6 Build 7601
+06/07/17 14:37:13:425 CloseModuleInterface: Instance 04A27F48
+06/07/17 14:37:13:425 CloseModuleInterface LockOrder()==TRUE
+06/07/17 14:37:13:425 CloseModuleInterface End
+07/07/17 10:11:45:379 CloseModuleInterface: Instance 04A247E0
+07/07/17 10:11:45:379 CloseModuleInterface LockOrder()==TRUE
+07/07/17 10:11:45:379 CloseModuleInterface End
+07/07/17 10:11:45:566 ~CModuleInfo:
+07/07/17 10:11:45:566 CloseModuleInterface: Instance 00000000
+07/07/17 10:11:45:566 CloseModuleInterface LockOrder()==TRUE
+07/07/17 10:11:45:566 CloseModuleInterface End
+07/07/17 10:11:45:566 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Fri Jul 07 10:d0:6 2017
+
+###  Start HyStar GetLIP: Fri Jul 07 10:12:36 2017
+07/07/17 10:12:36:312 InitGetLIP
+07/07/17 10:12:36:312 Constructor CModuleInfo: StartTime 71747808
+07/07/17 10:12:36:312 Win Version 6 Build 7601
+07/07/17 14:05:53:377 CloseModuleInterface: Instance 048FB2E8
+07/07/17 14:05:53:377 CloseModuleInterface LockOrder()==TRUE
+07/07/17 14:05:53:377 CloseModuleInterface End
+07/07/17 14:05:54:548 ~CModuleInfo:
+07/07/17 14:05:54:548 CloseModuleInterface: Instance 00000000
+07/07/17 14:05:54:548 CloseModuleInterface LockOrder()==TRUE
+07/07/17 14:05:54:548 CloseModuleInterface End
+07/07/17 14:05:54:548 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Fri Jul 07 14:Ô0:c2 2017
+
+###  Start HyStar GetLIP: Fri Jul 07 14:22:05 2017
+07/07/17 14:22:05:312 InitGetLIP
+07/07/17 14:22:05:312 Constructor CModuleInfo: StartTime 86716384
+07/07/17 14:22:05:312 Win Version 6 Build 7601
+09/07/17 15:15:28:792 CloseModuleInterface: Instance 04A8F878
+09/07/17 15:15:28:792 CloseModuleInterface LockOrder()==TRUE
+09/07/17 15:15:28:792 CloseModuleInterface End
+09/07/17 15:15:29:979 ~CModuleInfo:
+09/07/17 15:15:29:979 CloseModuleInterface: Instance 00000000
+09/07/17 15:15:29:979 CloseModuleInterface LockOrder()==TRUE
+09/07/17 15:15:29:979 CloseModuleInterface End
+09/07/17 15:15:29:979 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Sun Jul 09 15:Å6:Ø8 2017
+
+###  Start HyStar GetLIP: Sun Jul 09 15:15:31 2017
+09/07/17 15:15:31:312 InitGetLIP
+09/07/17 15:15:31:312 Constructor CModuleInfo: StartTime 262722906
+09/07/17 15:15:31:312 Win Version 6 Build 7601
+09/07/17 15:18:39:638 CloseModuleInterface: Instance 04982758
+09/07/17 15:18:39:638 CloseModuleInterface LockOrder()==TRUE
+09/07/17 15:18:39:638 CloseModuleInterface End
+09/07/17 15:18:39:794 ~CModuleInfo:
+09/07/17 15:18:39:794 CloseModuleInterface: Instance 00000000
+09/07/17 15:18:39:794 CloseModuleInterface LockOrder()==TRUE
+09/07/17 15:18:39:794 CloseModuleInterface End
+09/07/17 15:18:39:794 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Sun Jul 09 15:¦4:ž4 2017
+
+###  Start HyStar GetLIP: Sun Jul 09 15:18:45 2017
+09/07/17 15:18:45:312 InitGetLIP
+09/07/17 15:18:45:312 Constructor CModuleInfo: StartTime 262916363
+09/07/17 15:18:45:312 Win Version 6 Build 7601
+09/07/17 15:42:54:686 CloseModuleInterface: Instance 0499F378
+09/07/17 15:42:54:686 CloseModuleInterface LockOrder()==TRUE
+09/07/17 15:42:54:686 CloseModuleInterface End
+09/07/17 15:42:54:857 ~CModuleInfo:
+09/07/17 15:42:54:857 CloseModuleInterface: Instance 00000000
+09/07/17 15:42:54:857 CloseModuleInterface LockOrder()==TRUE
+09/07/17 15:42:54:857 CloseModuleInterface End
+09/07/17 15:42:54:857 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Sun Jul 09 15:=6:Õ6 2017
+
+###  Start HyStar GetLIP: Mon Jul 10 14:32:11 2017
+10/07/17 14:32:12:312 InitGetLIP
+10/07/17 14:32:12:312 Constructor CModuleInfo: StartTime 346523039
+10/07/17 14:32:12:312 Win Version 6 Build 7601
+10/07/17 14:47:20:158 ~CModuleInfo:
+10/07/17 14:47:20:158 CloseModuleInterface: Instance 00000000
+10/07/17 14:47:20:158 CloseModuleInterface LockOrder()==TRUE
+10/07/17 14:47:20:158 CloseModuleInterface End
+10/07/17 14:47:20:158 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Mon Jul 10 14:p8:/2 2017
+
+###  Start HyStar GetLIP: Mon Jul 10 14:48:47 2017
+10/07/17 14:48:47:312 InitGetLIP
+10/07/17 14:48:47:312 Constructor CModuleInfo: StartTime 347518669
+10/07/17 14:48:47:312 Win Version 6 Build 7601
+10/07/17 14:50:56:763 ~CModuleInfo:
+10/07/17 14:50:56:763 CloseModuleInterface: Instance 00000000
+10/07/17 14:50:56:763 CloseModuleInterface LockOrder()==TRUE
+10/07/17 14:50:56:763 CloseModuleInterface End
+10/07/17 14:50:56:763 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Mon Jul 10 14: 8:’4 2017
+
+###  Start HyStar GetLIP: Mon Jul 10 14:51:00 2017
+10/07/17 14:51:00:312 InitGetLIP
+10/07/17 14:51:00:312 Constructor CModuleInfo: StartTime 347651582
+10/07/17 14:51:00:312 Win Version 6 Build 7601
+10/07/17 15:27:08:899 CloseModuleInterface: Instance 04A2DE98
+10/07/17 15:27:08:899 CloseModuleInterface LockOrder()==TRUE
+10/07/17 15:27:08:899 CloseModuleInterface End
+10/07/17 15:27:08: 70 ~CModuleInfo:
+10/07/17 15:27:08: 70 CloseModuleInterface: Instance 00000000
+10/07/17 15:27:08: 70 CloseModuleInterface LockOrder()==TRUE
+10/07/17 15:27:08: 70 CloseModuleInterface End
+10/07/17 15:27:08: 70 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Mon Jul 10 15:¤0:Í6 2017
+
+###  Start HyStar GetLIP: Mon Jul 10 15:27:24 2017
+10/07/17 15:27:24:312 InitGetLIP
+10/07/17 15:27:24:312 Constructor CModuleInfo: StartTime 349835767
+10/07/17 15:27:24:312 Win Version 6 Build 7601
+12/07/17 09:58:59:982 CloseModuleInterface: Instance 0484EEC8
+12/07/17 09:58:59:982 CloseModuleInterface LockOrder()==TRUE
+12/07/17 09:58:59:982 CloseModuleInterface End
+12/07/17 09:58:59:138 ~CModuleInfo:
+12/07/17 09:58:59:138 CloseModuleInterface: Instance 00000000
+12/07/17 09:58:59:138 CloseModuleInterface LockOrder()==TRUE
+12/07/17 09:58:59:138 CloseModuleInterface End
+12/07/17 09:58:59:138 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Wed Jul 12 09:
+4:T8 2017
+
+###  Start HyStar GetLIP: Fri Jul 14 10:09:11 2017
+14/07/17 10:09:11:312 InitGetLIP
+14/07/17 10:09:11:312 Constructor CModuleInfo: StartTime 676342818
+14/07/17 10:09:11:312 Win Version 6 Build 7601
+16/07/17 15:59:13:727 CloseModuleInterface: Instance 0484B3E0
+16/07/17 15:59:13:742 CloseModuleInterface LockOrder()==TRUE
+16/07/17 15:59:13:742 CloseModuleInterface End
+16/07/17 15:59:13:898 ~CModuleInfo:
+16/07/17 15:59:13:898 CloseModuleInterface: Instance 00000000
+16/07/17 15:59:13:898 CloseModuleInterface LockOrder()==TRUE
+16/07/17 15:59:13:898 CloseModuleInterface End
+16/07/17 15:59:13:898 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Sun Jul 16 15:Á6:k2 2017
+
+###  Start HyStar GetLIP: Sun Jul 16 16:00:58 2017
+16/07/17 16:00:58:249 InitGetLIP
+16/07/17 16:00:58:249 Constructor CModuleInfo: StartTime 13821
+16/07/17 16:00:58:249 Win Version 6 Build 7601
+29/08/17 09:08:20:315 CloseModuleInterface: Instance 050DCB48
+29/08/17 09:08:20:331 CloseModuleInterface LockOrder()==TRUE
+29/08/17 09:08:20:331 CloseModuleInterface End
+29/08/17 09:08:21:487 ~CModuleInfo:
+29/08/17 09:08:21:487 CloseModuleInterface: Instance 00000000
+29/08/17 09:08:21:487 CloseModuleInterface LockOrder()==TRUE
+29/08/17 09:08:21:487 CloseModuleInterface End
+29/08/17 09:08:21:487 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Tue Aug 29 09:ÿ2:6 2017
+
+###  Start HyStar GetLIP: Wed Sep 13 10:25:11 2017
+13/09/17 10:25:11:312 InitGetLIP
+13/09/17 10:25:11:312 Constructor CModuleInfo: StartTime 1204139659
+13/09/17 10:25:11:312 Win Version 6 Build 7601
+13/09/17 11:31:26:656 CloseModuleInterface: Instance 0431DEF0
+13/09/17 11:31:26:656 CloseModuleInterface LockOrder()==TRUE
+13/09/17 11:31:26:656 CloseModuleInterface End
+13/09/17 11:31:26:827 ~CModuleInfo:
+13/09/17 11:31:26:827 CloseModuleInterface: Instance 00000000
+13/09/17 11:31:26:827 CloseModuleInterface LockOrder()==TRUE
+13/09/17 11:31:26:827 CloseModuleInterface End
+13/09/17 11:31:26:827 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Wed Sep 13 11:,0:n4 2017
+
+###  Start HyStar GetLIP: Thu Sep 14 10:45:46 2017
+14/09/17 10:45:46:328 InitGetLIP
+14/09/17 10:45:46:328 Constructor CModuleInfo: StartTime 1291774562
+14/09/17 10:45:46:328 Win Version 6 Build 7601
+14/09/17 10:49:44:886 ~CModuleInfo:
+14/09/17 10:49:44:886 CloseModuleInterface: Instance 00000000
+14/09/17 10:49:44:886 CloseModuleInterface LockOrder()==TRUE
+14/09/17 10:49:44:886 CloseModuleInterface End
+14/09/17 10:49:44:886 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Thu Sep 14 10:G2:6 2017
+
+###  Start HyStar GetLIP: Fri Oct 13 09:41:45 2017
+13/10/17 09:41:46:328 InitGetLIP
+13/10/17 09:41:46:328 Constructor CModuleInfo: StartTime -501433170
+13/10/17 09:41:46:328 Win Version 6 Build 7601
+13/10/17 10:35:02:116 CloseModuleInterface: Instance 044E9C80
+13/10/17 10:35:02:116 CloseModuleInterface LockOrder()==TRUE
+13/10/17 10:35:02:116 CloseModuleInterface End
+13/10/17 10:35:03:272 ~CModuleInfo:
+13/10/17 10:35:03:272 CloseModuleInterface: Instance 00000000
+13/10/17 10:35:03:272 CloseModuleInterface LockOrder()==TRUE
+13/10/17 10:35:03:272 CloseModuleInterface End
+13/10/17 10:35:03:272 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Fri Oct 13 10:z4:ó2 2017
+
+###  Start HyStar GetLIP: Fri Oct 13 10:35:37 2017
+13/10/17 10:35:38:312 InitGetLIP
+13/10/17 10:35:38:312 Constructor CModuleInfo: StartTime -498201017
+13/10/17 10:35:38:312 Win Version 6 Build 7601
+13/10/17 10:37:46:467 CloseModuleInterface: Instance 045FEA68
+13/10/17 10:37:46:467 CloseModuleInterface LockOrder()==TRUE
+13/10/17 10:37:46:467 CloseModuleInterface End
+13/10/17 10:37:46:639 ~CModuleInfo:
+13/10/17 10:37:46:639 CloseModuleInterface: Instance 00000000
+13/10/17 10:37:46:639 CloseModuleInterface LockOrder()==TRUE
+13/10/17 10:37:46:639 CloseModuleInterface End
+13/10/17 10:37:46:639 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Fri Oct 13 10:¥6:Ö4 2017
+
+###  Start HyStar GetLIP: Fri Oct 13 10:37:54 2017
+13/10/17 10:37:55:312 InitGetLIP
+13/10/17 10:37:55:312 Constructor CModuleInfo: StartTime -498064219
+13/10/17 10:37:55:312 Win Version 6 Build 7601
+13/10/17 10:42:08:283 CloseModuleInterface: Instance 046B0EF0
+13/10/17 10:42:08:283 CloseModuleInterface LockOrder()==TRUE
+13/10/17 10:42:08:283 CloseModuleInterface End
+13/10/17 10:42:08:439 ~CModuleInfo:
+13/10/17 10:42:08:439 CloseModuleInterface: Instance 00000000
+13/10/17 10:42:08:439 CloseModuleInterface LockOrder()==TRUE
+13/10/17 10:42:08:439 CloseModuleInterface End
+13/10/17 10:42:08:439 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Fri Oct 13 10:2:î4 2017
+
+###  Start HyStar GetLIP: Fri Oct 13 10:42:19 2017
+13/10/17 10:42:19:312 InitGetLIP
+13/10/17 10:42:19:312 Constructor CModuleInfo: StartTime -497799345
+13/10/17 10:42:19:312 Win Version 6 Build 7601
+13/10/17 11:16:10:211 CloseModuleInterface: Instance 042A4DF0
+13/10/17 11:16:10:226 CloseModuleInterface LockOrder()==TRUE
+13/10/17 11:16:10:226 CloseModuleInterface End
+13/10/17 11:16:11:382 ~CModuleInfo:
+13/10/17 11:16:11:382 CloseModuleInterface: Instance 00000000
+13/10/17 11:16:11:382 CloseModuleInterface LockOrder()==TRUE
+13/10/17 11:16:11:382 CloseModuleInterface End
+13/10/17 11:16:11:382 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Fri Oct 13 11:,0:08 2017
+
+###  Start HyStar GetLIP: Thu Oct 19 13:48:49 2017
+19/10/17 13:48:49:312 InitGetLIP
+19/10/17 13:48:49:312 Constructor CModuleInfo: StartTime 31729528
+19/10/17 13:48:49:312 Win Version 6 Build 7601
+19/10/17 13:50:49:620 ~CModuleInfo:
+19/10/17 13:50:49:620 CloseModuleInterface: Instance 00000000
+19/10/17 13:50:49:620 CloseModuleInterface LockOrder()==TRUE
+19/10/17 13:50:49:620 CloseModuleInterface End
+19/10/17 13:50:49:620 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Thu Oct 19 13:‡2:_2 2017
+
+###  Start HyStar GetLIP: Thu Oct 19 13:51:00 2017
+19/10/17 13:51:00:312 InitGetLIP
+19/10/17 13:51:00:312 Constructor CModuleInfo: StartTime 31860834
+19/10/17 13:51:00:312 Win Version 6 Build 7601
+20/10/17 15:53:34: 11 CloseModuleInterface: Instance 04534DD0
+20/10/17 15:53:34: 11 CloseModuleInterface LockOrder()==TRUE
+20/10/17 15:53:34: 11 CloseModuleInterface End
+20/10/17 15:53:34:199 ~CModuleInfo:
+20/10/17 15:53:34:199 CloseModuleInterface: Instance 00000000
+20/10/17 15:53:34:199 CloseModuleInterface LockOrder()==TRUE
+20/10/17 15:53:34:199 CloseModuleInterface End
+20/10/17 15:53:34:199 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Fri Oct 20 15:8:Å6 2017
+
+###  Start HyStar GetLIP: Wed Nov 01 10:01:02 2017
+01/11/17 10:01:03:312 InitGetLIP
+01/11/17 10:01:03:312 Constructor CModuleInfo: StartTime 1141263099
+01/11/17 10:01:03:312 Win Version 6 Build 7601
+01/11/17 10:01:58:630 ~CModuleInfo:
+01/11/17 10:01:58:630 CloseModuleInterface: Instance 00000000
+01/11/17 10:01:58:630 CloseModuleInterface LockOrder()==TRUE
+01/11/17 10:01:58:630 CloseModuleInterface End
+01/11/17 10:01:58:630 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Wed Nov 01 10:¼0:Æ4 2017
+
+###  Start HyStar GetLIP: Wed Nov 01 10:02:31 2017
+01/11/17 10:02:32:328 InitGetLIP
+01/11/17 10:02:32:328 Constructor CModuleInfo: StartTime 1141352316
+01/11/17 10:02:32:328 Win Version 6 Build 7601
+01/11/17 10:06:20:994 ~CModuleInfo:
+01/11/17 10:06:20:994 CloseModuleInterface: Instance 00000000
+01/11/17 10:06:20:994 CloseModuleInterface LockOrder()==TRUE
+01/11/17 10:06:20:994 CloseModuleInterface End
+01/11/17 10:06:20:994 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Wed Nov 01 10:d8:À8 2017
+
+###  Start HyStar GetLIP: Thu Nov 16 13:40:10 2017
+16/11/17 13:40:11:312 InitGetLIP
+16/11/17 13:40:11:312 Constructor CModuleInfo: StartTime 1137486984
+16/11/17 13:40:11:312 Win Version 6 Build 7601
+16/11/17 14:43:01: 59 ~CModuleInfo:
+16/11/17 14:43:01: 59 CloseModuleInterface: Instance 00000000
+16/11/17 14:43:01: 59 CloseModuleInterface LockOrder()==TRUE
+16/11/17 14:43:01: 59 CloseModuleInterface End
+16/11/17 14:43:01: 59 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Thu Nov 16 14:—2:’4 2017
+
+###  Start HyStar GetLIP: Mon Nov 20 13:34:39 2017
+20/11/17 13:34:39:312 InitGetLIP
+20/11/17 13:34:39:312 Constructor CModuleInfo: StartTime 1482755900
+20/11/17 13:34:39:312 Win Version 6 Build 7601
+20/11/17 13:41:20:125 ~CModuleInfo:
+20/11/17 13:41:20:125 CloseModuleInterface: Instance 00000000
+20/11/17 13:41:20:125 CloseModuleInterface LockOrder()==TRUE
+20/11/17 13:41:20:125 CloseModuleInterface End
+20/11/17 13:41:20:125 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Mon Nov 20 13:4:’4 2017
+
+###  Start HyStar GetLIP: Tue Nov 21 10:02:16 2017
+21/11/17 10:02:16:312 InitGetLIP
+21/11/17 10:02:16:312 Constructor CModuleInfo: StartTime 1556412958
+21/11/17 10:02:16:312 Win Version 6 Build 7601
+21/11/17 10:24:43:834 ~CModuleInfo:
+21/11/17 10:24:43:834 CloseModuleInterface: Instance 00000000
+21/11/17 10:24:43:834 CloseModuleInterface LockOrder()==TRUE
+21/11/17 10:24:43:834 CloseModuleInterface End
+21/11/17 10:24:43:834 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Tue Nov 21 10:p0:ø8 2017
+
+###  Start HyStar GetLIP: Tue Nov 21 10:29:16 2017
+21/11/17 10:29:16:312 InitGetLIP
+21/11/17 10:29:16:312 Constructor CModuleInfo: StartTime 1558032607
+21/11/17 10:29:16:312 Win Version 6 Build 7601
+
+###  Start HyStar GetLIP: Tue Nov 21 10:33:30 2017
+21/11/17 10:33:30:328 InitGetLIP
+21/11/17 10:33:30:328 Constructor CModuleInfo: StartTime 38485
+21/11/17 10:33:30:328 Win Version 6 Build 7601
+
+###  Start HyStar GetLIP: Tue Nov 21 10:41:46 2017
+21/11/17 10:41:46:312 InitGetLIP
+21/11/17 10:41:46:312 Constructor CModuleInfo: StartTime 534303
+21/11/17 10:41:46:312 Win Version 6 Build 7601
+21/11/17 11:06:32: 65 CloseModuleInterface: Instance 04621718
+21/11/17 11:06:32: 81 CloseModuleInterface LockOrder()==TRUE
+21/11/17 11:06:32: 81 CloseModuleInterface End
+21/11/17 11:06:32:237 ~CModuleInfo:
+21/11/17 11:06:32:237 CloseModuleInterface: Instance 00000000
+21/11/17 11:06:32:237 CloseModuleInterface LockOrder()==TRUE
+21/11/17 11:06:32:237 CloseModuleInterface End
+21/11/17 11:06:32:237 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Tue Nov 21 11:}6: 0 2017
+
+###  Start HyStar GetLIP: Tue Nov 21 11:09:21 2017
+21/11/17 11:09:21:327 InitGetLIP
+21/11/17 11:09:21:327 Constructor CModuleInfo: StartTime 2189442
+21/11/17 11:09:21:327 Win Version 6 Build 7601
+21/11/17 13:04:20:799 CloseModuleInterface: Instance 04800260
+21/11/17 13:04:20:799 CloseModuleInterface LockOrder()==TRUE
+21/11/17 13:04:20:799 CloseModuleInterface End
+21/11/17 13:04:21:971 ~CModuleInfo:
+21/11/17 13:04:21:971 CloseModuleInterface: Instance 00000000
+21/11/17 13:04:21:971 CloseModuleInterface LockOrder()==TRUE
+21/11/17 13:04:21:971 CloseModuleInterface End
+21/11/17 13:04:21:971 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Tue Nov 21 13:_2:v4 2017
+
+###  Start HyStar GetLIP: Tue Nov 21 13:04:46 2017
+21/11/17 13:04:46:312 InitGetLIP
+21/11/17 13:04:46:312 Constructor CModuleInfo: StartTime 9114654
+21/11/17 13:04:46:312 Win Version 6 Build 7601
+21/11/17 13:10:51:495 ~CModuleInfo:
+21/11/17 13:10:51:495 CloseModuleInterface: Instance 00000000
+21/11/17 13:10:51:495 CloseModuleInterface LockOrder()==TRUE
+21/11/17 13:10:51:495 CloseModuleInterface End
+21/11/17 13:10:51:495 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Tue Nov 21 13:\0:¹6 2017
+
+###  Start HyStar GetLIP: Tue Nov 21 13:12:14 2017
+21/11/17 13:12:15:312 InitGetLIP
+21/11/17 13:12:15:312 Constructor CModuleInfo: StartTime 9563048
+21/11/17 13:12:15:312 Win Version 6 Build 7601
+22/11/17 17:29:22:344 CloseModuleInterface: Instance 04600E40
+22/11/17 17:29:22:344 CloseModuleInterface LockOrder()==TRUE
+22/11/17 17:29:22:344 CloseModuleInterface End
+22/11/17 17:29:22:515 ~CModuleInfo:
+22/11/17 17:29:22:515 CloseModuleInterface: Instance 00000000
+22/11/17 17:29:22:515 CloseModuleInterface LockOrder()==TRUE
+22/11/17 17:29:22:515 CloseModuleInterface End
+22/11/17 17:29:22:531 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Wed Nov 22 17:Å6:ú4 2017
+
+###  Start HyStar GetLIP: Wed Nov 22 17:29:23 2017
+22/11/17 17:29:23:312 InitGetLIP
+22/11/17 17:29:23:312 Constructor CModuleInfo: StartTime 111391733
+22/11/17 17:29:23:312 Win Version 6 Build 7601
+22/11/17 18:00:58:303 CloseModuleInterface: Instance 04A74810
+22/11/17 18:00:58:303 CloseModuleInterface LockOrder()==TRUE
+22/11/17 18:00:58:303 CloseModuleInterface End
+22/11/17 18:00:58:475 ~CModuleInfo:
+22/11/17 18:00:58:475 CloseModuleInterface: Instance 00000000
+22/11/17 18:00:58:475 CloseModuleInterface LockOrder()==TRUE
+22/11/17 18:00:58:475 CloseModuleInterface End
+22/11/17 18:00:58:475 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Wed Nov 22 18:,0:w2 2017
+
+###  Start HyStar GetLIP: Tue Nov 28 11:53:42 2017
+28/11/17 11:53:42:312 InitGetLIP
+28/11/17 11:53:42:312 Constructor CModuleInfo: StartTime 609650737
+28/11/17 11:53:42:312 Win Version 6 Build 7601
+28/11/17 14:33:46:357 CloseModuleInterface: Instance 04848CB0
+28/11/17 14:33:46:357 CloseModuleInterface LockOrder()==TRUE
+28/11/17 14:33:46:373 CloseModuleInterface End
+28/11/17 14:33:46:529 ~CModuleInfo:
+28/11/17 14:33:46:529 CloseModuleInterface: Instance 00000000
+28/11/17 14:33:46:529 CloseModuleInterface LockOrder()==TRUE
+28/11/17 14:33:46:529 CloseModuleInterface End
+28/11/17 14:33:46:529 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Tue Nov 28 14:.4:_2 2017
+
+###  Start HyStar GetLIP: Tue Nov 28 14:33:55 2017
+28/11/17 14:33:55:312 InitGetLIP
+28/11/17 14:33:55:312 Constructor CModuleInfo: StartTime 619263908
+28/11/17 14:33:55:312 Win Version 6 Build 7601
+29/11/17 09:51:17:849 CloseModuleInterface: Instance 04A05318
+29/11/17 09:51:17:849 CloseModuleInterface LockOrder()==TRUE
+29/11/17 09:51:17:849 CloseModuleInterface End
+29/11/17 09:51:17:  5 ~CModuleInfo:
+29/11/17 09:51:17:  5 CloseModuleInterface: Instance 00000000
+29/11/17 09:51:17:  5 CloseModuleInterface LockOrder()==TRUE
+29/11/17 09:51:17: 20 CloseModuleInterface End
+29/11/17 09:51:17: 20 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Wed Nov 29 09:¤8:0 2017
+
+###  Start HyStar GetLIP: Wed Nov 29 09:52:03 2017
+29/11/17 09:52:03:312 InitGetLIP
+29/11/17 09:52:03:312 Constructor CModuleInfo: StartTime 688751777
+29/11/17 09:52:03:312 Win Version 6 Build 7601
+29/11/17 09:52:34:122 ~CModuleInfo:
+29/11/17 09:52:34:122 CloseModuleInterface: Instance 00000000
+29/11/17 09:52:34:122 CloseModuleInterface LockOrder()==TRUE
+29/11/17 09:52:34:122 CloseModuleInterface End
+29/11/17 09:52:34:122 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Wed Nov 29 09:¬8:l0 2017
+
+###  Start HyStar GetLIP: Wed Nov 29 09:52:37 2017
+29/11/17 09:52:38:312 InitGetLIP
+29/11/17 09:52:38:312 Constructor CModuleInfo: StartTime 688786206
+29/11/17 09:52:38:312 Win Version 6 Build 7601
+29/11/17 10:11:45:310 ~CModuleInfo:
+29/11/17 10:11:45:310 CloseModuleInterface: Instance 00000000
+29/11/17 10:11:45:310 CloseModuleInterface LockOrder()==TRUE
+29/11/17 10:11:45:310 CloseModuleInterface End
+29/11/17 10:11:45:310 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Wed Nov 29 10:y6:’4 2017
+
+###  Start HyStar GetLIP: Wed Nov 29 11:46:26 2017
+29/11/17 11:46:27:312 InitGetLIP
+29/11/17 11:46:27:312 Constructor CModuleInfo: StartTime 695615103
+29/11/17 11:46:27:312 Win Version 6 Build 7601
+29/11/17 11:48:07: 42 CloseModuleInterface: Instance 04989AA8
+29/11/17 11:48:07: 42 CloseModuleInterface LockOrder()==TRUE
+29/11/17 11:48:07: 42 CloseModuleInterface End
+29/11/17 11:49:25:497 CloseModuleInterface: Instance 04988B80
+29/11/17 11:49:25:512 CloseModuleInterface LockOrder()==TRUE
+29/11/17 11:49:25:512 CloseModuleInterface End
+29/11/17 15:54:53:988 CloseModuleInterface: Instance 04988B80
+29/11/17 15:54:53:988 CloseModuleInterface LockOrder()==TRUE
+29/11/17 15:54:53:988 CloseModuleInterface End
+29/11/17 15:54:53:144 ~CModuleInfo:
+29/11/17 15:54:53:144 CloseModuleInterface: Instance 00000000
+29/11/17 15:54:53:144 CloseModuleInterface LockOrder()==TRUE
+29/11/17 15:54:53:144 CloseModuleInterface End
+29/11/17 15:54:53:144 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Wed Nov 29 15:n4:2 2017
+
+###  Start HyStar GetLIP: Wed Dec 06 10:20:34 2017
+06/12/17 10:20:35:312 InitGetLIP
+06/12/17 10:20:35:312 Constructor CModuleInfo: StartTime 827023
+06/12/17 10:20:35:312 Win Version 6 Build 7601
+07/12/17 10:36:29:850 CloseModuleInterface: Instance 04894D20
+07/12/17 10:36:29:850 CloseModuleInterface LockOrder()==TRUE
+07/12/17 10:36:29:850 CloseModuleInterface End
+07/12/17 10:36:29:  6 ~CModuleInfo:
+07/12/17 10:36:29:  6 CloseModuleInterface: Instance 00000000
+07/12/17 10:36:29:  6 CloseModuleInterface LockOrder()==TRUE
+07/12/17 10:36:29:  6 CloseModuleInterface End
+07/12/17 10:36:29:  6 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Thu Dec 07 10:D0:08 2017
+
+###  Start HyStar GetLIP: Wed Dec 13 16:39:58 2017
+13/12/17 16:39:59:312 InitGetLIP
+13/12/17 16:39:59:312 Constructor CModuleInfo: StartTime 628391277
+13/12/17 16:39:59:312 Win Version 6 Build 7601
+14/12/17 11:23:15:909 CloseModuleInterface: Instance 04943F28
+14/12/17 11:23:15:909 CloseModuleInterface LockOrder()==TRUE
+14/12/17 11:23:15:909 CloseModuleInterface End
+14/12/17 11:23:16: 81 ~CModuleInfo:
+14/12/17 11:23:16: 81 CloseModuleInterface: Instance 00000000
+14/12/17 11:23:16: 81 CloseModuleInterface LockOrder()==TRUE
+14/12/17 11:23:16: 81 CloseModuleInterface End
+14/12/17 11:23:16: 81 DLL_PROCESS_DETACH -> Close GetLIP.DLL and Logfile
+
+###  Close HyStar GetLIP: Thu Dec 14 11:<8:Á6 2017
+
+###  Start HyStar GetLIP: Thu Dec 14 11:23:20 2017
+14/12/17 11:23:20:312 InitGetLIP
+14/12/17 11:23:20:312 Constructor CModuleInfo: StartTime 695792898
+14/12/17 11:23:20:312 Win Version 6 Build 7601
+
+###  Start HyStar GetLIP: Thu Dec 14 11:27:46 2017
+14/12/17 11:27:47:312 InitGetLIP
+14/12/17 11:27:47:312 Constructor CModuleInfo: StartTime 696059035
+14/12/17 11:27:47:312 Win Version 6 Build 7601
+
+###  Start HyStar GetLIP: Thu Dec 14 11:30:38 2017
+14/12/17 11:30:38:312 InitGetLIP
+14/12/17 11:30:38:312 Constructor CModuleInfo: StartTime 56971
+14/12/17 11:30:38:312 Win Version 6 Build 7601
+14/12/17 11:36:16:789 CloseModuleInterface: Instance 0474F1D0
+14/12/17 11:36:16:789 CloseModuleInterface LockOrder()==TRUE
+14/12/17 11:36:16:789 CloseModuleInterface End
+14/12/17 11:36:16:945 ~CModuleInfo:
+14/12/17 11:36:16:945 CloseModuleInterface: Instance 00000000
+14/12/17 11:36:16:945 CloseModuleInterface LockOrder()==TRUE
+14/12/17 11:36:16:945 CloseModuleInterface End

@@ -1,0 +1,1365 @@
+############# HyStar Error Logbook #############
+10/18/16 14:56:32 The software was started
+10/18/16 15:00:27 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #416 -> 'The Flow during the acquisition must not be zero.'
+############# HyStar Error Logbook #############
+10/18/16 17:35:54 The software was started
+############# HyStar Error Logbook #############
+10/24/16 16:01:45 The software was started
+############# HyStar Error Logbook #############
+11/02/16 11:36:57 The software was started
+############# HyStar Error Logbook #############
+11/02/16 11:37:57 The software was started
+11/02/16 13:33:39 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #421 -> 'Internal error! Failed to turn lamp on!'
+############# HyStar Error Logbook #############
+11/02/16 13:34:32 The software was started
+############# HyStar Error Logbook #############
+11/02/16 13:45:21 The software was started
+############# HyStar Error Logbook #############
+11/09/16 13:47:08 The software was started
+############# HyStar Error Logbook #############
+11/09/16 13:51:34 The software was started
+############# HyStar Error Logbook #############
+11/09/16 13:54:37 The software was started
+############# HyStar Error Logbook #############
+11/09/16 14:19:19 The software was started
+############# HyStar Error Logbook #############
+01/10/17 10:34:28 The software was started
+############# HyStar Error Logbook #############
+01/11/17 10:14:27 The software was started
+############# HyStar Error Logbook #############
+01/11/17 10:18:17 The software was started
+01/11/17 10:23:52 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+01/11/17 10:23:52 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+01/11/17 10:23:52 ERROR: Emergency shut-down by error from LC system !
+############# HyStar Error Logbook #############
+01/11/17 10:37:03 The software was started
+01/11/17 10:38:13 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #421 -> 'Internal error! Failed to turn lamp on!'
+############# HyStar Error Logbook #############
+01/11/17 10:43:08 The software was started
+01/11/17 10:45:47 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #423 -> 'Internal error! An error occured while trying to start the system.
+See the logfile for detailed information.'
+01/11/17 10:45:47 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #423 -> 'Internal error! An error occured while trying to start the system.
+See the logfile for detailed information.'
+01/11/17 10:45:47 ERROR: Emergency shut-down by error from LC system !
+01/11/17 10:47:10 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #423 -> 'Internal error! An error occured while trying to start the system.
+See the logfile for detailed information.'
+01/11/17 10:47:10 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #423 -> 'Internal error! An error occured while trying to start the system.
+See the logfile for detailed information.'
+01/11/17 10:47:10 ERROR: Emergency shut-down by error from LC system !
+01/11/17 10:52:54 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #423 -> 'Internal error! An error occured while trying to start the system.
+See the logfile for detailed information.'
+01/11/17 10:52:54 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #423 -> 'Internal error! An error occured while trying to start the system.
+See the logfile for detailed information.'
+01/11/17 10:52:54 ERROR: Emergency shut-down by error from LC system !
+01/11/17 10:56:10 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #421 -> 'Internal error! Failed to turn lamp on!'
+############# HyStar Error Logbook #############
+01/11/17 10:58:16 The software was started
+01/11/17 11:00:37 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #423 -> 'Internal error! An error occured while trying to start the system.
+See the logfile for detailed information.'
+01/11/17 11:00:37 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #423 -> 'Internal error! An error occured while trying to start the system.
+See the logfile for detailed information.'
+01/11/17 11:00:37 ERROR: Emergency shut-down by error from LC system !
+############# HyStar Error Logbook #############
+01/11/17 11:10:07 The software was started
+01/11/17 11:11:15 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #423 -> 'Internal error! An error occured while trying to start the system.
+See the logfile for detailed information.'
+01/11/17 11:11:15 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #423 -> 'Internal error! An error occured while trying to start the system.
+See the logfile for detailed information.'
+01/11/17 11:11:15 ERROR: Emergency shut-down by error from LC system !
+############# HyStar Error Logbook #############
+01/11/17 11:13:42 The software was started
+01/11/17 11:25:07 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #423 -> 'Internal error! An error occured while trying to start the system.
+See the logfile for detailed information.'
+01/11/17 11:25:07 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #423 -> 'Internal error! An error occured while trying to start the system.
+See the logfile for detailed information.'
+01/11/17 11:25:07 ERROR: Emergency shut-down by error from LC system !
+01/11/17 13:38:25 ERROR: Error (not critical) from 'Dionex System	SYSTEM1	SYS	PLUGIN'! Error #5400 -> 'Error! A non-critical (device) error occured while running the batch.
+See the logfile for detailed information.'
+01/11/17 13:38:25 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+01/11/17 13:38:25 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+01/11/17 13:38:25 ERROR: Emergency shut-down by error from LC system !
+############# HyStar Error Logbook #############
+01/23/17 16:13:35 The software was started
+############# HyStar Error Logbook #############
+01/24/17 11:11:09 The software was started
+01/24/17 11:57:18 ERROR: Error (not critical) from 'Dionex System	SYSTEM1	SYS	PLUGIN'! Error #5400 -> 'Error! A non-critical (device) error occured while running the batch.
+See the logfile for detailed information.'
+01/24/17 11:57:18 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+01/24/17 11:57:18 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+01/24/17 11:57:18 ERROR: Emergency shut-down by error from LC system !
+############# HyStar Error Logbook #############
+01/24/17 14:01:31 The software was started
+01/24/17 14:42:56 ERROR: Error (not critical) from 'Dionex System	SYSTEM1	SYS	PLUGIN'! Error #5400 -> 'Error! A non-critical (device) error occured while running the batch.
+See the logfile for detailed information.'
+01/24/17 14:42:56 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+01/24/17 14:42:56 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+01/24/17 14:42:56 ERROR: Emergency shut-down by error from LC system !
+############# HyStar Error Logbook #############
+01/26/17 14:19:58 The software was started
+############# HyStar Error Logbook #############
+02/12/17 20:06:20 The software was started
+############# HyStar Error Logbook #############
+02/13/17 14:00:46 The software was started
+02/13/17 14:54:52 ERROR: The instrument has reported an error which requires the Standby or Shutdown mode in CConnectToEsq::SwitchEsquireTo
+############# HyStar Error Logbook #############
+02/13/17 14:56:48 The software was started
+02/13/17 15:07:40 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #418 -> 'Internal error! The sample information could not be updated within the Chromeleon sequence.'
+############# HyStar Error Logbook #############
+02/15/17 13:07:26 The software was started
+############# HyStar Error Logbook #############
+02/15/17 15:00:21 The software was started
+02/15/17 15:19:14 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #423 -> 'Internal error! An error occured while trying to start the system.
+See the logfile for detailed information.'
+02/15/17 15:19:14 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #423 -> 'Internal error! An error occured while trying to start the system.
+See the logfile for detailed information.'
+02/15/17 15:19:14 ERROR: Emergency shut-down by error from LC system !
+02/15/17 15:19:53 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #423 -> 'Internal error! An error occured while trying to start the system.
+See the logfile for detailed information.'
+02/15/17 15:19:53 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #423 -> 'Internal error! An error occured while trying to start the system.
+See the logfile for detailed information.'
+02/15/17 15:19:53 ERROR: Emergency shut-down by error from LC system !
+############# HyStar Error Logbook #############
+02/15/17 15:20:55 The software was started
+02/15/17 15:23:50 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #421 -> 'Internal error! Failed to turn lamp on!'
+############# HyStar Error Logbook #############
+02/15/17 15:26:31 The software was started
+############# HyStar Error Logbook #############
+02/16/17 13:27:05 The software was started
+############# HyStar Error Logbook #############
+02/16/17 13:51:22 The software was started
+02/20/17 15:45:33 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+02/20/17 15:45:33 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+02/20/17 15:45:33 ERROR: Emergency shut-down by error from LC system !
+02/20/17 16:00:05 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+02/20/17 16:00:05 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+02/20/17 16:00:05 ERROR: Emergency shut-down by error from LC system !
+02/20/17 16:07:15 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+02/20/17 16:07:15 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+02/20/17 16:07:15 ERROR: Emergency shut-down by error from LC system !
+############# HyStar Error Logbook #############
+02/20/17 16:12:09 The software was started
+############# HyStar Error Logbook #############
+02/21/17 10:21:43 The software was started
+############# HyStar Error Logbook #############
+02/21/17 10:48:09 The software was started
+############# HyStar Error Logbook #############
+02/24/17 11:34:37 The software was started
+############# HyStar Error Logbook #############
+02/24/17 11:42:30 The software was started
+############# HyStar Error Logbook #############
+02/24/17 12:39:26 The software was started
+############# HyStar Error Logbook #############
+02/27/17 15:40:55 The software was started
+02/27/17 15:44:42 ERROR: CAcqdoc: Exception in OpenHyStarSampleTable(...) if call pSTB2->OpenSampleTable(...)Unspecified error
+02/27/17 15:45:23 ERROR: Plug-in devices - disconnecting failed (time out)!
+02/27/17 15:47:30 ERROR: CAcqdoc: Exception in OpenHyStarSampleTable(...) if call pSTB2->OpenSampleTable(...)Unspecified error
+02/27/17 15:48:10 ERROR: Plug-in devices - disconnecting failed (time out)!
+02/27/17 16:27:44 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::PassCommandToEsquire 
+02/27/17 16:27:44 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::LoadMethodToEsquire
+02/27/17 17:03:33 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::PassCommandToEsquire 
+02/27/17 17:03:33 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::LoadMethodToEsquire
+02/27/17 17:39:22 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::PassCommandToEsquire 
+02/27/17 17:39:22 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::LoadMethodToEsquire
+02/27/17 18:15:10 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::PassCommandToEsquire 
+02/27/17 18:15:10 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::LoadMethodToEsquire
+02/27/17 18:50:58 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::PassCommandToEsquire 
+02/27/17 18:50:58 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::LoadMethodToEsquire
+02/27/17 19:26:47 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::PassCommandToEsquire 
+02/27/17 19:26:47 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::LoadMethodToEsquire
+02/27/17 20:02:35 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::PassCommandToEsquire 
+02/27/17 20:02:35 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::LoadMethodToEsquire
+02/27/17 20:38:24 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::PassCommandToEsquire 
+02/27/17 20:38:24 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::LoadMethodToEsquire
+02/27/17 21:14:13 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::PassCommandToEsquire 
+02/27/17 21:14:13 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::LoadMethodToEsquire
+02/27/17 21:50:01 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::PassCommandToEsquire 
+02/27/17 21:50:01 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::LoadMethodToEsquire
+02/27/17 22:25:50 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::PassCommandToEsquire 
+02/27/17 22:25:50 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::LoadMethodToEsquire
+02/27/17 23:01:38 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::PassCommandToEsquire 
+02/27/17 23:01:38 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::LoadMethodToEsquire
+02/27/17 23:37:26 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::PassCommandToEsquire 
+02/27/17 23:37:26 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::LoadMethodToEsquire
+02/28/17 00:13:15 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::PassCommandToEsquire 
+02/28/17 00:13:15 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::LoadMethodToEsquire
+02/28/17 00:49:04 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::PassCommandToEsquire 
+02/28/17 00:49:04 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::LoadMethodToEsquire
+02/28/17 01:24:52 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::PassCommandToEsquire 
+02/28/17 01:24:52 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::LoadMethodToEsquire
+02/28/17 02:00:40 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::PassCommandToEsquire 
+02/28/17 02:00:40 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::LoadMethodToEsquire
+02/28/17 02:36:29 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::PassCommandToEsquire 
+02/28/17 02:36:29 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::LoadMethodToEsquire
+02/28/17 03:12:16 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::PassCommandToEsquire 
+02/28/17 03:12:16 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::LoadMethodToEsquire
+02/28/17 03:48:05 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::PassCommandToEsquire 
+02/28/17 03:48:05 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::LoadMethodToEsquire
+02/28/17 04:23:53 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::PassCommandToEsquire 
+02/28/17 04:23:53 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::LoadMethodToEsquire
+02/28/17 04:59:41 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::PassCommandToEsquire 
+02/28/17 04:59:41 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::LoadMethodToEsquire
+02/28/17 05:35:29 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::PassCommandToEsquire 
+02/28/17 05:35:29 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::LoadMethodToEsquire
+02/28/17 06:11:18 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::PassCommandToEsquire 
+02/28/17 06:11:18 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::LoadMethodToEsquire
+02/28/17 06:47:06 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::PassCommandToEsquire 
+02/28/17 06:47:06 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::LoadMethodToEsquire
+02/28/17 07:22:55 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::PassCommandToEsquire 
+02/28/17 07:22:55 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::LoadMethodToEsquire
+02/28/17 07:58:43 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::PassCommandToEsquire 
+02/28/17 07:58:43 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::LoadMethodToEsquire
+02/28/17 08:34:31 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::PassCommandToEsquire 
+02/28/17 08:34:31 ERROR: Method "D:\DATA\renata\20170220-leaf\MS.m":
+Can't get the EsquireControl submethod parameter !  
+
+Errormessage: 
+The method does not exist. in CConnectToEsq::LoadMethodToEsquire
+02/28/17 09:48:44 ERROR: Plug-in devices - disconnecting failed (time out)!
+############# HyStar Error Logbook #############
+03/01/17 14:27:37 The software was started
+############# HyStar Error Logbook #############
+03/06/17 15:30:01 The software was started
+############# HyStar Error Logbook #############
+03/06/17 15:31:09 The software was started
+############# HyStar Error Logbook #############
+03/06/17 15:31:27 The software was started
+############# HyStar Error Logbook #############
+03/07/17 10:58:09 The software was started
+03/08/17 10:23:49 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+03/08/17 10:23:49 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+03/08/17 10:23:49 ERROR: Emergency shut-down by error from LC system !
+############# HyStar Error Logbook #############
+03/08/17 10:30:14 The software was started
+############# HyStar Error Logbook #############
+03/09/17 11:13:51 The software was started
+############# HyStar Error Logbook #############
+03/10/17 11:03:22 The software was started
+############# HyStar Error Logbook #############
+03/13/17 13:54:18 The software was started
+############# HyStar Error Logbook #############
+03/13/17 14:27:43 The software was started
+############# HyStar Error Logbook #############
+03/13/17 15:18:36 The software was started
+############# HyStar Error Logbook #############
+03/13/17 15:24:19 The software was started
+############# HyStar Error Logbook #############
+03/13/17 15:40:50 The software was started
+############# HyStar Error Logbook #############
+03/13/17 15:45:36 The software was started
+03/13/17 16:45:50 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #414 -> 'Internal error! The method information of the sample is missing.'
+03/13/17 16:45:50 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #414 -> 'Internal error! The method information of the sample is missing.'
+03/13/17 16:45:50 ERROR: Emergency shut-down by error from LC system !
+03/14/17 10:06:09 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #414 -> 'Internal error! The method information of the sample is missing.'
+03/14/17 10:08:07 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #414 -> 'Internal error! The method information of the sample is missing.'
+03/14/17 10:08:43 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #414 -> 'Internal error! The method information of the sample is missing.'
+03/14/17 10:11:23 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #414 -> 'Internal error! The method information of the sample is missing.'
+############# HyStar Error Logbook #############
+03/14/17 10:12:39 The software was started
+03/14/17 10:16:24 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #414 -> 'Internal error! The method information of the sample is missing.'
+############# HyStar Error Logbook #############
+03/14/17 10:19:44 The software was started
+03/14/17 10:20:43 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #414 -> 'Internal error! The method information of the sample is missing.'
+03/14/17 10:25:13 ERROR: CConnectToEsq: Exception while call PassCommandToEsquire(). ErrorMessage: 'The RPC server is unavailable.
+'
+03/14/17 10:25:13 ERROR: CAcqFormView: Exception in LoadMethodParameters() - LoadMethodOnMS()
+03/14/17 10:25:13 ERROR: Loading MS method to MS software failed!
+03/14/17 10:25:13 ERROR: Load of method parameters failed! Check the system and reload data.
+03/14/17 10:26:09 ERROR: CConnectToEsq: Exception while call PassCommandToEsquire(). ErrorMessage: 'The RPC server is unavailable.
+'
+03/14/17 10:26:09 ERROR: CAcqFormView: Exception in LoadMethodParameters() - LoadMethodOnMS()
+03/14/17 10:26:09 ERROR: Loading MS method to MS software failed!
+03/14/17 10:26:09 ERROR: Load of method parameters failed! Check the system and reload data.
+03/14/17 10:27:19 ERROR: CConnectToEsq: Exception while call PassCommandToEsquire(). ErrorMessage: 'The RPC server is unavailable.
+'
+03/14/17 10:27:19 ERROR: CAcqFormView: Exception in LoadMethodParameters() - LoadMethodOnMS()
+03/14/17 10:27:19 ERROR: Loading MS method to MS software failed!
+03/14/17 10:27:19 ERROR: Load of method parameters failed! Check the system and reload data.
+03/14/17 10:34:32 ERROR: CConnectToEsq: Exception while call PassCommandToEsquire(). ErrorMessage: 'The RPC server is unavailable.
+'
+03/14/17 10:34:33 ERROR: CAcqFormView: Exception in LoadMethodParameters() - LoadMethodOnMS()
+03/14/17 10:34:33 ERROR: Loading MS method to MS software failed!
+03/14/17 10:34:33 ERROR: Load of method parameters failed! Check the system and reload data.
+03/14/17 10:39:39 ERROR: CConnectToEsq: Exception while call PassCommandToEsquire(). ErrorMessage: 'The RPC server is unavailable.
+'
+03/14/17 10:39:40 ERROR: CAcqFormView: Exception in LoadMethodParameters() - LoadMethodOnMS()
+03/14/17 10:39:40 ERROR: Loading MS method to MS software failed!
+03/14/17 10:39:40 ERROR: Load of method parameters failed! Check the system and reload data.
+03/14/17 10:41:50 ERROR: CConnectToEsq: Exception while call PassCommandToEsquire(). ErrorMessage: 'The RPC server is unavailable.
+'
+03/14/17 10:41:50 ERROR: CAcqFormView: Exception in LoadMethodParameters() - LoadMethodOnMS()
+03/14/17 10:41:50 ERROR: Loading MS method to MS software failed!
+03/14/17 10:41:50 ERROR: Load of method parameters failed! Check the system and reload data.
+03/14/17 10:47:04 ERROR: Error!
+CException in CConnectToEsq::CloseEsquireControl
+The RPC server is unavailable.
+
+############# HyStar Error Logbook #############
+03/14/17 10:48:57 The software was started
+03/14/17 10:50:51 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #414 -> 'Internal error! The method information of the sample is missing.'
+############# HyStar Error Logbook #############
+03/14/17 10:53:14 The software was started
+############# HyStar Error Logbook #############
+03/15/17 09:48:29 The software was started
+03/15/17 10:09:59 ERROR: Error (not critical) from 'Dionex System	SYSTEM1	SYS	PLUGIN'! Error #5400 -> 'Error! A non-critical (device) error occured while running the batch.
+See the logfile for detailed information.'
+03/15/17 10:09:59 ERROR: Error (not critical) from 'Dionex System	SYSTEM1	SYS	PLUGIN'! Error #5400 -> 'Error! A non-critical (device) error occured while running the batch.
+See the logfile for detailed information.'
+############# HyStar Error Logbook #############
+03/16/17 13:50:07 The software was started
+03/16/17 16:49:37 ERROR: Error (not critical) from 'Dionex System	SYSTEM1	SYS	PLUGIN'! Error #5400 -> 'Error! A non-critical (device) error occured while running the batch.
+See the logfile for detailed information.'
+03/16/17 16:49:38 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+03/16/17 16:49:38 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+03/16/17 16:49:38 ERROR: Emergency shut-down by error from LC system !
+############# HyStar Error Logbook #############
+03/17/17 07:56:34 The software was started
+03/17/17 08:45:11 ERROR: Error (not critical) from 'Dionex System	SYSTEM1	SYS	PLUGIN'! Error #5400 -> 'Error! A non-critical (device) error occured while running the batch.
+See the logfile for detailed information.'
+03/17/17 08:45:11 ERROR: Error (not critical) from 'Dionex System	SYSTEM1	SYS	PLUGIN'! Error #5400 -> 'Error! A non-critical (device) error occured while running the batch.
+See the logfile for detailed information.'
+03/17/17 10:50:02 ERROR: Error (not critical) from 'Dionex System	SYSTEM1	SYS	PLUGIN'! Error #5400 -> 'Error! A non-critical (device) error occured while running the batch.
+See the logfile for detailed information.'
+03/17/17 10:50:02 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+03/17/17 10:50:02 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+03/17/17 10:50:02 ERROR: Emergency shut-down by error from LC system !
+############# HyStar Error Logbook #############
+03/17/17 13:58:41 The software was started
+############# HyStar Error Logbook #############
+03/17/17 14:07:37 The software was started
+############# HyStar Error Logbook #############
+03/20/17 11:41:19 The software was started
+############# HyStar Error Logbook #############
+03/21/17 11:25:08 The software was started
+############# HyStar Error Logbook #############
+03/22/17 11:38:25 The software was started
+############# HyStar Error Logbook #############
+03/31/17 16:09:04 The software was started
+############# HyStar Error Logbook #############
+04/03/17 14:08:45 The software was started
+############# HyStar Error Logbook #############
+04/04/17 14:06:16 The software was started
+############# HyStar Error Logbook #############
+04/04/17 15:21:10 The software was started
+############# HyStar Error Logbook #############
+04/05/17 13:33:13 The software was started
+############# HyStar Error Logbook #############
+04/05/17 13:54:17 The software was started
+############# HyStar Error Logbook #############
+04/05/17 14:02:15 The software was started
+############# HyStar Error Logbook #############
+04/05/17 17:43:45 The software was started
+04/05/17 17:49:58 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+04/05/17 17:49:58 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+04/05/17 17:49:58 ERROR: Emergency shut-down by error from LC system !
+############# HyStar Error Logbook #############
+04/05/17 17:50:34 The software was started
+############# HyStar Error Logbook #############
+04/05/17 17:51:04 The software was started
+############# HyStar Error Logbook #############
+04/06/17 15:21:31 The software was started
+############# HyStar Error Logbook #############
+04/06/17 15:31:59 The software was started
+############# HyStar Error Logbook #############
+04/06/17 16:06:06 The software was started
+04/06/17 18:51:11 ERROR: Error (not critical) from 'Dionex System	SYSTEM1	SYS	PLUGIN'! Error #5400 -> 'Error! A non-critical (device) error occured while running the batch.
+See the logfile for detailed information.'
+04/06/17 18:51:12 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+04/06/17 18:51:12 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+04/06/17 18:51:12 ERROR: Emergency shut-down by error from LC system !
+04/07/17 09:09:42 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #423 -> 'Internal error! An error occured while trying to start the system.
+See the logfile for detailed information.'
+04/07/17 09:09:42 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #423 -> 'Internal error! An error occured while trying to start the system.
+See the logfile for detailed information.'
+04/07/17 09:09:42 ERROR: Emergency shut-down by error from LC system !
+04/07/17 09:11:14 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #423 -> 'Internal error! An error occured while trying to start the system.
+See the logfile for detailed information.'
+04/07/17 09:11:14 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #423 -> 'Internal error! An error occured while trying to start the system.
+See the logfile for detailed information.'
+04/07/17 09:11:14 ERROR: Emergency shut-down by error from LC system !
+############# HyStar Error Logbook #############
+04/07/17 09:14:51 The software was started
+04/07/17 09:16:09 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #423 -> 'Internal error! An error occured while trying to start the system.
+See the logfile for detailed information.'
+04/07/17 09:16:09 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #423 -> 'Internal error! An error occured while trying to start the system.
+See the logfile for detailed information.'
+04/07/17 09:16:09 ERROR: Emergency shut-down by error from LC system !
+04/07/17 09:17:11 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #423 -> 'Internal error! An error occured while trying to start the system.
+See the logfile for detailed information.'
+04/07/17 09:17:11 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #423 -> 'Internal error! An error occured while trying to start the system.
+See the logfile for detailed information.'
+04/07/17 09:17:11 ERROR: Emergency shut-down by error from LC system !
+############# HyStar Error Logbook #############
+04/07/17 09:20:33 The software was started
+04/07/17 09:22:11 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #423 -> 'Internal error! An error occured while trying to start the system.
+See the logfile for detailed information.'
+04/07/17 09:22:11 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #423 -> 'Internal error! An error occured while trying to start the system.
+See the logfile for detailed information.'
+04/07/17 09:22:11 ERROR: Emergency shut-down by error from LC system !
+04/07/17 09:24:51 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #423 -> 'Internal error! An error occured while trying to start the system.
+See the logfile for detailed information.'
+04/07/17 09:24:51 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #423 -> 'Internal error! An error occured while trying to start the system.
+See the logfile for detailed information.'
+04/07/17 09:24:51 ERROR: Emergency shut-down by error from LC system !
+04/07/17 09:26:43 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #423 -> 'Internal error! An error occured while trying to start the system.
+See the logfile for detailed information.'
+04/07/17 09:26:43 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #423 -> 'Internal error! An error occured while trying to start the system.
+See the logfile for detailed information.'
+04/07/17 09:26:43 ERROR: Emergency shut-down by error from LC system !
+04/07/17 09:34:01 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #423 -> 'Internal error! An error occured while trying to start the system.
+See the logfile for detailed information.'
+04/07/17 09:34:01 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #423 -> 'Internal error! An error occured while trying to start the system.
+See the logfile for detailed information.'
+04/07/17 09:34:01 ERROR: Emergency shut-down by error from LC system !
+04/07/17 09:35:16 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #423 -> 'Internal error! An error occured while trying to start the system.
+See the logfile for detailed information.'
+04/07/17 09:35:16 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #423 -> 'Internal error! An error occured while trying to start the system.
+See the logfile for detailed information.'
+04/07/17 09:35:16 ERROR: Emergency shut-down by error from LC system !
+############# HyStar Error Logbook #############
+04/07/17 09:37:28 The software was started
+04/07/17 09:39:56 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #423 -> 'Internal error! An error occured while trying to start the system.
+See the logfile for detailed information.'
+04/07/17 09:39:56 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #423 -> 'Internal error! An error occured while trying to start the system.
+See the logfile for detailed information.'
+04/07/17 09:39:56 ERROR: Emergency shut-down by error from LC system !
+04/07/17 09:49:12 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #423 -> 'Internal error! An error occured while trying to start the system.
+See the logfile for detailed information.'
+04/07/17 09:49:12 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #423 -> 'Internal error! An error occured while trying to start the system.
+See the logfile for detailed information.'
+04/07/17 09:49:12 ERROR: Emergency shut-down by error from LC system !
+############# HyStar Error Logbook #############
+04/10/17 13:13:07 The software was started
+############# HyStar Error Logbook #############
+04/10/17 15:08:38 The software was started
+04/10/17 15:36:15 ERROR: Error (not critical) from 'Dionex System	SYSTEM1	SYS	PLUGIN'! Error #5400 -> 'Error! A non-critical (device) error occured while running the batch.
+See the logfile for detailed information.'
+04/10/17 15:36:15 ERROR: Error (not critical) from 'Dionex System	SYSTEM1	SYS	PLUGIN'! Error #5400 -> 'Error! A non-critical (device) error occured while running the batch.
+See the logfile for detailed information.'
+############# HyStar Error Logbook #############
+04/11/17 10:45:18 The software was started
+############# HyStar Error Logbook #############
+04/11/17 10:45:44 The software was started
+############# HyStar Error Logbook #############
+04/11/17 14:12:38 The software was started
+############# HyStar Error Logbook #############
+04/11/17 14:26:01 The software was started
+############# HyStar Error Logbook #############
+04/11/17 14:28:32 The software was started
+04/11/17 14:37:07 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+04/11/17 14:37:07 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+04/11/17 14:37:07 ERROR: Emergency shut-down by error from LC system !
+############# HyStar Error Logbook #############
+04/11/17 15:29:31 The software was started
+04/11/17 15:31:33 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+04/11/17 15:31:33 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+04/11/17 15:31:33 ERROR: Emergency shut-down by error from LC system !
+############# HyStar Error Logbook #############
+04/11/17 15:34:21 The software was started
+############# HyStar Error Logbook #############
+04/11/17 15:36:16 The software was started
+############# HyStar Error Logbook #############
+04/11/17 15:44:51 The software was started
+############# HyStar Error Logbook #############
+04/11/17 15:54:48 The software was started
+############# HyStar Error Logbook #############
+04/13/17 14:02:44 The software was started
+############# HyStar Error Logbook #############
+04/13/17 14:02:51 The software was started
+############# HyStar Error Logbook #############
+04/13/17 14:15:35 The software was started
+############# HyStar Error Logbook #############
+04/13/17 16:23:58 The software was started
+############# HyStar Error Logbook #############
+05/09/17 15:10:43 The software was started
+############# HyStar Error Logbook #############
+05/09/17 15:41:41 The software was started
+05/09/17 15:51:53 ERROR: Error (not critical) from 'Dionex System	SYSTEM1	SYS	PLUGIN'! Error #5400 -> 'Error! A non-critical (device) error occured while running the batch.
+See the logfile for detailed information.'
+05/09/17 15:51:54 ERROR: Error (not critical) from 'Dionex System	SYSTEM1	SYS	PLUGIN'! Error #5400 -> 'Error! A non-critical (device) error occured while running the batch.
+See the logfile for detailed information.'
+05/09/17 16:05:35 ERROR: Error (not critical) from 'Dionex System	SYSTEM1	SYS	PLUGIN'! Error #5400 -> 'Error! A non-critical (device) error occured while running the batch.
+See the logfile for detailed information.'
+05/09/17 16:05:36 ERROR: Error (not critical) from 'Dionex System	SYSTEM1	SYS	PLUGIN'! Error #5400 -> 'Error! A non-critical (device) error occured while running the batch.
+See the logfile for detailed information.'
+05/09/17 16:16:37 ERROR: Error (not critical) from 'Dionex System	SYSTEM1	SYS	PLUGIN'! Error #5400 -> 'Error! A non-critical (device) error occured while running the batch.
+See the logfile for detailed information.'
+05/09/17 16:16:37 ERROR: Error (not critical) from 'Dionex System	SYSTEM1	SYS	PLUGIN'! Error #5400 -> 'Error! A non-critical (device) error occured while running the batch.
+See the logfile for detailed information.'
+05/09/17 16:23:16 ERROR: Error (not critical) from 'Dionex System	SYSTEM1	SYS	PLUGIN'! Error #5400 -> 'Error! A non-critical (device) error occured while running the batch.
+See the logfile for detailed information.'
+05/09/17 16:36:20 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+05/09/17 16:36:20 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+05/09/17 16:36:20 ERROR: Emergency shut-down by error from LC system !
+############# HyStar Error Logbook #############
+05/09/17 16:53:32 The software was started
+05/09/17 16:57:05 ERROR: Error (not critical) from 'Dionex System	SYSTEM1	SYS	PLUGIN'! Error #5400 -> 'Error! A non-critical (device) error occured while running the batch.
+See the logfile for detailed information.'
+05/09/17 16:57:05 ERROR: Error (not critical) from 'Dionex System	SYSTEM1	SYS	PLUGIN'! Error #5400 -> 'Error! A non-critical (device) error occured while running the batch.
+See the logfile for detailed information.'
+05/09/17 16:57:40 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+05/09/17 16:57:40 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+05/09/17 16:57:40 ERROR: Emergency shut-down by error from LC system !
+############# HyStar Error Logbook #############
+05/09/17 17:47:03 The software was started
+05/09/17 17:56:02 ERROR: Error (not critical) from 'Dionex System	SYSTEM1	SYS	PLUGIN'! Error #5400 -> 'Error! A non-critical (device) error occured while running the batch.
+See the logfile for detailed information.'
+05/09/17 17:56:02 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+05/09/17 17:56:03 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+05/09/17 17:56:03 ERROR: Emergency shut-down by error from LC system !
+05/10/17 02:49:30 ERROR: Error (not critical) from 'Dionex System	SYSTEM1	SYS	PLUGIN'! Error #5400 -> 'Error! A non-critical (device) error occured while running the batch.
+See the logfile for detailed information.'
+05/10/17 02:49:30 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+05/10/17 02:49:30 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+05/10/17 02:49:30 ERROR: Emergency shut-down by error from LC system !
+############# HyStar Error Logbook #############
+05/10/17 09:39:08 The software was started
+############# HyStar Error Logbook #############
+05/15/17 15:35:52 The software was started
+############# HyStar Error Logbook #############
+05/15/17 16:27:46 The software was started
+############# HyStar Error Logbook #############
+05/16/17 10:03:54 The software was started
+############# HyStar Error Logbook #############
+05/17/17 16:03:37 The software was started
+############# HyStar Error Logbook #############
+05/22/17 10:09:28 The software was started
+05/22/17 15:41:13 ERROR: Error (not critical) from 'Dionex System	SYSTEM1	SYS	PLUGIN'! Error #5400 -> 'Error! A non-critical (device) error occured while running the batch.
+See the logfile for detailed information.'
+05/22/17 15:41:13 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+05/22/17 15:41:13 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+05/22/17 15:41:13 ERROR: Emergency shut-down by error from LC system !
+05/22/17 16:08:35 ERROR: Load of sample from sample table not valid!
+05/22/17 16:08:35 ERROR: Invalid LoadSampleLine()
+05/22/17 16:10:11 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+############# HyStar Error Logbook #############
+05/22/17 16:10:33 The software was started
+############# HyStar Error Logbook #############
+05/22/17 16:12:15 The software was started
+############# HyStar Error Logbook #############
+06/13/17 13:07:40 The software was started
+############# HyStar Error Logbook #############
+06/13/17 13:25:44 The software was started
+############# HyStar Error Logbook #############
+06/21/17 17:07:09 The software was started
+############# HyStar Error Logbook #############
+06/21/17 18:14:00 The software was started
+06/21/17 18:20:06 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+06/21/17 18:20:06 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+06/21/17 18:20:06 ERROR: Emergency shut-down by error from LC system !
+06/21/17 18:26:51 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+06/21/17 18:26:51 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+06/21/17 18:26:51 ERROR: Emergency shut-down by error from LC system !
+############# HyStar Error Logbook #############
+06/21/17 18:28:50 The software was started
+06/21/17 18:35:42 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+06/21/17 18:35:42 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+06/21/17 18:35:42 ERROR: Emergency shut-down by error from LC system !
+############# HyStar Error Logbook #############
+06/21/17 18:40:40 The software was started
+06/21/17 18:47:06 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+06/21/17 18:47:06 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+06/21/17 18:47:06 ERROR: Emergency shut-down by error from LC system !
+############# HyStar Error Logbook #############
+06/22/17 10:37:16 The software was started
+############# HyStar Error Logbook #############
+06/22/17 11:13:59 The software was started
+############# HyStar Error Logbook #############
+06/22/17 11:16:11 The software was started
+06/22/17 11:17:43 ERROR: Error (not critical) from 'Dionex System	SYSTEM1	SYS	PLUGIN'! Error #5400 -> 'Error! A non-critical (device) error occured while running the batch.
+See the logfile for detailed information.'
+06/22/17 11:17:43 ERROR: Error (not critical) from 'Dionex System	SYSTEM1	SYS	PLUGIN'! Error #5400 -> 'Error! A non-critical (device) error occured while running the batch.
+See the logfile for detailed information.'
+############# HyStar Error Logbook #############
+06/22/17 12:00:29 The software was started
+############# HyStar Error Logbook #############
+06/26/17 14:16:35 The software was started
+############# HyStar Error Logbook #############
+06/26/17 15:05:14 The software was started
+############# HyStar Error Logbook #############
+06/26/17 15:17:31 The software was started
+06/29/17 15:53:43 ERROR: Error (not critical) from 'Dionex System	SYSTEM1	SYS	PLUGIN'! Error #5400 -> 'Error! A non-critical (device) error occured while running the batch.
+See the logfile for detailed information.'
+06/29/17 15:53:43 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+06/29/17 15:53:43 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+06/29/17 15:53:43 ERROR: Emergency shut-down by error from LC system !
+06/29/17 21:08:11 ERROR: Can't load the method D:\DATA\gentl016\SAB_Methods\IsocraticD.m, because it contains no EsquireControl submethod. in CConnectToEsq::PassCommandToEsquire 
+06/29/17 21:08:11 ERROR: Can't load the method D:\DATA\gentl016\SAB_Methods\IsocraticD.m, because it contains no EsquireControl submethod. in CConnectToEsq::LoadMethodToEsquire
+############# HyStar Error Logbook #############
+07/06/17 14:17:17 The software was started
+############# HyStar Error Logbook #############
+07/06/17 14:21:16 The software was started
+07/06/17 14:29:42 ERROR: No Instrument connected ! in CConnectToEsq::SwitchEsquireTo
+07/06/17 14:30:56 ERROR: No Instrument connected ! in CConnectToEsq::SwitchEsquireTo
+07/06/17 15:23:24 ERROR: Error (not critical) from 'Dionex System	SYSTEM1	SYS	PLUGIN'! Error #5400 -> 'Error! A non-critical (device) error occured while running the batch.
+See the logfile for detailed information.'
+07/06/17 15:23:25 ERROR: Error (not critical) from 'Dionex System	SYSTEM1	SYS	PLUGIN'! Error #5400 -> 'Error! A non-critical (device) error occured while running the batch.
+See the logfile for detailed information.'
+07/06/17 15:24:25 ERROR: Error (not critical) from 'Dionex System	SYSTEM1	SYS	PLUGIN'! Error #5400 -> 'Error! A non-critical (device) error occured while running the batch.
+See the logfile for detailed information.'
+07/06/17 15:24:25 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+07/06/17 15:24:25 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+07/06/17 15:24:25 ERROR: Emergency shut-down by error from LC system !
+07/06/17 23:46:01 ERROR: Can't load the method D:\DATA\gentl016\SAB_Methods\IsocraticD.m, because it contains no EsquireControl submethod. in CConnectToEsq::PassCommandToEsquire 
+07/06/17 23:46:01 ERROR: Can't load the method D:\DATA\gentl016\SAB_Methods\IsocraticD.m, because it contains no EsquireControl submethod. in CConnectToEsq::LoadMethodToEsquire
+############# HyStar Error Logbook #############
+07/07/17 10:12:37 The software was started
+############# HyStar Error Logbook #############
+07/07/17 14:22:05 The software was started
+07/09/17 00:08:51 ERROR: Error (not critical) from 'Dionex System	SYSTEM1	SYS	PLUGIN'! Error #5400 -> 'Error! A non-critical (device) error occured while running the batch.
+See the logfile for detailed information.'
+07/09/17 00:08:51 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+07/09/17 00:08:51 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+07/09/17 00:08:51 ERROR: Emergency shut-down by error from LC system !
+############# HyStar Error Logbook #############
+07/09/17 15:15:32 The software was started
+07/09/17 15:17:51 ERROR: Error (not critical) from 'Dionex System	SYSTEM1	SYS	PLUGIN'! Error #5400 -> 'Error! A non-critical (device) error occured while running the batch.
+See the logfile for detailed information.'
+07/09/17 15:17:51 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+07/09/17 15:17:51 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+07/09/17 15:17:51 ERROR: Emergency shut-down by error from LC system !
+############# HyStar Error Logbook #############
+07/09/17 15:18:45 The software was started
+############# HyStar Error Logbook #############
+07/10/17 14:32:12 The software was started
+############# HyStar Error Logbook #############
+07/10/17 14:48:48 The software was started
+############# HyStar Error Logbook #############
+07/10/17 14:51:00 The software was started
+############# HyStar Error Logbook #############
+07/10/17 15:27:25 The software was started
+############# HyStar Error Logbook #############
+07/14/17 10:09:12 The software was started
+07/16/17 12:43:45 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #418 -> 'Internal error! The sample information could not be updated within the Chromeleon sequence.'
+07/16/17 12:47:27 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+07/16/17 12:47:27 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+07/16/17 12:47:27 ERROR: Emergency shut-down by error from LC system !
+07/16/17 15:34:18 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+07/16/17 15:49:15 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+07/16/17 15:49:15 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+07/16/17 15:49:15 ERROR: Emergency shut-down by error from LC system !
+07/16/17 15:50:39 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+07/16/17 15:50:39 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+07/16/17 15:50:39 ERROR: Emergency shut-down by error from LC system !
+07/16/17 15:52:17 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+07/16/17 15:52:17 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+07/16/17 15:52:17 ERROR: Emergency shut-down by error from LC system !
+############# HyStar Error Logbook #############
+07/16/17 16:00:59 The software was started
+07/16/17 16:02:01 ERROR: The instrument is busy. in CConnectToEsq::SwitchEsquireTo
+07/16/17 16:02:56 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+07/16/17 16:02:56 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+07/16/17 16:02:56 ERROR: Emergency shut-down by error from LC system !
+07/31/17 15:25:15 ERROR: No Instrument connected ! in CConnectToEsq::PrepareEsquireStartMethod
+07/31/17 15:25:15 ERROR: HCT/esquire prepare to start failed!
+07/31/17 15:25:15 ERROR: Due to the MS problem, the LC/MS system failed to start!
+07/31/17 15:28:16 ERROR: No Instrument connected ! in CConnectToEsq::PrepareEsquireStartMethod
+07/31/17 15:28:16 ERROR: HCT/esquire prepare to start failed!
+07/31/17 15:28:16 ERROR: Due to the MS problem, the LC/MS system failed to start!
+07/31/17 15:30:14 ERROR: No Instrument connected ! in CConnectToEsq::PrepareEsquireStartMethod
+07/31/17 15:30:14 ERROR: HCT/esquire prepare to start failed!
+07/31/17 15:30:14 ERROR: Due to the MS problem, the LC/MS system failed to start!
+08/29/17 09:08:11 ERROR: No Instrument connected ! in CConnectToEsq::SwitchEsquireTo
+############# HyStar Error Logbook #############
+09/13/17 10:25:12 The software was started
+############# HyStar Error Logbook #############
+09/14/17 10:45:47 The software was started
+############# HyStar Error Logbook #############
+10/13/17 09:41:46 The software was started
+############# HyStar Error Logbook #############
+10/13/17 10:35:38 The software was started
+############# HyStar Error Logbook #############
+10/13/17 10:37:55 The software was started
+############# HyStar Error Logbook #############
+10/13/17 10:42:20 The software was started
+############# HyStar Error Logbook #############
+10/13/17 11:16:11 The software was started
+############# HyStar Error Logbook #############
+10/19/17 13:48:50 The software was started
+############# HyStar Error Logbook #############
+10/19/17 13:51:01 The software was started
+10/19/17 14:24:38 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #423 -> 'Internal error! An error occured while trying to start the system.
+See the logfile for detailed information.'
+10/19/17 14:24:38 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #423 -> 'Internal error! An error occured while trying to start the system.
+See the logfile for detailed information.'
+10/19/17 14:24:38 ERROR: Emergency shut-down by error from LC system !
+############# HyStar Error Logbook #############
+11/01/17 10:01:03 The software was started
+############# HyStar Error Logbook #############
+11/01/17 10:02:32 The software was started
+############# HyStar Error Logbook #############
+11/16/17 13:40:11 The software was started
+############# HyStar Error Logbook #############
+11/20/17 13:34:40 The software was started
+############# HyStar Error Logbook #############
+11/21/17 10:02:17 The software was started
+############# HyStar Error Logbook #############
+11/21/17 10:29:17 The software was started
+11/21/17 10:30:27 ERROR: Exception: while SwitchEsquireTo(...) in OpenEsquireControl()
+11/21/17 10:30:27 ERROR: CConnectToEsq: Exception while call PassCommandToEsquire(). ErrorMessage: 'The RPC server is unavailable.
+'
+11/21/17 10:30:27 ERROR: CAcqFormView: Exception in LoadMethodParameters() - LoadMethodOnMS()
+11/21/17 10:30:27 ERROR: Loading MS method to MS software failed!
+11/21/17 10:30:27 ERROR: Load of method parameters failed! Check the system and reload data.
+11/21/17 10:31:13 ERROR: Error!
+CException in CConnectToEsq::CloseEsquireControl
+The RPC server is unavailable.
+
+############# HyStar Error Logbook #############
+11/21/17 10:33:30 The software was started
+############# HyStar Error Logbook #############
+11/21/17 10:41:46 The software was started
+11/21/17 10:52:35 ERROR: Error (not critical) from 'Dionex System	SYSTEM1	SYS	PLUGIN'! Error #5400 -> 'Error! A non-critical (device) error occured while running the batch.
+See the logfile for detailed information.'
+11/21/17 10:52:35 ERROR: Error (not critical) from 'Dionex System	SYSTEM1	SYS	PLUGIN'! Error #5400 -> 'Error! A non-critical (device) error occured while running the batch.
+See the logfile for detailed information.'
+11/21/17 11:06:10 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+11/21/17 11:06:10 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+11/21/17 11:06:10 ERROR: Emergency shut-down by error from LC system !
+############# HyStar Error Logbook #############
+11/21/17 11:09:21 The software was started
+11/21/17 13:03:58 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+11/21/17 13:03:58 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+11/21/17 13:03:58 ERROR: Emergency shut-down by error from LC system !
+############# HyStar Error Logbook #############
+11/21/17 13:04:47 The software was started
+############# HyStar Error Logbook #############
+11/21/17 13:12:15 The software was started
+11/22/17 16:03:58 ERROR: Error (not critical) from 'Dionex System	SYSTEM1	SYS	PLUGIN'! Error #5400 -> 'Error! A non-critical (device) error occured while running the batch.
+See the logfile for detailed information.'
+11/22/17 16:03:58 ERROR: Error (not critical) from 'Dionex System	SYSTEM1	SYS	PLUGIN'! Error #5400 -> 'Error! A non-critical (device) error occured while running the batch.
+See the logfile for detailed information.'
+11/22/17 17:22:21 ERROR: Error (not critical) from 'Dionex System	SYSTEM1	SYS	PLUGIN'! Error #5400 -> 'Error! A non-critical (device) error occured while running the batch.
+See the logfile for detailed information.'
+11/22/17 17:22:21 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+11/22/17 17:22:21 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+11/22/17 17:22:21 ERROR: Emergency shut-down by error from LC system !
+############# HyStar Error Logbook #############
+11/22/17 17:29:24 The software was started
+############# HyStar Error Logbook #############
+11/28/17 11:53:43 The software was started
+############# HyStar Error Logbook #############
+11/28/17 14:33:56 The software was started
+############# HyStar Error Logbook #############
+11/29/17 09:52:04 The software was started
+############# HyStar Error Logbook #############
+11/29/17 09:52:39 The software was started
+############# HyStar Error Logbook #############
+11/29/17 11:46:27 The software was started
+11/29/17 11:47:31 ERROR: Load of sample from sample table not valid!
+11/29/17 11:47:31 ERROR: Load of sample from sample table not valid!
+11/29/17 11:47:31 ERROR: Error while reading the Sample Table: D:\DATA\nmakunga\20171128-example_table.xml
+11/29/17 11:48:11 ERROR: Load of sample from sample table not valid!
+11/29/17 11:48:11 ERROR: Load of sample from sample table not valid!
+11/29/17 11:48:11 ERROR: Error while reading the Sample Table: D:\DATA\nmakunga\20171128-test\20171128-run.xml
+############# HyStar Error Logbook #############
+12/06/17 10:20:35 The software was started
+############# HyStar Error Logbook #############
+12/13/17 16:39:59 The software was started
+############# HyStar Error Logbook #############
+12/14/17 11:23:21 The software was started
+12/14/17 11:27:02 ERROR: Error!
+CException in CConnectToEsq::CloseEsquireControl
+The RPC server is unavailable.
+
+############# HyStar Error Logbook #############
+12/14/17 11:27:47 The software was started
+12/14/17 11:28:13 ERROR: Error! Exception in CConnectToEsq::OpenEsquireControl. The RPC server is unavailable.
+
+12/14/17 11:28:13 ERROR: CAcqFormView: Exception while call CreateEsquireLCInterface()
+12/14/17 11:28:13 ERROR: CConnectToEsq: Exception while call PassCommandToEsquire(). ErrorMessage: 'The RPC server is unavailable.
+'
+12/14/17 11:28:13 ERROR: CAcqFormView: Exception in LoadMethodParameters() - LoadMethodOnMS()
+12/14/17 11:28:13 ERROR: Loading MS method to MS software failed!
+12/14/17 11:28:13 ERROR: Load of method parameters failed! Check the system and reload data.
+12/14/17 11:28:24 ERROR: Plug-in devices - disconnecting failed (error returned)!
+############# HyStar Error Logbook #############
+12/14/17 11:30:39 The software was started
+12/14/17 11:34:40 ERROR: Error (not critical) from 'Dionex System	SYSTEM1	SYS	PLUGIN'! Error #5400 -> 'Error! A non-critical (device) error occured while running the batch.
+See the logfile for detailed information.'
+12/14/17 11:34:40 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+12/14/17 11:34:40 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+12/14/17 11:34:40 ERROR: Emergency shut-down by error from LC system !
+############# HyStar Error Logbook #############
+12/14/17 11:36:30 The software was started
+############# HyStar Error Logbook #############
+12/14/17 17:01:09 The software was started
+############# HyStar Error Logbook #############
+12/14/17 17:04:42 The software was started
+############# HyStar Error Logbook #############
+12/20/17 09:54:40 The software was started
+############# HyStar Error Logbook #############
+12/20/17 10:10:17 The software was started
+12/20/17 12:50:06 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+12/20/17 12:50:06 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+12/20/17 12:50:06 ERROR: Emergency shut-down by error from LC system !
+############# HyStar Error Logbook #############
+01/09/18 11:57:19 The software was started
+############# HyStar Error Logbook #############
+01/10/18 14:05:48 The software was started
+01/10/18 14:08:28 ERROR: Load of sample from sample table not valid!
+01/10/18 14:08:28 ERROR: Load of sample from sample table not valid!
+01/10/18 14:08:28 ERROR: Error while reading the Sample Table: D:\DATA\renata\20170707_invitro_field_pool_C18_IPA_run2\20170707_invitro_field_pool_C18_IPA.xml
+############# HyStar Error Logbook #############
+01/10/18 15:25:10 The software was started
+############# HyStar Error Logbook #############
+01/10/18 15:46:07 The software was started
+############# HyStar Error Logbook #############
+01/10/18 16:02:08 The software was started
+############# HyStar Error Logbook #############
+01/10/18 16:16:20 The software was started
+############# HyStar Error Logbook #############
+01/11/18 10:04:37 The software was started
+############# HyStar Error Logbook #############
+01/12/18 10:52:27 The software was started
+############# HyStar Error Logbook #############
+01/12/18 11:00:43 The software was started
+############# HyStar Error Logbook #############
+01/16/18 12:28:34 The software was started
+############# HyStar Error Logbook #############
+01/16/18 12:37:51 The software was started
+############# HyStar Error Logbook #############
+01/16/18 12:44:35 The software was started
+############# HyStar Error Logbook #############
+01/16/18 14:35:41 The software was started
+############# HyStar Error Logbook #############
+01/22/18 13:58:10 The software was started
+############# HyStar Error Logbook #############
+01/22/18 14:16:25 The software was started
+01/22/18 15:17:50 ERROR: Error (not critical) from 'Dionex System	SYSTEM1	SYS	PLUGIN'! Error #5400 -> 'Error! A non-critical (device) error occured while running the batch.
+See the logfile for detailed information.'
+01/22/18 15:17:50 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+01/22/18 15:17:50 ERROR: Critical error from the Dionex System	SYSTEM1	SYS	PLUGIN! Error #429 -> 'Critical error! 
+A critical (device) error occured while running the batch. 
+The batch must be aborted!
+
+See the logfile for detailed information.'
+01/22/18 15:17:50 ERROR: Emergency shut-down by error from LC system !
+############# HyStar Error Logbook #############

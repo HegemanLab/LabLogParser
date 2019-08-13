@@ -1,0 +1,239 @@
+03/21/18 17:58:14 Dionex System	SYSTEM1	DET	PLUGIN
+03/21/18 17:58:14 Call: GetAllInstrumentList(Category: 3)
+03/21/18 17:58:14 Dionex System	SYSTEM1	DET	PLUGIN
+03/21/18 17:58:14 Call: GetAllInstrumentList(Category: 3)
+03/21/18 17:58:14 Dionex System	SYSTEM1	DET	PLUGIN
+03/21/18 17:58:14 Call: GetAllInstrumentList(Category: 5)
+03/21/18 17:58:14 Call: GetAllInstrumentList(Category: 5)
+03/21/18 17:58:14 Call: GetAllInstrumentList(Category: 6)
+03/21/18 17:58:14 Call: GetAllInstrumentList(Category: 7)
+03/21/18 17:58:14 HCT/esquire series	MS1	MS	LAN
+03/21/18 17:58:14 Call: GetAllInstrumentList(Category: 8)
+03/21/18 17:58:15 GetLCColumnPort: 
+03/21/18 17:58:15 Call: GetAllInstrumentList(Category: 0)
+03/21/18 17:58:15 Dionex System	SYSTEM1	PUMP	PLUGIN
+03/21/18 17:58:15 Call: GetAllInstrumentList(Category: 1)
+03/21/18 17:58:15 Dionex System	SYSTEM1	ALS	PLUGIN
+03/21/18 17:58:15 Call: GetAllInstrumentList(Category: 2)
+03/21/18 17:58:15 Call: GetAllInstrumentList(Category: 3)
+03/21/18 17:58:15 Dionex System	SYSTEM1	DET	PLUGIN
+03/21/18 17:58:15 Call: GetAllInstrumentList(Category: 4)
+03/21/18 17:58:15 Dionex System	SYSTEM1	SYS	PLUGIN
+03/21/18 17:58:15 Call: GetAllInstrumentList(Category: 5)
+03/21/18 17:58:15 Call: GetAllInstrumentList(Category: 6)
+03/21/18 17:58:15 Call: GetAllInstrumentList(Category: 7)
+03/21/18 17:58:15 HCT/esquire series	MS1	MS	LAN
+03/21/18 17:58:15 Call: GetAllInstrumentList(Category: 8)
+03/21/18 17:58:15 Call: GetAllInstrumentList(Category: 9)
+03/21/18 17:58:15 Call: GetAllInstrumentList(Category: 10)
+03/21/18 17:58:15 Call: GetAllInstrumentList(Category: 11)
+03/21/18 17:58:15 Call: GetAllInstrumentList(Category: 12)
+03/21/18 17:58:15 Call: GetAllInstrumentList(Category: 13)
+03/21/18 17:58:15 Call: GetAllInstrumentList(Category: 14)
+03/21/18 17:58:15 Call: GetAllInstrumentList(Category: 15)
+03/21/18 17:58:15 GetLCColumnPort: 
+03/21/18 17:58:15 Call: GetAllInstrumentList(Category: 0)
+03/21/18 17:58:15 Dionex System	SYSTEM1	PUMP	PLUGIN
+03/21/18 17:58:15 Call: GetAllInstrumentList(Category: 1)
+03/21/18 17:58:15 Dionex System	SYSTEM1	ALS	PLUGIN
+03/21/18 17:58:15 Call: GetAllInstrumentList(Category: 2)
+03/21/18 17:58:15 Call: GetAllInstrumentList(Category: 3)
+03/21/18 17:58:15 Dionex System	SYSTEM1	DET	PLUGIN
+03/21/18 17:58:15 Call: GetAllInstrumentList(Category: 4)
+03/21/18 17:58:15 Dionex System	SYSTEM1	SYS	PLUGIN
+03/21/18 17:58:15 Call: GetAllInstrumentList(Category: 5)
+03/21/18 17:58:15 Call: GetAllInstrumentList(Category: 6)
+03/21/18 17:58:15 Call: GetAllInstrumentList(Category: 7)
+03/21/18 17:58:15 HCT/esquire series	MS1	MS	LAN
+03/21/18 17:58:15 Call: GetAllInstrumentList(Category: 8)
+03/21/18 17:58:15 Call: GetAllInstrumentList(Category: 9)
+03/21/18 17:58:15 Call: GetAllInstrumentList(Category: 10)
+03/21/18 17:58:15 Call: GetAllInstrumentList(Category: 11)
+03/21/18 17:58:15 Call: GetAllInstrumentList(Category: 12)
+03/21/18 17:58:15 Call: GetAllInstrumentList(Category: 13)
+03/21/18 17:58:15 Call: GetAllInstrumentList(Category: 14)
+03/21/18 17:58:15 Call: GetAllInstrumentList(Category: 15)
+03/21/18 17:58:16 Call: GetAllInstrumentList(Category: 7)
+03/21/18 17:58:16 HCT/esquire series	MS1	MS	LAN
+03/21/18 17:58:16 Call: GetPluginSettings: Dionex System	SYSTEM1	PUMP	PLUGIN
+03/21/18 17:58:16 CInstrSetupCtrl::~CInstrSetupCtrl()
+03/21/18 17:58:16 CInstrSetupCtrl::~CInstrSetupCtrl()
+03/21/18 17:58:16 CInstrSetupCtrl::~CInstrSetupCtrl()
+03/21/18 17:58:16 CInstrSetupCtrl::~CInstrSetupCtrl()
+03/21/18 18:21:34 GetLCColumnPort: 
+03/21/18 18:21:34 Call: GetAllInstrumentList(Category: 0)
+03/21/18 18:21:34 Dionex System	SYSTEM1	PUMP	PLUGIN
+03/21/18 18:21:34 Call: GetAllInstrumentList(Category: 1)
+03/21/18 18:21:34 Dionex System	SYSTEM1	ALS	PLUGIN
+03/21/18 18:21:34 Call: GetAllInstrumentList(Category: 2)
+03/21/18 18:21:34 Call: GetAllInstrumentList(Category: 3)
+03/21/18 18:21:34 Dionex System	SYSTEM1	DET	PLUGIN
+03/21/18 18:21:34 Call: GetAllInstrumentList(Category: 4)
+03/21/18 18:21:34 Dionex System	SYSTEM1	SYS	PLUGIN
+03/21/18 18:21:34 Call: GetAllInstrumentList(Category: 5)
+03/21/18 18:21:34 Call: GetAllInstrumentList(Category: 6)
+03/21/18 18:21:34 Call: GetAllInstrumentList(Category: 7)
+03/21/18 18:21:34 HCT/esquire series	MS1	MS	LAN
+03/21/18 18:21:34 Call: GetAllInstrumentList(Category: 8)
+03/21/18 18:21:34 Call: GetAllInstrumentList(Category: 9)
+03/21/18 18:21:34 Call: GetAllInstrumentList(Category: 10)
+03/21/18 18:21:34 Call: GetAllInstrumentList(Category: 11)
+03/21/18 18:21:34 Call: GetAllInstrumentList(Category: 12)
+03/21/18 18:21:34 Call: GetAllInstrumentList(Category: 13)
+03/21/18 18:21:34 Call: GetAllInstrumentList(Category: 14)
+03/21/18 18:21:34 Call: GetAllInstrumentList(Category: 15)
+03/21/18 18:21:34 GetLCColumnPort: 
+03/21/18 18:21:34 Call: GetAllInstrumentList(Category: 0)
+03/21/18 18:21:34 Dionex System	SYSTEM1	PUMP	PLUGIN
+03/21/18 18:21:34 Call: GetAllInstrumentList(Category: 1)
+03/21/18 18:21:34 Dionex System	SYSTEM1	ALS	PLUGIN
+03/21/18 18:21:34 Call: GetAllInstrumentList(Category: 2)
+03/21/18 18:21:34 Call: GetAllInstrumentList(Category: 3)
+03/21/18 18:21:34 Dionex System	SYSTEM1	DET	PLUGIN
+03/21/18 18:21:34 Call: GetAllInstrumentList(Category: 4)
+03/21/18 18:21:34 Dionex System	SYSTEM1	SYS	PLUGIN
+03/21/18 18:21:34 Call: GetAllInstrumentList(Category: 5)
+03/21/18 18:21:34 Call: GetAllInstrumentList(Category: 6)
+03/21/18 18:21:34 Call: GetAllInstrumentList(Category: 7)
+03/21/18 18:21:34 HCT/esquire series	MS1	MS	LAN
+03/21/18 18:21:34 Call: GetAllInstrumentList(Category: 8)
+03/21/18 18:21:34 Call: GetAllInstrumentList(Category: 9)
+03/21/18 18:21:34 Call: GetAllInstrumentList(Category: 10)
+03/21/18 18:21:34 Call: GetAllInstrumentList(Category: 11)
+03/21/18 18:21:34 Call: GetAllInstrumentList(Category: 12)
+03/21/18 18:21:34 Call: GetAllInstrumentList(Category: 13)
+03/21/18 18:21:34 Call: GetAllInstrumentList(Category: 14)
+03/21/18 18:21:34 Call: GetAllInstrumentList(Category: 15)
+03/21/18 18:21:37 Call: GetAllInstrumentList(Category: 7)
+03/21/18 18:21:37 HCT/esquire series	MS1	MS	LAN
+03/21/18 18:21:37 Call: GetPluginSettings: Dionex System	SYSTEM1	PUMP	PLUGIN
+03/21/18 18:48:01 GetLCColumnPort: 
+03/21/18 18:48:01 Call: GetAllInstrumentList(Category: 0)
+03/21/18 18:48:01 Dionex System	SYSTEM1	PUMP	PLUGIN
+03/21/18 18:48:01 Call: GetAllInstrumentList(Category: 1)
+03/21/18 18:48:01 Dionex System	SYSTEM1	ALS	PLUGIN
+03/21/18 18:48:01 Call: GetAllInstrumentList(Category: 2)
+03/21/18 18:48:01 Call: GetAllInstrumentList(Category: 3)
+03/21/18 18:48:01 Dionex System	SYSTEM1	DET	PLUGIN
+03/21/18 18:48:01 Call: GetAllInstrumentList(Category: 4)
+03/21/18 18:48:01 Dionex System	SYSTEM1	SYS	PLUGIN
+03/21/18 18:48:01 Call: GetAllInstrumentList(Category: 5)
+03/21/18 18:48:01 Call: GetAllInstrumentList(Category: 6)
+03/21/18 18:48:01 Call: GetAllInstrumentList(Category: 7)
+03/21/18 18:48:01 HCT/esquire series	MS1	MS	LAN
+03/21/18 18:48:01 Call: GetAllInstrumentList(Category: 8)
+03/21/18 18:48:01 Call: GetAllInstrumentList(Category: 9)
+03/21/18 18:48:01 Call: GetAllInstrumentList(Category: 10)
+03/21/18 18:48:01 Call: GetAllInstrumentList(Category: 11)
+03/21/18 18:48:01 Call: GetAllInstrumentList(Category: 12)
+03/21/18 18:48:01 Call: GetAllInstrumentList(Category: 13)
+03/21/18 18:48:01 Call: GetAllInstrumentList(Category: 14)
+03/21/18 18:48:01 Call: GetAllInstrumentList(Category: 15)
+03/21/18 18:48:01 GetLCColumnPort: 
+03/21/18 18:48:01 Call: GetAllInstrumentList(Category: 0)
+03/21/18 18:48:01 Dionex System	SYSTEM1	PUMP	PLUGIN
+03/21/18 18:48:01 Call: GetAllInstrumentList(Category: 1)
+03/21/18 18:48:01 Dionex System	SYSTEM1	ALS	PLUGIN
+03/21/18 18:48:01 Call: GetAllInstrumentList(Category: 2)
+03/21/18 18:48:01 Call: GetAllInstrumentList(Category: 3)
+03/21/18 18:48:01 Dionex System	SYSTEM1	DET	PLUGIN
+03/21/18 18:48:01 Call: GetAllInstrumentList(Category: 4)
+03/21/18 18:48:01 Dionex System	SYSTEM1	SYS	PLUGIN
+03/21/18 18:48:01 Call: GetAllInstrumentList(Category: 5)
+03/21/18 18:48:01 Call: GetAllInstrumentList(Category: 6)
+03/21/18 18:48:01 Call: GetAllInstrumentList(Category: 7)
+03/21/18 18:48:01 HCT/esquire series	MS1	MS	LAN
+03/21/18 18:48:01 Call: GetAllInstrumentList(Category: 8)
+03/21/18 18:48:01 Call: GetAllInstrumentList(Category: 9)
+03/21/18 18:48:01 Call: GetAllInstrumentList(Category: 10)
+03/21/18 18:48:01 Call: GetAllInstrumentList(Category: 11)
+03/21/18 18:48:01 Call: GetAllInstrumentList(Category: 12)
+03/21/18 18:48:01 Call: GetAllInstrumentList(Category: 13)
+03/21/18 18:48:01 Call: GetAllInstrumentList(Category: 14)
+03/21/18 18:48:01 Call: GetAllInstrumentList(Category: 15)
+03/21/18 18:48:02 Call: GetAllInstrumentList(Category: 7)
+03/21/18 18:48:02 HCT/esquire series	MS1	MS	LAN
+03/21/18 18:48:02 Call: GetPluginSettings: Dionex System	SYSTEM1	PUMP	PLUGIN
+03/21/18 19:14:25 GetLCColumnPort: 
+03/21/18 19:14:25 Call: GetAllInstrumentList(Category: 0)
+03/21/18 19:14:25 Dionex System	SYSTEM1	PUMP	PLUGIN
+03/21/18 19:14:25 Call: GetAllInstrumentList(Category: 1)
+03/21/18 19:14:25 Dionex System	SYSTEM1	ALS	PLUGIN
+03/21/18 19:14:25 Call: GetAllInstrumentList(Category: 2)
+03/21/18 19:14:25 Call: GetAllInstrumentList(Category: 3)
+03/21/18 19:14:25 Dionex System	SYSTEM1	DET	PLUGIN
+03/21/18 19:14:25 Call: GetAllInstrumentList(Category: 4)
+03/21/18 19:14:25 Dionex System	SYSTEM1	SYS	PLUGIN
+03/21/18 19:14:25 Call: GetAllInstrumentList(Category: 5)
+03/21/18 19:14:25 Call: GetAllInstrumentList(Category: 6)
+03/21/18 19:14:25 Call: GetAllInstrumentList(Category: 7)
+03/21/18 19:14:25 HCT/esquire series	MS1	MS	LAN
+03/21/18 19:14:25 Call: GetAllInstrumentList(Category: 8)
+03/21/18 19:14:25 Call: GetAllInstrumentList(Category: 9)
+03/21/18 19:14:25 Call: GetAllInstrumentList(Category: 10)
+03/21/18 19:14:25 Call: GetAllInstrumentList(Category: 11)
+03/21/18 19:14:25 Call: GetAllInstrumentList(Category: 12)
+03/21/18 19:14:25 Call: GetAllInstrumentList(Category: 13)
+03/21/18 19:14:25 Call: GetAllInstrumentList(Category: 14)
+03/21/18 19:14:25 Call: GetAllInstrumentList(Category: 15)
+03/21/18 19:14:25 GetLCColumnPort: 
+03/21/18 19:14:25 Call: GetAllInstrumentList(Category: 0)
+03/21/18 19:14:25 Dionex System	SYSTEM1	PUMP	PLUGIN
+03/21/18 19:14:25 Call: GetAllInstrumentList(Category: 1)
+03/21/18 19:14:25 Dionex System	SYSTEM1	ALS	PLUGIN
+03/21/18 19:14:25 Call: GetAllInstrumentList(Category: 2)
+03/21/18 19:14:25 Call: GetAllInstrumentList(Category: 3)
+03/21/18 19:14:25 Dionex System	SYSTEM1	DET	PLUGIN
+03/21/18 19:14:25 Call: GetAllInstrumentList(Category: 4)
+03/21/18 19:14:25 Dionex System	SYSTEM1	SYS	PLUGIN
+03/21/18 19:14:25 Call: GetAllInstrumentList(Category: 5)
+03/21/18 19:14:25 Call: GetAllInstrumentList(Category: 6)
+03/21/18 19:14:25 Call: GetAllInstrumentList(Category: 7)
+03/21/18 19:14:25 HCT/esquire series	MS1	MS	LAN
+03/21/18 19:14:25 Call: GetAllInstrumentList(Category: 8)
+03/21/18 19:14:25 Call: GetAllInstrumentList(Category: 9)
+03/21/18 19:14:25 Call: GetAllInstrumentList(Category: 10)
+03/21/18 19:14:25 Call: GetAllInstrumentList(Category: 11)
+03/21/18 19:14:25 Call: GetAllInstrumentList(Category: 12)
+03/21/18 19:14:25 Call: GetAllInstrumentList(Category: 13)
+03/21/18 19:14:25 Call: GetAllInstrumentList(Category: 14)
+03/21/18 19:14:25 Call: GetAllInstrumentList(Category: 15)
+03/21/18 19:14:28 Call: GetAllInstrumentList(Category: 7)
+03/21/18 19:14:28 HCT/esquire series	MS1	MS	LAN
+03/21/18 19:14:28 Call: GetPluginSettings: Dionex System	SYSTEM1	PUMP	PLUGIN
+03/21/18 19:37:14 Call: GetAllInstrumentList(Category: 0)
+03/21/18 19:37:14 Dionex System	SYSTEM1	PUMP	PLUGIN
+03/21/18 19:37:14 Call: GetAllInstrumentList(Category: 1)
+03/21/18 19:37:14 Dionex System	SYSTEM1	ALS	PLUGIN
+03/21/18 19:37:14 Call: GetAllInstrumentList(Category: 11)
+03/21/18 19:37:14 Call: GetAllInstrumentList(Category: 3)
+03/21/18 19:37:14 Dionex System	SYSTEM1	DET	PLUGIN
+03/21/18 19:37:14 Call: GetAllInstrumentList(Category: 3)
+03/21/18 19:37:14 Dionex System	SYSTEM1	DET	PLUGIN
+03/21/18 19:37:14 Call: GetAllInstrumentList(Category: 3)
+03/21/18 19:37:14 Dionex System	SYSTEM1	DET	PLUGIN
+03/21/18 19:37:14 Call: GetAllInstrumentList(Category: 5)
+03/21/18 19:37:14 Call: GetAllInstrumentList(Category: 5)
+03/21/18 19:37:14 Call: GetAllInstrumentList(Category: 6)
+03/21/18 19:37:14 Call: GetAllInstrumentList(Category: 7)
+03/21/18 19:37:14 HCT/esquire series	MS1	MS	LAN
+03/21/18 19:37:14 Call: GetAllInstrumentList(Category: 8)
+03/22/18 11:57:19 Call: GetAllInstrumentList(Category: 11)
+03/22/18 11:57:19 Call: GetAllInstrumentList(Category: 5)
+03/22/18 11:57:21 Call: GetAllInstrumentList(Category: 5)
+############# Bruker Hardwaresetup #############
+04/12/18 11:18:43 The software was started
+04/12/18 11:18:43 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+04/12/18 11:18:43 Start InitInstance
+04/12/18 11:18:43 CInstrSetupCtrl::CInstrSetupCtrl()
+04/12/18 11:18:44 CInstrSetupCtrl::CInstrSetupCtrl()
+04/12/18 11:18:44 CInstrSetupCtrl::CInstrSetupCtrl()
+04/12/18 11:19:33 CInstrSetupCtrl::CInstrSetupCtrl()
+04/12/18 11:20:33 CInstrSetupCtrl::~CInstrSetupCtrl()
+############# Bruker Hardwaresetup #############
+04/17/18 13:00:37 The software was started
+04/17/18 13:00:37 $Revision: 1.29 $ 11:00:34 on Mar 19 2007
+04/17/18 13:00:37 Start InitInstance
+04/17/18 13:00:37 CInstrSetupCtrl::CInstrSetupCtrl()
+04/17/18 13:00:37 CInstrSetupCtrl::CInstrSetupCtrl()
+04/17/18 13:00:37 CInstrSetupCtrl::CInstrSetupCtrl()
