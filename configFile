@@ -1,7 +1,7 @@
 [FILES]
-LastLineFile = /home/luke/Documents/001-lentle26/linefile.csv
+LastLineFile = /home/luke/LabLogParser/LastLineParsed.csv
 ;The location of the file that will keep track of the last time parsed of each file
-Path = /home/luke/ELK-MS/example-logs/hystar-logs/
+Path = /home/luke/LabLogParser/Example Logs to Parse/hystar-logs/HyStarErrLogbook.log
 ;The file or folder of files to be parsed.  If it ends with a / it will parse the folder
 FileExtension = .log
 ;Optional: Only parse files with this extension 
