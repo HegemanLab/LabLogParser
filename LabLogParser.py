@@ -104,7 +104,6 @@ def parseFile(pattern, fileName, line):
 	parsedLogs = []														#Create a empty list to hold the parsed logs
 	for i in range(line):												#Ignore the first (line) lines of the file
 		next(dataFile, None)
-	r = re.compile(pattern)
 	parsedLogs = [m.groupdict() for m in re.finditer(pattern,dataFile.read(),re.UNICODE | re.MULTILINE)]
 	filePosUpdate(fileName, file_len(fileName))							#call a function that will adjust the line on the current file.
 	dataFile.close()
