@@ -3,11 +3,11 @@
 #
 # Made on: 8/6/2019
 # 
-# Last Updated on: 8/12/2019
+# Last Updated on: 8/13/2019
 #
 # A Program to parse logs and uploads the results to a influxdb database.
 #
-# Uses the re, os.path, sys, datetime, and influxdb libraries
+# Uses the re, os, sys, configparser, datetime, socket, and influxdb libraries
 #
 #******************************************************************************************
 
@@ -23,11 +23,11 @@ from influxdb import InfluxDBClient
 from datetime import datetime
 #Used to get all the files in a directory
 from os import listdir
-
+#Used to check if a file exists
 from os.path import isfile, join
 #Library used to include the host name
 import socket
-
+#Used to parse configuration files
 from configparser import ConfigParser
 
 #Global variables parsed from configuration file
@@ -44,15 +44,12 @@ MEASUREMENT = ""
 
 
 #*** main *********************************************************************************
-# The program parses logs 
+# The function calls functions to parse files
 # 
-# The function calls the function to parse the configuration file and then calls the function
-# to output the result to influxdb with the results of the formatOutput function which is called
-# pattern to parse the file to parse and the last line parsed from the line file.
+# The function calls the function to parse the configuration file for each config file passed
+# as an argument.  It then calls fileSelector.
 #
-# Prints the parased logs to stdout.  The end goal is sending it to a influxdb database.
-#
-# Uses the sys, os.path, and listdir libraries
+# Uses the os.path and sys libraries
 #
 #******************************************************************************************
 def main():
@@ -61,12 +58,24 @@ def main():
 		fileSelector()
 	else:																#Parse the file provided.
 		n = 1
-		while(n < len(sys.argv)):
-			parseConfigFile(sys.argv[n])
-			fileSelector()
+		while(n < len(sys.argv)):										#For each config file passed
+			parseConfigFile(sys.argv[n])								#Parse the config file
+			fileSelector()												#Run the parser based on the config file's settings
 			n += 1
 
 
+#*** fileSelector *************************************************************************
+# The program selects a file to parse and then calls functions to parse them, format them, and output them
+# 
+# The function calls the function to parse the configuration file and then calls the function
+# to output the result to influxdb with the results of the formatOutput function which is called
+# pattern to parse the file to parse and the last line parsed from the line file.
+#
+# Prints the parased logs to stdout.  The end goal is sending it to a influxdb database.
+#
+# Uses the os.path, and listdir libraries
+#
+#******************************************************************************************
 def fileSelector():
 	if(FILE_NAME[len(FILE_NAME)-1] == '/'):								#If the path is a folder instead of a file
 		filesToParse = [f for f in listdir(FILE_NAME) if isfile(join(FILE_NAME, f))]#Get all the files in the folder
@@ -286,7 +295,6 @@ def influxDBOutput(formattedLogs):
 	client = InfluxDBClient(host=HOST, port=PORT)						#Connect to the influxdb database located at the location provided by the config file
 	client.create_database(DATABASE)									#Create the database, if it already exists nothing happens
 	client.switch_database(DATABASE)									#Switch to the database
-	print(formattedLogs)
 	client.write_points(formattedLogs,batch_size=5000)						#Write the dictionaries one at a time to the database
 
 
