@@ -58,9 +58,16 @@ MEASUREMENT = ""
 def main():
 	if(len(sys.argv) == 1):												#If the doesn't provide an argument use a configFile in the same directory
 		parseConfigFile(os.path.join(os.path.dirname(__file__), "configFile"))
+		fileSelector()
 	else:																#Parse the file provided.
-		parseConfigFile(sys.argv[1])
+		n = 1
+		while(n < len(sys.argv)):
+			parseConfigFile(sys.argv[n])
+			fileSelector()
+			n += 1
 
+
+def fileSelector():
 	if(FILE_NAME[len(FILE_NAME)-1] == '/'):								#If the path is a folder instead of a file
 		filesToParse = [f for f in listdir(FILE_NAME) if isfile(join(FILE_NAME, f))]#Get all the files in the folder
 		for files in filesToParse:										#For every file parse it
@@ -90,7 +97,6 @@ def parseFile(pattern, fileName, line):
 		next(dataFile, None)
 	r = re.compile(pattern)
 	parsedLogs = [m.groupdict() for m in re.finditer(pattern,dataFile.read(),re.UNICODE | re.MULTILINE)]
-	print(parsedLogs)
 	filePosUpdate(fileName, file_len(fileName))							#call a function that will adjust the line on the current file.
 	dataFile.close()
 	return parsedLogs
@@ -280,6 +286,7 @@ def influxDBOutput(formattedLogs):
 	client = InfluxDBClient(host=HOST, port=PORT)						#Connect to the influxdb database located at the location provided by the config file
 	client.create_database(DATABASE)									#Create the database, if it already exists nothing happens
 	client.switch_database(DATABASE)									#Switch to the database
+	print(formattedLogs)
 	client.write_points(formattedLogs,batch_size=5000)						#Write the dictionaries one at a time to the database
 
 
