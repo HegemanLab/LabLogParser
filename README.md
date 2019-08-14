@@ -4,6 +4,7 @@ A log processor made in python designed to parse logs and send them to an Influx
 ### Requirements
 * Python3
 ## Roadmap
+* Add timezone in config file and convert timestamp to UTC.
 * Add support for files with Unicode
 * Add configuration file instruction page in github
 * Add Docstrings to source code
