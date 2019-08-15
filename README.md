@@ -14,7 +14,7 @@ Run LabLogParser by using the LLP command followed by all the configuration file
 LLP [/path/to/configFile] [/path/to/configFile]
 ```
 ## Roadmap
-* Add timezone in config file and convert timestamp to UTC.
+* Add option to specify timezone in config file and convert timestamp to UTC.  (How should daylight savings be handled?)
 * Add support for files with Unicode
 * Add configuration file instruction page in github
 * Format code with python black
