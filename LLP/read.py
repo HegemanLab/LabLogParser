@@ -14,7 +14,7 @@ import LLP.format
 import LLP.parse
 #The functions to update and retrieve last line parsed from a file
 import LLP.filepos
-
+import time
 
 def fileSelector(configs):
 	"""
@@ -83,7 +83,15 @@ def parseConfigFile(configFileLoc):
 		configurations["Measurement"] = config.get('INFLUXDB','Measurement')
 		if(config.has_option('PARSER', 'TimestampPattern')):			#If a timestamp pattern is given
 			configurations["TimestampPattern"] = config.get('PARSER', 'TimestampPattern')#Set the timestamp pattern
+		if(config.has_option('PARSER', 'Timezone')):			#If a timestamp pattern is given
+			if(config.get('PARSER', 'Timezone') == "local"):			
+				configurations["Timezone"] = ((time.timezone if (time.localtime().tm_isdst == 0) else time.altzone) / 60 / 60 * -1)
+			else:
+				configurations["Timezone"] = 0
+		else:
+			configurations["Timezone"] = 0
 		return configurations
 	else:																#If the config file doesn't exist error out
+		print(configFileLoc)
 		print("Error, can not find configuration file.")
 		exit()

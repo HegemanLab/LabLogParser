@@ -3,7 +3,7 @@ from datetime import datetime
 #Library used to include the host name
 import socket
 
-
+from datetime import timedelta
 
 def formatOutput(parsedLogs, path, configs):
 	"""
@@ -42,12 +42,14 @@ def formatOutput(parsedLogs, path, configs):
 				tags.update({key:float(logs[key])})						#Add the field name and the value to the dictionary, type cast it as a float to make it a float
 			elif(dataType == "timestamp"):
 				timestamp = datetime.strptime(logs[key], configs["TimestampPattern"])#Convert the string to a timestamp based on the timestamp pattern given
+				timestamp = timestamp + timedelta(hours=int(configs["Timezone"]))
 				log.update({"time":timestamp.strftime("%Y-%m-%dT%H:%M:%S.%fZ")})#Add the timestamp to the log dictionary
 				timestampExists = True									#Keep track if a timestamp was added
 			elif(dataType != "drop"):
 				fields.update({key:logs[key]})							#Add the field name and the value to the dictionary
 		if(timestampExists == False):									#InfluxDB's write_point function doesn't work properly when writing points that don't have timestamps in batches
-			currentDT = datetime.now()									#To work around this, I'm adding the current time as the timestamp, which is what influx would do anyway
+			currentDT = datetime.utcnow()								#To work around this, I'm adding the current time as the timestamp, which is what influx would do anyway
+			
 			log.update({"time":currentDT.strftime("%Y-%m-%dT%H:%M:%S.%fZ")})#Has to be microseconds since this is done so quickly otherwise all logs would have the exact same time
 		tags.update({"path":path})										#Add the path to the tag dictionary
 		tags.update({"host":socket.gethostname()})						#Add the host to the tag dictionary
