@@ -1,5 +1,7 @@
 #Used for converting string to timestamp
 from datetime import datetime
+#Used for determining if DLS is on or off
+import pytz
 #Library used to include the host name
 import socket
 
@@ -23,7 +25,7 @@ def formatOutput(parsedLogs, path, configs):
 	List: A list of dictionaries, each containing the measurement and a dictionary of fields
 
 	Libraries:
-	Uses the library socket and datetime
+	Uses the library socket, pytz, and datetime
 	"""
 	formattedLogs = []
 	for logs in parsedLogs:												#For each log in the list
@@ -42,7 +44,7 @@ def formatOutput(parsedLogs, path, configs):
 				tags.update({key:float(logs[key])})						#Add the field name and the value to the dictionary, type cast it as a float to make it a float
 			elif(dataType == "timestamp"):
 				timestamp = datetime.strptime(logs[key], configs["TimestampPattern"])#Convert the string to a timestamp based on the timestamp pattern given
-				timestamp = timestamp + timedelta(hours=int(configs["Timezone"]))
+				timestamp = timestamp + timedelta(hours=int(datetime.now(pytz.timezone(configs["Timezone"])).strftime('%z'))/100)
 				log.update({"time":timestamp.strftime("%Y-%m-%dT%H:%M:%S.%fZ")})#Add the timestamp to the log dictionary
 				timestampExists = True									#Keep track if a timestamp was added
 			elif(dataType != "drop"):

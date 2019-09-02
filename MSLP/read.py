@@ -6,6 +6,9 @@ from os.path import isfile, join
 from configparser import ConfigParser
 #Used to get all the files in a directory
 from os import listdir
+import pytz
+
+from tzlocal import get_localzone 
 #The functions for writing to the influxDB database
 import MSLP.write
 #The functions for formatting output for writing
@@ -83,11 +86,11 @@ def parseConfigFile(configFileLoc):
 		configurations["Measurement"] = config.get('INFLUXDB','Measurement')
 		if(config.has_option('PARSER', 'TimestampPattern')):			#If a timestamp pattern is given
 			configurations["TimestampPattern"] = config.get('PARSER', 'TimestampPattern')#Set the timestamp pattern
-		if(config.has_option('PARSER', 'Timezone')):			#If a timestamp pattern is given
+		if(config.has_option('PARSER', 'Timezone')):					#If a timestamp pattern is given
 			if(config.get('PARSER', 'Timezone') == "local"):			
-				configurations["Timezone"] = ((time.timezone if (time.localtime().tm_isdst == 0) else time.altzone) / 60 / 60 * -1)
+				configurations["Timezone"] = get_localzone()
 			else:
-				configurations["Timezone"] = 0
+				configurations["Timezone"] = config.get('PARSER', 'Timezone')
 		else:
 			configurations["Timezone"] = 0
 		return configurations
