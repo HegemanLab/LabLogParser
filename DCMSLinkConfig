@@ -1,0 +1,34 @@
+[FILES]
+LastLineFile = /home/luke/MassSpecLogParser/LastLineParsedDCMS.csv
+;The location of the file that will keep track of the last time parsed of each file
+Path = /home/luke/MassSpecLogParser/Example Logs to Parse/DCMSLink-Logfiles/DCMSLink_for_HyStar_Dump_2018-04-14.log
+;The file or folder of files to be parsed.  If it ends with a / it will parse the folder
+FileExtension = .log
+;Optional: Only parse files with this extension 
+
+
+[PARSER]
+;02:15:39,050	SetMonitorTimeToZero() - call ignored!
+Pattern = (?P<time>[0-2]\d:[0-6]\d:[0-6]\d,\d\d\d)\t(?P<message>[\w\s.!:>'.,()\\-]*)
+;The pattern to parse files with. Name all captures. Uses the re python rules for regular expressions.
+;https://docs.python.org/3/library/re.html
+FieldNames = time:time,message:field,ErrorCode:tag
+;The name of the fields and the type, separated by a colon
+Time = %%H:%%M:%%S,%%f
+;Optional: The pattern to parse timestamps with.  Uses the datetime python rules for timestamp parsing
+;https://docs.python.org/3/library/datetime.html
+;Percent signs must be escaped with an additional percent sign e.g. %%m
+Timezone: US/Central
+;Timezone, use "local" to use the machine's timezone.  You can specify any other timezone from the pytz list.
+;https://stackoverflow.com/questions/13866926/is-there-a-list-of-pytz-timezones
+
+[FILENAME_PARSE]
+Pattern = "DCMSLink_for_HyStar_Dump_(?P<date>20[0-9][0-9]-[0-1][0-9]-[0-2][0-9]).log"
+FieldNames = date:date
+datepattern = %%y-%%m-%%d
+
+[INFLUXDB]
+Host = localhost
+Port = 8086
+Database = DCMS
+Measurement = logs

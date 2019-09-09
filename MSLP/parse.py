@@ -23,6 +23,7 @@ def parseFile(pattern, fileName, line, LastLineFile):
 	Libraries:
 	Uses the library re and LLP.filepos
 	"""
+
 	dataFile = open(fileName, encoding="utf8", errors='ignore')
 	parsedLogs = []														#Create a empty list to hold the parsed logs
 	for i in range(line):												#Ignore the first (line) lines of the file

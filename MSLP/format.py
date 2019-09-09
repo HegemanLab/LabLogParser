@@ -4,6 +4,8 @@ from datetime import datetime
 import pytz
 #Library used to include the host name
 import socket
+#The regular expression library used for the parser
+import re
 
 from datetime import timedelta
 
@@ -28,9 +30,19 @@ def formatOutput(parsedLogs, path, configs):
 	Uses the library socket, pytz, and datetime
 	"""
 	formattedLogs = []
+	filenameparsed = []
+	if("FilenamePattern" in configs.keys()):
+		filenameparsed = re.find(configs["FilenamePattern"],path,re.UNICODE)
+		print(filenameparsed)
+		for i in parsedLogs:
+			for key in filenameparsed.keys():
+				i[key] = filenameparsed[key]
+	print(parsedLogs)
 	for logs in parsedLogs:												#For each log in the list
 		log = {}														#Create a dictionary for the log
 		log.update({"measurement":configs["Measurement"]})				#Add the measurement to the dictionary
+		if(parsedLogs != []):
+			logs.keys().appe
 		timestampExists = False											#Keep track if a timestamp was added
 		fields = {}														#Create a dictionary for the fields
 		tags = {}
@@ -41,7 +53,14 @@ def formatOutput(parsedLogs, path, configs):
 			elif(dataType == "int"):
 				tags.update({key:str(logs[key]+'i')})					#Add the field name and the value to the field dictionary, append an i at the end to make it an int
 			elif(dataType == "float"):
-				tags.update({key:float(logs[key])})						#Add the field name and the value to the dictionary, type cast it as a float to make it a float
+				tags.update({key:str(logs[key]+'i')})					#Add the field name and the value to the field dictionary, append an i at the end to make it an int
+			elif(dataType == "time"):
+				time = datetime.strptime(logs[key], configs["TimePattern"])#Convert the string to a timestamp based on the timestamp pattern given
+				time = timestamp + timedelta(hours=int(datetime.now(pytz.timezone(configs["Timezone"])).strftime('%z'))/100)
+				time = "%M:%S.%fZ"										#Add the timestamp to the log dictionary
+				
+				timestampExists = True									#Keep track if a timestamp was added
+	
 			elif(dataType == "timestamp"):
 				timestamp = datetime.strptime(logs[key], configs["TimestampPattern"])#Convert the string to a timestamp based on the timestamp pattern given
 				timestamp = timestamp + timedelta(hours=int(datetime.now(pytz.timezone(configs["Timezone"])).strftime('%z'))/100)
