@@ -32,17 +32,13 @@ def formatOutput(parsedLogs, path, configs):
 	formattedLogs = []
 	filenameparsed = []
 	if("FilenamePattern" in configs.keys()):
-		filenameparsed = re.find(configs["FilenamePattern"],path,re.UNICODE)
-		print(filenameparsed)
-		for i in parsedLogs:
-			for key in filenameparsed.keys():
-				i[key] = filenameparsed[key]
-	print(parsedLogs)
+		filenameparsed = [m.groupdict() for m in re.finditer(configs["FilenamePattern"],path[path.rindex('/')+1:])]
 	for logs in parsedLogs:												#For each log in the list
 		log = {}														#Create a dictionary for the log
 		log.update({"measurement":configs["Measurement"]})				#Add the measurement to the dictionary
-		if(parsedLogs != []):
-			logs.keys().appe
+		if(filenameparsed != []):
+			logs = Merge(filenameparsed[0],logs)
+		print(logs)
 		timestampExists = False											#Keep track if a timestamp was added
 		fields = {}														#Create a dictionary for the fields
 		tags = {}
@@ -54,13 +50,6 @@ def formatOutput(parsedLogs, path, configs):
 				tags.update({key:str(logs[key]+'i')})					#Add the field name and the value to the field dictionary, append an i at the end to make it an int
 			elif(dataType == "float"):
 				tags.update({key:str(logs[key]+'i')})					#Add the field name and the value to the field dictionary, append an i at the end to make it an int
-			elif(dataType == "time"):
-				time = datetime.strptime(logs[key], configs["TimePattern"])#Convert the string to a timestamp based on the timestamp pattern given
-				time = timestamp + timedelta(hours=int(datetime.now(pytz.timezone(configs["Timezone"])).strftime('%z'))/100)
-				time = "%M:%S.%fZ"										#Add the timestamp to the log dictionary
-				
-				timestampExists = True									#Keep track if a timestamp was added
-	
 			elif(dataType == "timestamp"):
 				timestamp = datetime.strptime(logs[key], configs["TimestampPattern"])#Convert the string to a timestamp based on the timestamp pattern given
 				timestamp = timestamp + timedelta(hours=int(datetime.now(pytz.timezone(configs["Timezone"])).strftime('%z'))/100)
@@ -78,6 +67,11 @@ def formatOutput(parsedLogs, path, configs):
 		log.update({"tags":tags})										#Add the tags dictionary to the log dictionary
 		formattedLogs.append(log)										#Add the log dictionary to the list
 	return formattedLogs
+
+
+def Merge(dict1, dict2): 
+	res = {**dict1, **dict2} 
+	return res 
 
 
 def dataTyper(key,fields):
