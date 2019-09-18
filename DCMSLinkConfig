@@ -9,23 +9,24 @@ FileExtension = .log
 
 [PARSER]
 ;02:15:39,050	SetMonitorTimeToZero() - call ignored!
-Pattern = (?P<time>[0-2]\d:[0-6]\d:[0-6]\d,\d\d\d)\t(?P<message>[\w\s.!:>'.,()\\-]*)
+Pattern = (?P<time>[0-2][0-9]:[0-6][0-9]:[0-6][0-9],[0-9][0-9][0-9])\t(?P<message>[\w\t .!:>'.,()\\-]*)
 ;The pattern to parse files with. Name all captures. Uses the re python rules for regular expressions.
 ;https://docs.python.org/3/library/re.html
-FieldNames = time:time,message:field,ErrorCode:tag
+FieldNames = time:time,message:field
 ;The name of the fields and the type, separated by a colon
-Time = %%H:%%M:%%S,%%f
+TimeStampPattern = %%Y-%%m-%%d%%H:%%M:%%S,%%f
 ;Optional: The pattern to parse timestamps with.  Uses the datetime python rules for timestamp parsing
 ;https://docs.python.org/3/library/datetime.html
 ;Percent signs must be escaped with an additional percent sign e.g. %%m
+;If time and date are separate in your file, timestamp pattern will be your time pattern followed by your date pattern.
 Timezone: US/Central
 ;Timezone, use "local" to use the machine's timezone.  You can specify any other timezone from the pytz list.
 ;https://stackoverflow.com/questions/13866926/is-there-a-list-of-pytz-timezones
 
 [FILENAME_PARSE]
-Pattern = "DCMSLink_for_HyStar_Dump_(?P<date>20[0-9][0-9]-[0-1][0-9]-[0-2][0-9]).log"
+Pattern = (?P<date>[0-9][0-9][0-9][0-9]\-[0-1][0-9]\-[0-2][0-9])
 FieldNames = date:date
-datepattern = %%y-%%m-%%d
+
 
 [INFLUXDB]
 Host = localhost

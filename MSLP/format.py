@@ -38,10 +38,10 @@ def formatOutput(parsedLogs, path, configs):
 		log.update({"measurement":configs["Measurement"]})				#Add the measurement to the dictionary
 		if(filenameparsed != []):
 			logs = Merge(filenameparsed[0],logs)
-		print(logs)
 		timestampExists = False											#Keep track if a timestamp was added
 		fields = {}														#Create a dictionary for the fields
 		tags = {}
+		dateTimeFlag = [False]
 		for key in logs.keys():
 			dataType = dataTyper(key,configs["Fields"])
 			if(dataType == "tag"):
@@ -50,6 +50,32 @@ def formatOutput(parsedLogs, path, configs):
 				tags.update({key:str(logs[key]+'i')})					#Add the field name and the value to the field dictionary, append an i at the end to make it an int
 			elif(dataType == "float"):
 				tags.update({key:str(logs[key]+'i')})					#Add the field name and the value to the field dictionary, append an i at the end to make it an int
+			elif(dataType == "date"):
+				if(dateTimeFlag[0] == False):
+					dT = dataTyper(key,configs["Fields"])						
+					for key in logs.keys():
+						if(key == "time"):
+							dateTimeFlag[0] = True
+							timestamp = logs["date"] + logs["time"]
+							timestamp = datetime.strptime(logs[key], configs["TimestampPattern"])#Convert the string to a timestamp based on the timestamp pattern given
+							timestamp = timestamp + timedelta(hours=int(datetime.now(pytz.timezone(configs["Timezone"])).strftime('%z'))/100)
+							log.update({"time":timestamp.strftime("%Y-%m-%dT%H:%M:%S.%fZ")})#Add the timestamp to the log dictionary
+							timestampExists = True						#Keep track if a timestamp was added
+				if(dateTimeFlag[0] == False):
+					fields.update({key:logs[key]})							#Add the field name and the value to the dictionary
+			elif(dataType == "time"):
+				if(dateTimeFlag[0] == False):
+					dT = dataTyper(key,configs["Fields"])						
+					for key in logs.keys():
+						if(key == "date"):
+							dateTimeFlag[0] = True
+							timestamp = logs["date"] + logs["time"]
+							timestamp = datetime.strptime(timestamp, configs["TimestampPattern"])#Convert the string to a timestamp based on the timestamp pattern given
+							timestamp = timestamp + timedelta(hours=int(datetime.now(pytz.timezone(configs["Timezone"])).strftime('%z'))/100)
+							log.update({"time":timestamp.strftime("%Y-%m-%dT%H:%M:%S.%fZ")})#Add the timestamp to the log dictionary
+							timestampExists = True						#Keep track if a timestamp was added
+				if(dateTimeFlag[0] == False):
+					fields.update({key:logs[key]})							#Add the field name and the value to the dictionary
 			elif(dataType == "timestamp"):
 				timestamp = datetime.strptime(logs[key], configs["TimestampPattern"])#Convert the string to a timestamp based on the timestamp pattern given
 				timestamp = timestamp + timedelta(hours=int(datetime.now(pytz.timezone(configs["Timezone"])).strftime('%z'))/100)

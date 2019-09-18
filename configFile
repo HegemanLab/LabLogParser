@@ -1,14 +1,14 @@
 [FILES]
-LastLineFile = /home/luke/LabLogParser/LastLineParsed.csv
+LastLineFile = /home/luke/MassSpecLogParser/LastLineParsed.csv
 ;The location of the file that will keep track of the last time parsed of each file
-Path = /home/luke/LabLogParser/Example Logs to Parse/hystar-logs/HyStarErrLogbook.log
+Path = /home/luke/MassSpecLogParser/Example Logs to Parse/hystar-logs/
 ;The file or folder of files to be parsed.  If it ends with a / it will parse the folder
 FileExtension = .log
 ;Optional: Only parse files with this extension 
 
 
 [PARSER]
-Pattern = (?P<time>[0-1][0-9]\/[0-3][0-9]\/[0-9][0-9] [0-2][0-9]:[0-6][0-9]:[0-6][0-9]) (?P<message>[\w\s.!:>'.,()\\-]*( Error #(?P<ErrorCode>\d+) )?[\w\s.!:<>'.,()\\-]*)\n
+Pattern = (?P<time>[0-1]\d\/[0-3]\d\/\d\d [0-2]\d:[0-6]\d:[0-5]\d) (?P<message>[\w\s.!:>'.,()\\-]*( Error #(?P<ErrorCode>\d+) )?[\w\s.!:<>'.,()\\-]*)\n
 ;The pattern to parse files with. Name all captures. Uses the re python rules for regular expressions.
 ;https://docs.python.org/3/library/re.html
 FieldNames = time:timestamp,message:field,ErrorCode:tag
@@ -17,6 +17,9 @@ TimestampPattern = %%m/%%d/%%y %%H:%%M:%%S
 ;Optional: The pattern to parse timestamps with.  Uses the datetime python rules for timestamp parsing
 ;https://docs.python.org/3/library/datetime.html
 ;Percent signs must be escaped with an additional percent sign e.g. %%m
+Timezone: US/Central
+;Timezone, use "local" to use the machine's timezone.  You can specify any other timezone from the pytz list.
+;https://stackoverflow.com/questions/13866926/is-there-a-list-of-pytz-timezones
 
 
 [INFLUXDB]

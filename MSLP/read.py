@@ -86,8 +86,6 @@ def parseConfigFile(configFileLoc):
 		configurations["Measurement"] = config.get('INFLUXDB','Measurement')
 		if(config.has_option('PARSER', 'TimestampPattern')):			#If a timestamp pattern is given
 			configurations["TimestampPattern"] = config.get('PARSER', 'TimestampPattern')#Set the timestamp pattern
-		if(config.has_option('PARSER', 'TimePattern')):					#If a time pattern is given
-			configurations["TimePattern"] = config.get('PARSER', 'TimePattern')#Set the time pattern
 		if(config.has_option('FILENAME_PARSE','pattern')):						#If the file name needs to be parsed.
 			configurations["FilenamePattern"] = config.get('FILENAME_PARSE', 'Pattern')#Set the time pattern
 			fn = config.get('FILENAME_PARSE','FieldNames')				#In the configuration file datatype is stored in a comma separated list
