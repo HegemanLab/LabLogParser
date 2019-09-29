@@ -31,19 +31,21 @@ def formatOutput(parsedLogs, path, configs):
 	"""
 	formattedLogs = []
 	filenameparsed = []
-	if("FilenamePattern" in configs.keys()):
+	if("FilenamePattern" in configs.keys()):							#If a pattern is defined to parse the file name
 		filenameparsed = [m.groupdict() for m in re.finditer(configs["FilenamePattern"],path[path.rindex('/')+1:])]
+		configs["Fields"] += configs["FileNameFields"]					#Add the datatype of the fields from the filename to the list
+
 	for logs in parsedLogs:												#For each log in the list
 		log = {}														#Create a dictionary for the log
 		log.update({"measurement":configs["Measurement"]})				#Add the measurement to the dictionary
-		if(filenameparsed != []):
-			logs = Merge(filenameparsed[0],logs)
+
+		if(filenameparsed != []):										#Check if there's filename fields
+			logs = Merge(filenameparsed[0],logs)						#If there is, add the filename fields to every log
 		timestampExists = False											#Keep track if a timestamp was added
 		fields = {}														#Create a dictionary for the fields
 		tags = {}
-		dateTimeFlag = [False]
 		for key in logs.keys():
-			dataType = dataTyper(key,configs["Fields"])
+			dataType = dataTyper(key,configs["Fields"])					#Get the data type of the key
 			if(dataType == "tag"):
 				tags.update({key:logs[key]})							#Add the tag name and the value to the tag dictionary
 			elif(dataType == "int"):
@@ -51,31 +53,31 @@ def formatOutput(parsedLogs, path, configs):
 			elif(dataType == "float"):
 				tags.update({key:str(logs[key]+'i')})					#Add the field name and the value to the field dictionary, append an i at the end to make it an int
 			elif(dataType == "date"):
-				if(dateTimeFlag[0] == False):
-					dT = dataTyper(key,configs["Fields"])						
-					for key in logs.keys():
-						if(key == "time"):
-							dateTimeFlag[0] = True
-							timestamp = logs["date"] + logs["time"]
-							timestamp = datetime.strptime(logs[key], configs["TimestampPattern"])#Convert the string to a timestamp based on the timestamp pattern given
-							timestamp = timestamp + timedelta(hours=int(datetime.now(pytz.timezone(configs["Timezone"])).strftime('%z'))/100)
-							log.update({"time":timestamp.strftime("%Y-%m-%dT%H:%M:%S.%fZ")})#Add the timestamp to the log dictionary
-							timestampExists = True						#Keep track if a timestamp was added
-				if(dateTimeFlag[0] == False):
-					fields.update({key:logs[key]})							#Add the field name and the value to the dictionary
-			elif(dataType == "time"):
-				if(dateTimeFlag[0] == False):
-					dT = dataTyper(key,configs["Fields"])						
-					for key in logs.keys():
-						if(key == "date"):
-							dateTimeFlag[0] = True
-							timestamp = logs["date"] + logs["time"]
+				if(timestampExists == False):							#Check if a timestamp has already been added.
+					for keyT in logs.keys():
+						dT = dataTyper(keyT,configs["Fields"])			#Search through the field names for a time field
+						if(dT == "time"):	
+							timestampExists = True						#Once time is found construct a timestamp from time and date
+							timestamp = logs[key] + logs[keyT]
 							timestamp = datetime.strptime(timestamp, configs["TimestampPattern"])#Convert the string to a timestamp based on the timestamp pattern given
 							timestamp = timestamp + timedelta(hours=int(datetime.now(pytz.timezone(configs["Timezone"])).strftime('%z'))/100)
 							log.update({"time":timestamp.strftime("%Y-%m-%dT%H:%M:%S.%fZ")})#Add the timestamp to the log dictionary
 							timestampExists = True						#Keep track if a timestamp was added
-				if(dateTimeFlag[0] == False):
-					fields.update({key:logs[key]})							#Add the field name and the value to the dictionary
+				if(timestampExists == False):
+					fields.update({key:logs[key]})						#If it's just a date with no time, just add date as a field
+			elif(dataType == "time"):
+				if(timestampExists == False):							#Check if a timestamp has already been added.
+					for keyD in logs.keys():
+						dT = dataTyper(keyD,configs["Fields"])			#Search for the date field		
+						if(dT == "date"):
+							timestampExists = True						#If the date is found construct a timestamp with time and date
+							timestamp = logs[keyD] + logs[key]
+							timestamp = datetime.strptime(timestamp, configs["TimestampPattern"])#Convert the string to a timestamp based on the timestamp pattern given
+							timestamp = timestamp + timedelta(hours=int(datetime.now(pytz.timezone(configs["Timezone"])).strftime('%z'))/100)
+							log.update({"time":timestamp.strftime("%Y-%m-%dT%H:%M:%S.%fZ")})#Add the timestamp to the log dictionary
+							timestampExists = True						#Keep track if a timestamp was added
+				if(timestampExists == False):
+					fields.update({key:logs[key]})						#Add the field name and the value to the dictionary
 			elif(dataType == "timestamp"):
 				timestamp = datetime.strptime(logs[key], configs["TimestampPattern"])#Convert the string to a timestamp based on the timestamp pattern given
 				timestamp = timestamp + timedelta(hours=int(datetime.now(pytz.timezone(configs["Timezone"])).strftime('%z'))/100)
@@ -96,6 +98,20 @@ def formatOutput(parsedLogs, path, configs):
 
 
 def Merge(dict1, dict2): 
+	"""
+	A function that recieves two dictionaries and merges the two
+	
+	The function combines two dictionaries
+	
+	Parameters:
+	dict1 (dictionary): Dictionary 1
+	fields (dictionary): Dictionary 1
+	
+	Returns:
+	res: A dictionary containing the contents of dict1 and dict2
+	
+	Source: https://www.geeksforgeeks.org/python-merging-two-dictionaries/
+	"""
 	res = {**dict1, **dict2} 
 	return res 
 

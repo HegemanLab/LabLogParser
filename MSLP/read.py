@@ -86,11 +86,15 @@ def parseConfigFile(configFileLoc):
 		configurations["Measurement"] = config.get('INFLUXDB','Measurement')
 		if(config.has_option('PARSER', 'TimestampPattern')):			#If a timestamp pattern is given
 			configurations["TimestampPattern"] = config.get('PARSER', 'TimestampPattern')#Set the timestamp pattern
-		if(config.has_option('FILENAME_PARSE','pattern')):						#If the file name needs to be parsed.
+		if(config.has_option('FILENAME_PARSE','pattern')):				#If the file name needs to be parsed.
 			configurations["FilenamePattern"] = config.get('FILENAME_PARSE', 'Pattern')#Set the time pattern
-			fn = config.get('FILENAME_PARSE','FieldNames')				#In the configuration file datatype is stored in a comma separated list
-			field = fn.split(',')										#Make it into a list of fields followed by their type
-			configurations["FileNameFields"] = field					#Add the results to the configurations list
+			fn1 = config.get('FILENAME_PARSE','FieldNames')				#In the configuration file datatype is stored in a comma separated list
+			field1 = fn1.split(',')										#Make it into a list of fields followed by their type
+			n = 0
+			while(n < len(field1)):
+				field1[n] = field1[n].split(':')						#Split each field name and type into a list containing the name and type
+				n += 1			
+			configurations["FileNameFields"] = field1					#Add the results to the configurations list
 		if(config.has_option('PARSER', 'Timezone')):					#If a timestamp pattern is given
 			if(config.get('PARSER', 'Timezone') == "local"):			
 				configurations["Timezone"] = get_localzone()
