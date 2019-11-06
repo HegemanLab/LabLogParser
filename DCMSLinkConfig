@@ -1,7 +1,7 @@
 [FILES]
 LastLineFile = /home/luke/MassSpecLogParser/LastLineParsedDCMS.csv
 ;The location of the file that will keep track of the last time parsed of each file
-Path = /home/luke/MassSpecLogParser/Example Logs to Parse/DCMSLink-Logfiles/DCMSLink_for_HyStar_Dump_2018-04-14.log
+Path = /home/luke/MassSpecLogParser/Example Logs to Parse/DCMSLink-Logfiles/
 ;The file or folder of files to be parsed.  If it ends with a / it will parse the folder
 FileExtension = .log
 ;Optional: Only parse files with this extension 
