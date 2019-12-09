@@ -20,7 +20,6 @@ def main():
 	Uses the os.path and sys libraries
 	
 	"""
-	print((time.timezone if (time.localtime().tm_isdst == 0) else time.altzone) / 60 / 60 * -1)
 	if(len(sys.argv) == 1):												#If the doesn't provide an argument use a configFile in the same directory
 		configs = MSLP.read.parseConfigFile(os.path.join(os.path.dirname(__file__), "configFile"))
 		MSLP.read.fileSelector(configs)

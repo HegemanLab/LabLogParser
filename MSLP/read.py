@@ -34,17 +34,22 @@ def fileSelector(configs):
 	Uses the os.path, listdir libraries, MSLP.write, MSLP.format, MSLP.parse, MSLP.filepos
 	
 	"""
-	if(configs["Path"][len(configs["Path"])-1] == '/'):					#If the path is a folder instead of a file
-		filesToParse = [f for f in listdir(configs["Path"]) if isfile(join(configs["Path"], f))]#Get all the files in the folder
-		for files in filesToParse:										#For every file parse it
-			if(files.endswith(configs["FileExtension"]) or configs["FileExtension"] == '*'):#Only parse if it's the specified file extension or the *, which is all extensions
-				print(str(configs["Path"]+files),files," starting...", sep="")
-				MSLP.write.influxDBOutput(MSLP.format.formatOutput(MSLP.parse.parseFile(configs["Pattern"], str(configs["Path"]+files), MSLP.filepos.findFilePos(str(configs["Path"]+files),configs["LastLineFile"]),configs["LastLineFile"]),str(configs["Path"]+files), configs),configs)
-				print(str(configs["Path"]+files),files," parsed.", sep="")
-	else:
-		print(str(configs["Path"]),"starting...")
-		MSLP.write.influxDBOutput(MSLP.format.formatOutput(MSLP.parse.parseFile(configs["Pattern"], configs["Path"], MSLP.filepos.findFilePos(configs["Path"],configs["LastLineFile"]),configs["LastLineFile"]),configs["Path"], configs),configs)
-		print(str(configs["Path"]),"parsed.")
+	while(True):
+		if(configs["Path"][len(configs["Path"])-1] == '/'):					#If the path is a folder instead of a file
+			filesToParse = [f for f in listdir(configs["Path"]) if isfile(join(configs["Path"], f))]#Get all the files in the folder
+			for files in filesToParse:										#For every file parse it
+				if(files.endswith(configs["FileExtension"]) or configs["FileExtension"] == '*'):#Only parse if it's the specified file extension or the *, which is all extensions
+					if(configs["Silent"] == "1"): print(str(configs["Path"]+files),files," starting...", sep="")
+					MSLP.write.influxDBOutput(MSLP.format.formatOutput(MSLP.parse.parseFile(configs["Pattern"], str(configs["Path"]+files), MSLP.filepos.findFilePos(str(configs["Path"]+files),configs["LastLineFile"]),configs["LastLineFile"]),str(configs["Path"]+files), configs),configs)
+					if(configs["Silent"] == "1"): print(str(configs["Path"]+files),files," parsed.", sep="")
+		else:
+			if(configs["Silent"] == "1"): print(str(configs["Path"]),"starting...")
+			MSLP.write.influxDBOutput(MSLP.format.formatOutput(MSLP.parse.parseFile(configs["Pattern"], configs["Path"], MSLP.filepos.findFilePos(configs["Path"],configs["LastLineFile"]),configs["LastLineFile"]),configs["Path"], configs),configs)
+			if(configs["Silent"] == "1"): print(str(configs["Path"]),"parsed.")
+		if(configs["Repeat"] == "-1"):
+			break
+		if(configs["Silent"] == "1"): print("Done Parsing, waiting",configs["Repeat"],"seconds.")
+		time.sleep(int(configs["Repeat"]))
 
 
 def parseConfigFile(configFileLoc):
@@ -69,6 +74,7 @@ def parseConfigFile(configFileLoc):
 
 		configurations["LastLineFile"] = config.get('FILES','LastLineFile')#Get the last line file location
 		configurations["Path"] = config.get('FILES','Path')				#Get the file path to parse
+		configurations["Repeat"] = config.get('FILES','Repeat')			#Get the repeating interval
 		if(config.has_option('FILES', 'FileExtension')):				#If the user specified a file extension
 			configurations["FileExtension"] = config.get('FILES','FileExtension')#Set the file extension
 		configurations["Pattern"] = config.get('PARSER','Pattern')		#Get the parsing pattern
@@ -80,6 +86,7 @@ def parseConfigFile(configFileLoc):
 			field[n] = field[n].split(':')								#Split each field name and type into a list containing the name and type
 			n += 1
 		configurations["Fields"] = field								#Add the results to the configurations list
+		configurations["Silent"] = config.get('PARSER','Silent')
 		configurations["Host"] = config.get('INFLUXDB','Host')
 		configurations["Port"] = config.get('INFLUXDB','Port')
 		configurations["Database"] = config.get('INFLUXDB','Database')

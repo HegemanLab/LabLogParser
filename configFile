@@ -5,6 +5,8 @@ Path = /home/luke/MassSpecLogParser/Example Logs to Parse/hystar-logs/
 ;The file or folder of files to be parsed.  If it ends with a / it will parse the folder
 FileExtension = .log
 ;Optional: Only parse files with this extension 
+Repeat = -1
+; The second interval before reparsing the files. 0 means no delay, -1 means no repeating. 
 
 
 [PARSER]
@@ -20,7 +22,8 @@ TimestampPattern = %%m/%%d/%%y %%H:%%M:%%S
 Timezone: US/Central
 ;Timezone, use "local" to use the machine's timezone.  You can specify any other timezone from the pytz list.
 ;https://stackoverflow.com/questions/13866926/is-there-a-list-of-pytz-timezones
-
+Silent = 0
+;Printing progress statements or not. 1 means printing, 0 means silent
 
 [INFLUXDB]
 Host = localhost
