@@ -38,7 +38,12 @@ def fileSelector(configs):
 		if(configs["Path"][len(configs["Path"])-1] == '/'):					#If the path is a folder instead of a file
 			filesToParse = [f for f in listdir(configs["Path"]) if isfile(join(configs["Path"], f))]#Get all the files in the folder
 			for files in filesToParse:										#For every file parse it
-				if(files.endswith(configs["FileExtension"]) or configs["FileExtension"] == '*'):#Only parse if it's the specified file extension or the *, which is all extensions
+				ends = False
+				for extension in configs["FileExtension"]:
+					if(files.endswith(extension.strip()) or extension == '*'):
+						ends = True
+						break
+				if(ends):		#Only parse if it's the specified file extension or the *, which is all extensions
 					if(configs["Silent"] == "1"): print(str(configs["Path"]+files),files," starting...", sep="")
 					MSLP.write.influxDBOutput(MSLP.format.formatOutput(MSLP.parse.parseFile(configs["Pattern"], str(configs["Path"]+files), MSLP.filepos.findFilePos(str(configs["Path"]+files),configs["LastLineFile"]),configs["LastLineFile"]),str(configs["Path"]+files), configs),configs)
 					if(configs["Silent"] == "1"): print(str(configs["Path"]+files),files," parsed.", sep="")
@@ -76,7 +81,8 @@ def parseConfigFile(configFileLoc):
 		configurations["Path"] = config.get('FILES','Path')				#Get the file path to parse
 		configurations["Repeat"] = config.get('FILES','Repeat')			#Get the repeating interval
 		if(config.has_option('FILES', 'FileExtension')):				#If the user specified a file extension
-			configurations["FileExtension"] = config.get('FILES','FileExtension')#Set the file extension
+			fn1 = config.get('FILES','FileExtension')#Set the file extension
+			configurations["FileExtension"] = fn1.split(',')	
 		configurations["Pattern"] = config.get('PARSER','Pattern')		#Get the parsing pattern
 		fn = config.get('PARSER','FieldNames')							#In the configuration file datatype is stored in a comma separated list
 		field = fn.split(',')											#Make it into a list of fields followed by their type

@@ -47,7 +47,7 @@ def file_len(fname):
 	Source: https://stackoverflow.com/questions/845058/how-to-get-line-count-cheaply-in-python
 	"""
 	i = 0
-	with open(fname) as f:
+	with open(fname, errors='replace') as f:
 		for i, l in enumerate(f):
 			pass
 	return i + 1
