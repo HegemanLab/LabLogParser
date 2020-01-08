@@ -46,13 +46,13 @@ def formatOutput(parsedLogs, path, configs):
 		tags = {}
 		for key in logs.keys():
 			dataType = dataTyper(key,configs["Fields"])					#Get the data type of the key
-			if(dataType == "tag"):
+			if(dataType.lower() == "tag"):
 				tags.update({key:logs[key]})							#Add the tag name and the value to the tag dictionary
-			elif(dataType == "int"):
-				tags.update({key:str(logs[key]+'i')})					#Add the field name and the value to the field dictionary, append an i at the end to make it an int
-			elif(dataType == "float"):
-				tags.update({key:str(logs[key]+'i')})					#Add the field name and the value to the field dictionary, append an i at the end to make it an int
-			elif(dataType == "date"):
+			elif(dataType.lower() == "int"):
+				fields.update({key:logs[key]+'i'})						#Add the field name and the value to the field dictionary, append an i at the end to make it an int
+			elif(dataType.lower() == "float"):
+				fields.update({key:float(logs[key])})					#Add the field name and the value to the field dictionary, append an i at the end to make it an int
+			elif(dataType.lower() == "date"):
 				if(timestampExists == False):							#Check if a timestamp has already been added.
 					for keyT in logs.keys():
 						dT = dataTyper(keyT,configs["Fields"])			#Search through the field names for a time field
@@ -65,7 +65,7 @@ def formatOutput(parsedLogs, path, configs):
 							timestampExists = True						#Keep track if a timestamp was added
 				if(timestampExists == False):
 					fields.update({key:logs[key]})						#If it's just a date with no time, just add date as a field
-			elif(dataType == "time"):
+			elif(dataType.lower() == "time"):
 				if(timestampExists == False):							#Check if a timestamp has already been added.
 					for keyD in logs.keys():
 						dT = dataTyper(keyD,configs["Fields"])			#Search for the date field		
@@ -78,12 +78,12 @@ def formatOutput(parsedLogs, path, configs):
 							timestampExists = True						#Keep track if a timestamp was added
 				if(timestampExists == False):
 					fields.update({key:logs[key]})						#Add the field name and the value to the dictionary
-			elif(dataType == "timestamp"):
+			elif(dataType.lower() == "timestamp"):
 				timestamp = datetime.strptime(logs[key], configs["TimestampPattern"])#Convert the string to a timestamp based on the timestamp pattern given
 				timestamp = timestamp + timedelta(hours=int(datetime.now(pytz.timezone(configs["Timezone"])).strftime('%z'))/100)
 				log.update({"time":timestamp.strftime("%Y-%m-%dT%H:%M:%S.%fZ")})#Add the timestamp to the log dictionary
 				timestampExists = True									#Keep track if a timestamp was added
-			elif(dataType != "drop"):
+			elif(dataType.lower() != "drop"):
 				fields.update({key:logs[key]})							#Add the field name and the value to the dictionary
 		if(timestampExists == False):									#InfluxDB's write_point function doesn't work properly when writing points that don't have timestamps in batches
 			currentDT = datetime.utcnow()								#To work around this, I'm adding the current time as the timestamp, which is what influx would do anyway
@@ -133,6 +133,6 @@ def dataTyper(key,fields):
 	
 	"""
 	for field in fields:
-		if(field[0] == key):
+		if(field[0].strip() == key.strip()):
 			return field[1]
 	return "null"
