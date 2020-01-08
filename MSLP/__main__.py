@@ -13,6 +13,8 @@ def main():
 	as an argument.  It then calls fileSelector.
 
 	Parameters:
+	The first parameter is the repeater parameter
+	The second interval before reparsing the files. 0 means no delay, -1 means no repeating. 
 	Zero or more file paths can be passed when calling the python function that define configuration
 	files to be run
 
@@ -20,16 +22,18 @@ def main():
 	Uses the os.path and sys libraries
 	
 	"""
-	if(len(sys.argv) == 1):												#If the doesn't provide an argument use a configFile in the same directory
-		configs = MSLP.read.parseConfigFile(os.path.join(os.path.dirname(__file__), "configFile"))
-		MSLP.read.fileSelector(configs)
-	else:																#Parse the file provided.
-		n = 1
-		while(n < len(sys.argv)):										#For each config file passed
-			configs = MSLP.read.parseConfigFile(sys.argv[n])				#Parse the config file
-			MSLP.read.fileSelector(configs)								#Run the parser based on the config file's settings
-			n += 1
-
+	while(True):
+		if(len(sys.argv) == 2):												#If the doesn't provide an argument use a configFile in the same directory
+			configs = MSLP.read.parseConfigFile(os.path.join(os.path.dirname(__file__), "configFile"))
+			MSLP.read.fileSelector(configs)
+		else:																#Parse the file provided.
+			n = 2
+			while(n < len(sys.argv)):										#For each config file passed
+				configs = MSLP.read.parseConfigFile(sys.argv[n])				#Parse the config file
+				MSLP.read.fileSelector(configs)								#Run the parser based on the config file's settings
+				n += 1
+		if(sys.argv[1] == "-1"): break 
+		else: time.sleep(int(sys.argv[1]))
 
 if __name__ == "__main__":
 	main()
