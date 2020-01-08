@@ -1,7 +1,7 @@
 #The regular expression library used for the parser
 import re
 #The functions to update and retrieve last line parsed from a file
-import LLP.filepos
+import MSLP.filepos
 
 
 def parseFile(pattern, fileName, line, LastLineFile):
@@ -14,14 +14,14 @@ def parseFile(pattern, fileName, line, LastLineFile):
 	Parameters:
 	pattern (String): Receives a pattern to parse the file with
 	fileName (String): The name of the file to parse,
-	line (int): The line to start parsing the file at
+	 (int): The line to start parsing the file at
 	LastLineFile (String): The file containing the last line parsed of each file.
 	
-	Returns:
+	Returnlines:
 	parsedLogs (List): A list of dictionaries containing the parsed logs and their individual fields
 	
 	Libraries:
-	Uses the library re and LLP.filepos
+	Uses the library re and MSLP.filepos
 	"""
 
 	dataFile = open(fileName, encoding="utf8", errors='ignore')
@@ -29,7 +29,7 @@ def parseFile(pattern, fileName, line, LastLineFile):
 	for i in range(line):												#Ignore the first (line) lines of the file
 		next(dataFile, None)
 	parsedLogs = [m.groupdict() for m in re.finditer(pattern,dataFile.read(),re.UNICODE | re.MULTILINE)]
-	LLP.filepos.filePosUpdate(fileName, file_len(fileName), LastLineFile)#call a function that will adjust the line on the current file.
+	MSLP.filepos.filePosUpdate(fileName, file_len(fileName), LastLineFile)#call a function that will adjust the line on the current file.
 	dataFile.close()
 	return parsedLogs
 
