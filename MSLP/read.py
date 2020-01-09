@@ -34,7 +34,7 @@ def fileSelector(configs):
 	Uses the os.path, listdir libraries, MSLP.write, MSLP.format, MSLP.parse, MSLP.filepos
 	
 	"""
-	if(configs["Path"][len(configs["Path"])-1] == '/'):					#If the path is a folder instead of a file
+	if(configs["Path"][len(configs["Path"])-1] == '/' or configs["Path"][len(configs["Path"])-1] == '\\'):#If the path is a folder instead of a file
 		filesToParse = [f for f in listdir(configs["Path"]) if isfile(join(configs["Path"], f))]#Get all the files in the folder
 		for files in filesToParse:										#For every file parse it
 			ends = False

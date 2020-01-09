@@ -16,6 +16,7 @@ def influxDBOutput(formattedLogs,configs):
 	Libraries:
 	Uses the influxdb library
 	"""
+
 	client = InfluxDBClient(host=configs["Host"], port=configs["Port"])	#Connect to the influxdb database located at the location provided by the config file
 	client.create_database(configs["Database"])							#Create the database, if it already exists nothing happens
 	client.switch_database(configs["Database"])							#Switch to the database
