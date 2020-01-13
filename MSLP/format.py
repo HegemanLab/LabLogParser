@@ -53,8 +53,10 @@ def formatOutput(parsedLogs, path, configs):
 			dataType = dataTyper(key,configs["Fields"])					#Get the data type of the key
 			if(dataType.lower() == "tag"):
 				tags.update({key:logs[key]})							#Add the tag name and the value to the tag dictionary
-			elif(dataType.lower() == "int"):
-				fields.update({key:logs[key]+'i'})						#Add the field name and the value to the field dictionary, append an i at the end to make it an int
+				if(configs["TagAsField"] == "1"):
+					fields.update({key:logs[key]})						#Add the field name and the value to the dictionary
+			elif(dataType.lower() == "int" or dataType.lower() == "integer"):
+				fields.update({key:int(logs[key])})						#Add the field name and the value to the field dictionary, append an i at the end to make it an int
 			elif(dataType.lower() == "float"):
 				fields.update({key:float(logs[key])})					#Add the field name and the value to the field dictionary, append an i at the end to make it an int
 			elif(dataType.lower() == "date"):

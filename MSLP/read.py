@@ -88,7 +88,14 @@ def parseConfigFile(configFileLoc):
 			field[n] = field[n].split(':')								#Split each field name and type into a list containing the name and type
 			n += 1
 		configurations["Fields"] = field								#Add the results to the configurations list
-		configurations["Silent"] = config.get('PARSER','Silent')
+		if(config.has_option('PARSER', 'Silent')):						#If a silent option is given
+			configurations["Silent"] = config.get('PARSER','Silent')
+		else:
+			configurations["Silent"] = "0"
+		if(config.has_option('PARSER', 'TagAsField')):						#If a silent option is given
+			configurations["TagAsField"] = config.get('PARSER','TagAsField')
+		else:
+			configurations["TagAsField"] = "0"
 		configurations["Host"] = config.get('INFLUXDB','Host')
 		configurations["Port"] = config.get('INFLUXDB','Port')
 		configurations["Database"] = config.get('INFLUXDB','Database')
