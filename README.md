@@ -16,6 +16,7 @@ MSLP [repeater] [/path/to/configFile] [/path/to/configFile]
 ### Installing as a windows service
 * Install [Anaconda](https://www.anaconda.com/distribution/#download-section)
 * [Download NSSM](https://nssm.cc/)
+* From the MassSpecLogParser file run `python3 setup.py install`
 * Edit Service.bat to include the location of the Anaconda installation and location of the MassSpecLogParser folder
 * Place the NSSM folder in a permanent location
 * From CMD run `.\nssm.exe install MassSpecLogParser`
