@@ -19,6 +19,13 @@ def filePosUpdate(fileName, newLine, LastLineFile):
 	Libraries:
 	Uses the library os.path
 	"""
+	last = ""
+
+	with open(fileName, 'rb') as fh:
+		for line in fh:
+			pass
+		last = line
+
 	fileLines = []														#Will contain the current contents of the last line parsed file
 	fileFound = False													#Used to keep track if the file name already existed in the last line parsed file 
 	if(os.path.isfile(LastLineFile)):									#If the file exists, grab the contents
@@ -26,22 +33,31 @@ def filePosUpdate(fileName, newLine, LastLineFile):
 	
 		for line in readIn:
 			currentLine = line.split(",")								#Split each line at the comma
+			print(currentLine)
 			fileLines.append(currentLine)								#Add the split line to the list
+			currentLine = []
 
 		for i in fileLines:												#Search through the list for the passed fileName
 			if(i[0] == fileName):										#if it was found
 				i[1] = newLine											#Update the last line parsed
+				i[2] = last												#Update the last line parsed
 				fileFound = True										#set the flag to state the file was found
 				break													#Break out of the for loop, the file was found
 		readIn.close()													#Close the file for reading
 
+
+
 	if(fileFound == False):												#If the file wasn't found, just append it to the end of the list
-		fileLines.append([fileName,newLine])
+		fileLines.append([fileName,newLine,last])
 
 	out = open(LastLineFile, 'w')										#Open the file in overwrite mode
+
+
 	for j in fileLines:
-		output = str(j[0])+','+str(int(j[1]))+'\n'						#Output the contents of the last line parsed list
-		out.write(output)
+		if(len(j) == 3):
+			output = str(j[0])+','+str(int(j[1]))+','+str(j[2])+'\n'						#Output the contents of the last line parsed list	
+
+			out.write(output)
 
 
 def findFilePos(fileName, LastLineFile):

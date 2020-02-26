@@ -2,9 +2,10 @@
 import re
 #The functions to update and retrieve last line parsed from a file
 import MSLP.filepos
+import os
+import shutil 
 
-
-def parseFile(pattern, fileName, line, LastLineFile):
+def parseFile(pattern, fileName, LastLineFile):
 	"""
 	A function that parses a given file with a given pattern, staring at a given line
 	
@@ -23,14 +24,16 @@ def parseFile(pattern, fileName, line, LastLineFile):
 	Libraries:
 	Uses the library re and MSLP.filepos
 	"""
-
-	dataFile = open(fileName, encoding="utf8", errors='ignore')
+	dest = shutil.copyfile(fileName, str(fileName+".tmp"))
+	dataFile = open(fileName+".tmp", encoding="utf8", errors='ignore')
+	line = MSLP.filepos.findFilePos(fileName,LastLineFile)
 	parsedLogs = []														#Create a empty list to hold the parsed logs
 	for i in range(line):												#Ignore the first (line) lines of the file
 		next(dataFile, None)
 	parsedLogs = [m.groupdict() for m in re.finditer(pattern,dataFile.read(),re.UNICODE | re.MULTILINE)]
-	MSLP.filepos.filePosUpdate(fileName, file_len(fileName), LastLineFile)#call a function that will adjust the line on the current file.
+	MSLP.filepos.filePosUpdate(fileName, file_len(fileName+".tmp"), LastLineFile)#call a function that will adjust the line on the current file.
 	dataFile.close()
+	os.remove(fileName+".tmp") 
 	return parsedLogs
 
 
